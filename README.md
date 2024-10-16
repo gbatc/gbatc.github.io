@@ -1,1 +1,1 @@
-# 2024 Great Bay Area Topology Conference: Topological data analysis and deep learning
+# Great Bay Area Topology Conference
