@@ -11,25 +11,12 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Features
+## Speakers
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- [**Hongwei Lin**](https://person.zju.edu.cn/hwlin) (Zhejiang University)
+- [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/) (Nanyang Technological University)
 
-## Examples
+## Schedule
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
@@ -37,9 +24,18 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 
-## Installation
+## Organizers
 
-### Quick setup
+- [**Xiaoming Du**](http://www2.scut.edu.cn/math/2017/1229/c14638a318362/page.htm) (South China University of Technology)
+- **Feifei Fan** (South China Normal University) 
+- [**Pengcheng Li**](https://lipcaty.github.io/) (Great Bay University)
+- [**Hao Liang**]([https://math.sysu.edu.cn/teacher/648](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html)) (Foshan University)
+- **Dengpin Liu** (Guangxi Normal University)
+- [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm) (Shantou University)
+- [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724) (South China Normal University)
+- [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/) (Southern University of Science and Technology)
+
+### Local information
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
