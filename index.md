@@ -1,13 +1,13 @@
 ---
-title: Great Bay Area Topology Conference
+title: Greater Bay Area Topology Conference
 feature_text: |
-  ## 2024 Great Bay Area Topology Conference: Topological data analysis and deep learning
+  ## 2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning
   November 22–24, 2024 | Southern University of Science and Technology
 feature_image: "https://miro.medium.com/v2/resize:fit:1024/1*aAqC_hPMWONt3-XUwvmyBA.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and between domestic regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology in data science and artificial intelligence."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and between domestic regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology in data science and artificial intelligence.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
