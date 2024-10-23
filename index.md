@@ -46,7 +46,7 @@ To give you a running start I've put together some starter kits that you can dow
 - [**Xiaoming Du**](http://www2.scut.edu.cn/math/2017/1229/c14638a318362/page.htm), South China University of Technology
 - **Feifei Fan**, South China Normal University
 - [**Pengcheng Li**](https://lipcaty.github.io/), Great Bay University
-- [**Hao Liang**]([https://math.sysu.edu.cn/teacher/648](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html), Foshan University
+- [**Hao Liang**](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html), Foshan University
 - **Dengpin Liu**, Guangxi Normal University
 - [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm), Shantou University
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724), South China Normal University
