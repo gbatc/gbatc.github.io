@@ -1,5 +1,5 @@
 ---
-title: About the conference
+title: Greater Bay Area Topology Conference
 feature_text: |
   ## 2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning
   November 22–24, 2024 | Southern University of Science and Technology
