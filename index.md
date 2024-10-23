@@ -8,9 +8,9 @@ excerpt: "The theme of this conference is topological data analysis and deep lea
 ---
 
 The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and between domestic regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology in data science and artificial intelligence.
-<!---
+
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
---->
+
 ## Speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
