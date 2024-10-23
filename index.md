@@ -4,10 +4,10 @@ feature_text: |
   ## 2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning
   November 22–24, 2024 | Southern University of Science and Technology | Shenzhen
 feature_image: "https://gbatc.github.io/assets/gbatc.jpeg"
-excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and between domestic regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology in data science and artificial intelligence."
+excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence."
 ---
 
-The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and between domestic regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology in data science and artificial intelligence.
+The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for cooperation with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence.
 
 ## Speakers
 
