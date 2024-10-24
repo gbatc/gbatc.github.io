@@ -131,6 +131,8 @@ navigation_header:
   url: /#local
 - title: Organizers
   url: /#organizers
+- title: Participants
+  url: /#participants
 
 navigation_footer:
 - title: Site template created by David Darnes
