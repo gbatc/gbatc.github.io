@@ -32,3 +32,17 @@ The theme of this conference is topological data analysis and deep learning. It 
 - [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm){:target="_blank"}, Shantou University
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
+
+
+
+## <a name="participants"></a>Participants
+
+- **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
+- **Hana Jia Kong**, Zhejiang University
+- **Fengchun Lei**, Dalian University of Technology
+- **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
+- **Yanlin Li**, Hangzhou Normal University
+- **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
+- **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
+- **Bingxu Wang**, Peking University Shenzhen Graduate School
+- **Ruyang Yu**, Southern University of Science and Technology
