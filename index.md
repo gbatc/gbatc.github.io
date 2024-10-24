@@ -42,7 +42,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 - **Fengchun Lei**, Dalian University of Technology
 - **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
 - **Yanlin Li**, Hangzhou Normal University
-- **Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
+- **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
 - **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
 - **Runfeng Yang**, Southern University of Science and Technology
