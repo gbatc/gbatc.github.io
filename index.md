@@ -40,6 +40,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
+- **Yan Fu**, Nankai University
 - **Yunan He**, Chongqing University of Technology
 - **Hana Jia Kong**, Zhejiang University
 - **Fengchun Lei**, Dalian University of Technology
