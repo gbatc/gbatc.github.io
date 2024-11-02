@@ -39,6 +39,9 @@ The theme of this conference is topological data analysis and deep learning. It 
 ## <a name="participants"></a>Participants
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
+- **Zeyang Ding**, Southern University of Science and Technology
+- **Xiaoming Du**, South China University of Technology
+- **Feifei Fan**, South China Normal University
 - **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
 - **Yan Fu**, Nankai University
 - **Yunan He**, Chongqing University of Technology
@@ -46,10 +49,24 @@ The theme of this conference is topological data analysis and deep learning. It 
 - **Fengchun Lei**, Dalian University of Technology
 - **Fengling Li**, Dalian University of Technology
 - **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
+- **Pengcheng Li**, Great Bay University
 - **Yanlin Li**, Hangzhou Normal University
+- **Hao Liang**, Foshan University
+- **Hongwei Lin**, Zhejiang University
 - **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
+- **Dengpin Liu**, Guangxi Normal University
 - **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
+- **Yuhe Qin**, Southern University of Science and Technology
+- **Qingrui Qu**, Southern University of Science and Technology
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
+- **Enxin Wu**, Shantou University
+- **Kelin Xia**, Nanyang Technological University
 - **Runfeng Yang**, Southern University of Science and Technology
+- **Siheng Yi**, Southern University of Science and Technology
+- **Meng Yu**, Tencent AI Lab
 - **Ruyang Yu**, Southern University of Science and Technology
+- **Zhiwang Yu**, Southern University of Science and Technology
+- **Haiyu Zhang**, Southern University of Science and Technology
+- **Hao Zhao**, South China Normal University
 - **Xuezhi Zhao**, Capital Normal University
+- **Yifei Zhu**, Southern University of Science and Technology
