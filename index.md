@@ -13,6 +13,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
+- [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
 
 ## <a name="schedule"></a>Schedule
 
