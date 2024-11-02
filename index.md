@@ -12,7 +12,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 ## <a name="speakers"></a>Speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
-- [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
+- [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School, *to be confirmed*
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
 - [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab, *to be confirmed*
 
