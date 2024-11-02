@@ -38,9 +38,12 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 ## <a name="participants"></a>Participants
 
+- **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
+- **Yunan He**, Chongqing University of Technology
 - **Hana Jia Kong**, Zhejiang University
 - **Fengchun Lei**, Dalian University of Technology
+- **Fengling Li**, Dalian University of Technology
 - **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
 - **Yanlin Li**, Hangzhou Normal University
 - **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
@@ -48,3 +51,4 @@ The theme of this conference is topological data analysis and deep learning. It 
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
 - **Runfeng Yang**, Southern University of Science and Technology
 - **Ruyang Yu**, Southern University of Science and Technology
+- **Xuezhi Zhao**, Capital Normal University
