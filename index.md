@@ -57,6 +57,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 - **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
 - **Dengpin Liu**, Guangxi Normal University
 - **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
+- **Feng Pan**, Peking University Shenzhen Graduate School
 - **Yuhe Qin**, Southern University of Science and Technology
 - **Qingrui Qu**, Southern University of Science and Technology
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
