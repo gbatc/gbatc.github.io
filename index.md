@@ -19,7 +19,31 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 ## <a name="schedule"></a>Schedule
 
+<h3>Fri. Nov. 22</h3>
 
+16:00, Coffee & Refreshments<br />
+
+16:30&ndash;17:30, <b>Hongwei Lin</b>, 
+<a onclick="toggle_visibility('1');"><i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing</i></a><br /><div id="1" class="toshow" style="display:none">             
+  Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
+  topological problems in computer applications, as well as the design of algorithms for topological problems.  As a subject to 
+  apply computational topology to the field of data processing, topological data analysis has been developed.  It has been 
+  widely used in biomedicine, drug design, financial analysis, machine learning, and other fields.  The main tools in 
+  computational topology and topological data analysis are persistent homology and Mapper.  Persistent homology constructs a 
+  sequence of gradually "growing" simplicial complexes in a metric space, computes the persisting homological features 
+  (generators in the persistent homology groups), and infers the importance of the features based on the life span of these 
+  homological features, thereby enabling the inference and extraction of global topological features of the discrete data set.  
+  On the other hand, Mapper extracts the main topological structure of the data set by defining a reference mapping on the data 
+  set and using data segmentation and clustering.  Since almost 10 years ago, the CAGD research group of Zhejiang University 
+  has applied computational 
+            topology methods to geometric design and geometric processing, and developed a series of computer-aided topological design methods.  This talk will introduce a 
+            series of work in this area, including curve and surface reconstruction technology based on topological understanding, and topological control methods in 
+            implicit curve and surface reconstruction.  Furthermore, persistent homology has been applied to the field of porous structure processing, and a variety of 
+            topological descriptors have been designed for porous structure retrieval and classification; porous structure generation technology that ensures connectivity 
+            has been developed; porous thickness computation technology that preserves topological structure and porous model slicing method have been proposed in 3D 
+            printing of porous structures.
+</div>
+            
 
 ## <a name="local"></a>Local information
 
