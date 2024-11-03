@@ -9,6 +9,7 @@ excerpt: "The theme of this conference is topological data analysis and deep lea
 
 The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence.
 
+
 ## <a name="speakers"></a>Speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
@@ -16,6 +17,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School, *to be confirmed*
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
 - [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab, *to be confirmed*
+
 
 ## <a name="schedule"></a>Schedule
 
@@ -51,7 +53,9 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 
 
+
 ## <a name="local"></a>Local information
+
 
 
 
@@ -66,6 +70,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
 
+Contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com).
 
 
 ## <a name="participants"></a>Participants
