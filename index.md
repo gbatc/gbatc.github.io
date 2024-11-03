@@ -71,7 +71,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
 
-Contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com).
+Contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
 ## <a name="participants"></a>Participants
