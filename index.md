@@ -25,7 +25,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 16:00, Coffee & Refreshments in M712, College of Science<br />
 
-16:30&ndash;17:30, M1001, 
+16:30&ndash;17:30, M1001 
 <details>
   <summary>
     <b>Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
