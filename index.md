@@ -23,7 +23,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 <h3>Fri. Nov. 22</h3>
 
-16:00, Coffee & Refreshments in M712, College of Science<br />
+16:00, Coffee & refreshments in M712, College of Science<br />
 
 16:30&ndash;17:30, M1001 
 <details>
