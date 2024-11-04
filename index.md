@@ -97,6 +97,7 @@ Contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook
 - **Feng Pan**, Peking University Shenzhen Graduate School
 - **Yuhe Qin**, Southern University of Science and Technology
 - **Qingrui Qu**, Southern University of Science and Technology
+- **Yang Su**, Chinese Academy of Sciences
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
 - **Enxin Wu**, Shantou University
 - **Kelin Xia**, Nanyang Technological University
