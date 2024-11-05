@@ -47,7 +47,7 @@ The theme of this conference is topological data analysis and deep learning. It 
   surface reconstruction.  Furthermore, persistent homology has been applied to the field of porous structure processing, and 
   a variety of topological descriptors have been designed for porous structure retrieval and classification; porous structure 
   generation technology that ensures connectivity has been developed; porous thickness computation technology that preserves 
-  topological structure and porous model slicing method have been proposed in 3D printing of porous structures.  
+  topological structure and porous model slicing method have been proposed in 3D printing of porous structures.
 </details>
             
 <h3>Sat. Nov. 23</h3>
