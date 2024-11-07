@@ -51,7 +51,7 @@ There will be a Departmental Tea at 16:00 in M712, College of Science.  All are 
             
 <h3>Sat. Nov. 23</h3>
 
-The morning session takes place in M1001.  The afternoon session takes place in Lecture Hall 3-106.
+The morning session takes place in M1001, College of Science.  The afternoon session takes place in Lecture Hall 3-106.
 
 <details>
   <summary>
