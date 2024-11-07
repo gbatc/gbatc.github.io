@@ -48,7 +48,7 @@ There will be a Departmental Tea at 16:00 in M712, College of Science.  All are 
   generation technology that ensures connectivity has been developed; porous thickness computation technology that preserves 
   topological structure and porous model slicing method have been proposed in 3D printing of porous structures.
 </details>
-</br>
+<br>
             
 <h3>Sat. Nov. 23</h3>
 
@@ -60,7 +60,7 @@ The morning session takes place in M1001.  The afternoon session takes place in 
   </summary>
   TBA
 </details>
-</br>
+<br>
 
 **10:30 Break**
 
@@ -70,7 +70,7 @@ The morning session takes place in M1001.  The afternoon session takes place in 
   </summary>
   TBA
 </details>
-</br>
+<br>
 
 **12:00 Lunch**
 
@@ -80,7 +80,7 @@ The morning session takes place in M1001.  The afternoon session takes place in 
   </summary>
   TBA
 </details>
-</br>
+<br>
 
 **15:30 Break**
 
@@ -90,7 +90,7 @@ The morning session takes place in M1001.  The afternoon session takes place in 
   </summary>
   TBA
 </details>
-</br>
+<br>
 
 **18:00 Dinner at TBA**
 
