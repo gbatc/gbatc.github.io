@@ -23,9 +23,9 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 <h3>Fri. Nov. 22</h3>
 
-16:00, Coffee & refreshments in M712, College of Science<br />
+**16:00 Coffee & refreshments in M712, College of Science**<br />
 
-16:30&ndash;17:30, M1001 
+**16:30 M1001** 
 <details>
   <summary>
     <b>Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
@@ -52,7 +52,47 @@ The theme of this conference is topological data analysis and deep learning. It 
             
 <h3>Sat. Nov. 23</h3>
 
+**9:30 M1001**
+<details>
+  <summary>
+    <b>Prof. Feng Pan</b>, <i>TBA</i>
+  </summary>
+  TBA
+</details>
 
+**10:30 Break**
+
+**11:00 M1001**
+<details>
+  <summary>
+    <b>TBD</b>, <i>TBA</i>
+  </summary>
+  TBA
+</details>
+
+**12:00 Lunch**
+
+**14:30 Lecture Hall 3-106**
+<details>
+  <summary>
+    <b>TBD</b>, <i>TBA</i>
+  </summary>
+  TBA
+</details>
+
+**15:30 Break**
+
+**16:00 Lecture Hall 3-106**
+<details>
+  <summary>
+    <b>TBD</b>, <i>TBA</i>
+  </summary>
+  TBA
+</details>
+
+**18:00 Dinner at TBA**
+
+<h3>Sun. Nov. 24</h3>
 
 
 ## <a name="local"></a>Local information
