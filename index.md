@@ -27,7 +27,7 @@ There will be a Departmental Tea at 16:00 in M712, College of Science.  All are 
 
 <details>
   <summary>
-    <b>16:00 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
+    <b>16:30 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
     and processing</i>
   </summary>
   Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
