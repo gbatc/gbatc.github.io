@@ -23,12 +23,11 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 <h3>Fri. Nov. 22</h3>
 
-**16:00 Coffee & refreshments in M712, College of Science**<br />
+There will be a Departmental Tea at 16:00 in M712, College of Science.  All are welcome.  The Mathematics Colloquium takes place in M1001.
 
-**16:30 M1001** 
 <details>
   <summary>
-    <b>Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
+    <b>16:00 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
     and processing</i>
   </summary>
   Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
@@ -52,40 +51,38 @@ The theme of this conference is topological data analysis and deep learning. It 
             
 <h3>Sat. Nov. 23</h3>
 
-**9:30 M1001**
+The morning session takes place in M1001.  The afternoon session takes place in Lecture Hall 3-106.
+
 <details>
   <summary>
-    <b>Prof. Feng Pan</b>, <i>TBA</i>
+    <b>9:30 Prof. Feng Pan</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
 
 **10:30 Break**
 
-**11:00 M1001**
 <details>
   <summary>
-    <b>TBD</b>, <i>TBA</i>
+    <b>11:00 TBD</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
 
 **12:00 Lunch**
 
-**14:30 Lecture Hall 3-106**
 <details>
   <summary>
-    <b>TBD</b>, <i>TBA</i>
+    <b>14:30 TBD</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
 
 **15:30 Break**
 
-**16:00 Lecture Hall 3-106**
 <details>
   <summary>
-    <b>TBD</b>, <i>TBA</i>
+    <b>16:00 TBD</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
