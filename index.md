@@ -13,10 +13,10 @@ The theme of this conference is topological data analysis and deep learning. It 
 ## <a name="speakers"></a>Invited speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
-- [**Quanying Liu**](https://www.sustech.edu.cn/zh/faculties/liuquanying.html){:target="_blank"}, Southern University of Science and Technology, *to be confirmed*
+[//]: # (- [**Quanying Liu**](https://www.sustech.edu.cn/zh/faculties/liuquanying.html){:target="_blank"}, Southern University of Science and Technology, *to be confirmed*)
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
-- [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab, *to be confirmed*
+- [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
 
 
 ## <a name="schedule"></a>Schedule
@@ -68,7 +68,7 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>11:00 TBD</b>, <i>TBA</i>
+    <b>11:00 Prof. Kelin Xia</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
@@ -81,7 +81,7 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>14:30 TBD</b>, <i>TBA</i>
+    <b>14:30 Dr. Meng Yu</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
@@ -94,9 +94,9 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>16:00 TBD</b>, <i>TBA</i>
+    <b>16:00 Panel discussion</b>, <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
   </summary>
-  TBA
+  This will be a moderated conversation between the audience and the invited panelists, based on their experiences and practices.
 </details>
 
 <details>
@@ -126,7 +126,7 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
 
-Contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
+If you have any questions, comments or suggestions, please contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
 ## <a name="participants"></a>Participants
