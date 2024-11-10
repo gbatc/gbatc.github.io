@@ -13,7 +13,7 @@ The theme of this conference is topological data analysis and deep learning. It 
 ## <a name="speakers"></a>Invited speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
-[//]: # (- [**Quanying Liu**](https://www.sustech.edu.cn/zh/faculties/liuquanying.html){:target="_blank"}, Southern University of Science and Technology, *to be confirmed*)
+[comment]: <> (- [**Quanying Liu**](https://www.sustech.edu.cn/zh/faculties/liuquanying.html){:target="_blank"}, Southern University of Science and Technology, *to be confirmed*)
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
 - [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
