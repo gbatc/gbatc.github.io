@@ -24,7 +24,9 @@ intelligence.
 - [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
 
 
-## <a name="schedule"></a>Schedule (updated Nov. 11)
+## <a name="schedule"></a>Schedule
+
+Updated Nov. 11.  
 
 <h3>Fri. Nov. 22</h3>
 
@@ -137,7 +139,9 @@ Information on travel, lodging, etc. will be posted here soon.
 If you have any questions, comments or suggestions, please contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
-## <a name="participants"></a>Participants (updated Nov. 11)
+## <a name="participants"></a>Participants
+
+Updated Nov. 11.  
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Zeyang Ding**, Southern University of Science and Technology
