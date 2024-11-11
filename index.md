@@ -110,6 +110,8 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <h3>Sun. Nov. 24</h3>
 
+Free discussion.  
+
 <br>
 
 
