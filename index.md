@@ -129,6 +129,8 @@ Information on travel, lodging, etc. will be posted here soon.
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
 
+- Assistant: [**Leyuan Shen**](mailto:shenly@mail.sustech.edu.cn){:target="_blank"}, Southern University of Science and Technology
+
 If you have any questions, comments or suggestions, please contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
