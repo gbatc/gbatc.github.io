@@ -4,7 +4,10 @@ feature_text: |
   ## <span style="color:white">2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning</span>
   <span style="color:white">November 22–24, 2024 | Southern University of Science and Technology | Shenzhen</span>
 feature_image: "https://gbatc.github.io/assets/gbatc1.jpeg"
-excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence."
+excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and 
+scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform 
+for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
+intelligence."
 ---
 
 The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars 
@@ -21,7 +24,7 @@ intelligence.
 - [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
 
 
-## <a name="schedule"></a>Schedule
+## <a name="schedule"></a>Schedule (updated Nov. 11)
 
 <h3>Fri. Nov. 22</h3>
 
@@ -30,8 +33,8 @@ takes place in M1001:
 
 <details>
   <summary>
-    <b>16:30 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric design 
-    and processing</i>
+    <b>16:30 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric 
+    design and processing</i>
   </summary>
   Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
   topological problems in computer applications, as well as the design of algorithms for topological problems.  As a subject 
@@ -134,7 +137,7 @@ Information on travel, lodging, etc. will be posted here soon.
 If you have any questions, comments or suggestions, please contact the organizers at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
-## <a name="participants"></a>Participants
+## <a name="participants"></a>Participants (updated Nov. 11)
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Zeyang Ding**, Southern University of Science and Technology
