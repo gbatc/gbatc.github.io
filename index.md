@@ -13,7 +13,7 @@ collaboration with the industry and interdisciplinary fields, and explore the ap
 intelligence.  
 
 
-## <a name="speakers"></a>Invited speakers
+## <a name="speakers"></a>Invited Speakers
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
@@ -112,12 +112,10 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 Free discussion.  
 
-<br>
-
 
 ## <a name="local"></a>Local information
 
-
+Information on travel, lodging, etc. will be posted here soon.  
 
 
 ## <a name="organizers"></a>Organizers
