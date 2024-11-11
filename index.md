@@ -7,7 +7,10 @@ feature_image: "https://gbatc.github.io/assets/gbatc1.jpeg"
 excerpt: "The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence."
 ---
 
-The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial intelligence.
+The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars 
+in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for 
+collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
+intelligence.  
 
 
 ## <a name="speakers"></a>Invited speakers
@@ -22,7 +25,8 @@ The theme of this conference is topological data analysis and deep learning. It 
 
 <h3>Fri. Nov. 22</h3>
 
-There will be a Departmental Tea at 16:00 in M712, College of Science.  All are welcome.  The Mathematics Colloquium takes place in M1001.
+There will be a Departmental Tea at 16:00 in M712, College of Science.  All are welcome.  The Mathematics Colloquium / opening talk 
+takes place in M1001: 
 
 <details>
   <summary>
