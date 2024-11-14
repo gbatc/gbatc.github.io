@@ -76,9 +76,9 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>11:00 Prof. Kelin Xia</b>, <i>TBA</i>
+    <b>11:00 Prof. Kelin Xia</b>, <i>Mathematical AI for Molecular Sciences</i>
   </summary>
-  TBA
+  Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental data, computational power and learning models. However, a major issue that remains for all these AI-based learning models is the efficient molecular representations and featurization. Here we propose advanced mathematics-based molecular representations and featurization. Molecular structures and their interactions are represented by high-order topological and algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, R-Torsion, etc) are used as molecular descriptors for learning models. Further, we develop geometric and topological deep learning models to systematically incorporate molecular high-order, multiscale, and periodic information, and use them for analyzing molecular data from chemistry, biology, and materials.
 </details>
 
 <details>
