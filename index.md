@@ -74,7 +74,7 @@ Tencent AI Lab\
 **TBA**
 
 
-## <a name="schedule"></a>Schedule
+## <a name="schedule"></a>Tentative Schedule
 
 Updated Nov. 15.  
 
