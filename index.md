@@ -19,13 +19,9 @@ intelligence.
 ## <a name="speakers"></a>Invited Speakers (A-Z)
 
 <img src="https://gbatc.github.io/assets/Lin.png" width="200"/>
-
-[**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}
-
-Zhejiang University
-
-**Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing**
-
+[**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}\
+Zhejiang University\
+**Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing**\
 Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
 topological problems in computer applications, as well as the design of algorithms for topological problems.  As a subject 
 to apply computational topology to the field of data processing, topological data analysis has been developed.  It has been 
@@ -43,6 +39,8 @@ surface reconstruction.  Furthermore, persistent homology has been applied to th
 a variety of topological descriptors have been designed for porous structure retrieval and classification; porous structure 
 generation technology that ensures connectivity has been developed; porous thickness computation technology that preserves 
 topological structure and porous model slicing method have been proposed in 3D printing of porous structures.
+
+<img src="https://gbatc.github.io/assets/Pan.png" width="200"/>
 
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
 - [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
