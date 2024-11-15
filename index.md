@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/abe4b465-273c-4029-aa75-d665e47a763e)![image](https://github.com/user-attachments/assets/86098cf4-8704-4cf8-9ce3-9b42677c06a3)---
+---
 title: Greater Bay Area Topology Conference
 feature_text: |
   ## <span style="color:white">2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning</span>
