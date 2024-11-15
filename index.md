@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/abe4b465-273c-4029-aa75-d665e47a763e)![image](https://github.com/user-attachments/assets/86098cf4-8704-4cf8-9ce3-9b42677c06a3)---
 title: Greater Bay Area Topology Conference
 feature_text: |
   ## <span style="color:white">2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning</span>
@@ -43,7 +43,7 @@ takes place in M1001:
   to apply computational topology to the field of data processing, topological data analysis has been developed.  It has been 
   widely used in biomedicine, drug design, financial analysis, machine learning, and other fields.  The main tools in 
   computational topology and topological data analysis are persistent homology and Mapper.  Persistent homology constructs a 
-  sequence of gradually "growing" simplicial complexes in a metric space, computes the persisting homological features 
+  sequence of gradually “growing” simplicial complexes in a metric space, computes the persisting homological features 
   (generators in the persistent homology groups), and infers the importance of the features based on the life span of these 
   homological features, thereby enabling the inference and extraction of global topological features of the discrete data 
   set.  On the other hand, Mapper extracts the main topological structure of the data set by defining a reference mapping on 
@@ -63,9 +63,17 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>9:30 Prof. Feng Pan</b>, <i>TBA</i>
+    <b>9:30 Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes in Li-ion batteries</i>
   </summary>
-  TBA
+  Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in 
+  Li-ion batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data 
+  system, we aim to incorporate artificial intelligence and investigate the fundamental questions of “what are material genes?” 
+  and “how to conduct research on material genes in lithium-ion batteries?”.  In this report, several cutting-edge 
+  interdisciplinary fields will be introduced, including structural chemistry based on graph theory, big data of materials, 
+  lithium-ion battery material genes, super-exchange interaction of d-orbital spinning electrons in transitional metals, 
+  structure characterizations via large scientific facilities such as synchrotron and neutron radiation, etc.  The above 
+  investigations attempt to inspire new paradigms for material research, thus advancing the development of critical materials 
+  in lithium-ion batteries.  
 </details>
 
 <details>
@@ -78,7 +86,15 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
   <summary>
     <b>11:00 Prof. Kelin Xia</b>, <i>Mathematical AI for Molecular Sciences</i>
   </summary>
-  Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental data, computational power and learning models. However, a major issue that remains for all these AI-based learning models is the efficient molecular representations and featurization. Here we propose advanced mathematics-based molecular representations and featurization. Molecular structures and their interactions are represented by high-order topological and algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, R-Torsion, etc) are used as molecular descriptors for learning models. Further, we develop geometric and topological deep learning models to systematically incorporate molecular high-order, multiscale, and periodic information, and use them for analyzing molecular data from chemistry, biology, and materials.
+  Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in 
+  experimental data, computational power and learning models. However, a major issue that remains for all these AI-based 
+  learning models is the efficient molecular representations and featurization. Here we propose advanced mathematics-based 
+  molecular representations and featurization. Molecular structures and their interactions are represented by high-order 
+  topological and algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, 
+  Tor-algebra, etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, 
+  R-Torsion, etc) are used as molecular descriptors for learning models. Further, we develop geometric and topological deep 
+  learning models to systematically incorporate molecular high-order, multiscale, and periodic information, and use them for 
+  analyzing molecular data from chemistry, biology, and materials.
 </details>
 
 <details>
