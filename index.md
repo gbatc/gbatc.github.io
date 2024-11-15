@@ -18,7 +18,7 @@ intelligence.
 
 ## <a name="speakers"></a>Invited Speakers (A-Z)
 
-![image info](https://gbatc.github.io/assets/Lin.png)
+<img src="https://gbatc.github.io/assets/Lin.png" width="200"/>
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
