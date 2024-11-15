@@ -16,7 +16,9 @@ collaboration with the industry and interdisciplinary fields, and explore the ap
 intelligence.  
 
 
-## <a name="speakers"></a>Invited Speakers
+## <a name="speakers"></a>Invited Speakers (A-Z)
+
+![image info](https://gbatc.github.io/assets/Lin.png)
 
 - [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}, Zhejiang University
 - [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
