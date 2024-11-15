@@ -76,7 +76,7 @@ Tencent AI Lab\
 
 ## <a name="schedule"></a>Schedule
 
-Updated Nov. 11.  
+Updated Nov. 15.  
 
 <h3>Fri. Nov. 22</h3>
 
@@ -207,7 +207,7 @@ If you have any questions, comments or suggestions, please contact the organizer
 
 ## <a name="participants"></a>Participants
 
-Updated Nov. 11.  
+Updated Nov. 15.  
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Zeyang Ding**, Southern University of Science and Technology
@@ -227,6 +227,7 @@ Updated Nov. 11.
 - **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
 - **Dengpin Liu**, Guangxi Normal University
 - **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
+- **Yang Ming**, Hubei Polytechnic University
 - **Feng Pan**, Peking University Shenzhen Graduate School
 - **Yuhe Qin**, Southern University of Science and Technology
 - **Qingrui Qu**, Southern University of Science and Technology
