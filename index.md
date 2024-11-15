@@ -18,7 +18,7 @@ intelligence.
 
 ## <a name="speakers"></a>Invited Speakers (A-Z)
 
-<img src="https://gbatc.github.io/assets/Lin.png" width="200"/>
+<img src="https://gbatc.github.io/assets/Lin.png" width="200"/>\
 [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}\
 Zhejiang University\
 **Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing**\
@@ -40,11 +40,38 @@ a variety of topological descriptors have been designed for porous structure ret
 generation technology that ensures connectivity has been developed; porous thickness computation technology that preserves 
 topological structure and porous model slicing method have been proposed in 3D printing of porous structures.
 
-<img src="https://gbatc.github.io/assets/Pan.png" width="200"/>
+<img src="https://gbatc.github.io/assets/Pan.png" width="200"/>\
+[**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}\
+Peking University Shenzhen Graduate School\
+**Graph-theory-based exploration of structural chemistry and material genes in Li-ion batteries**\
+Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in 
+Li-ion batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data 
+system, we aim to incorporate artificial intelligence and investigate the fundamental questions of “what are material genes?” 
+and “how to conduct research on material genes in lithium-ion batteries?”.  In this report, several cutting-edge 
+interdisciplinary fields will be introduced, including structural chemistry based on graph theory, big data of materials, 
+lithium-ion battery material genes, super-exchange interaction of d-orbital spinning electrons in transitional metals, 
+structure characterizations via large scientific facilities such as synchrotron and neutron radiation, etc.  The above 
+investigations attempt to inspire new paradigms for material research, thus advancing the development of critical materials 
+in lithium-ion batteries.
 
-- [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}, Peking University Shenzhen Graduate School
-- [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}, Nanyang Technological University
-- [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}, Tencent AI Lab
+<img src="https://gbatc.github.io/assets/Xia.png" width="200"/>\
+[**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}\
+Nanyang Technological University\
+**Mathematical AI for Molecular Sciences**\
+Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in 
+experimental data, computational power and learning models. However, a major issue that remains for all these AI-based 
+learning models is the efficient molecular representations and featurization. Here we propose advanced mathematics-based 
+molecular representations and featurization. Molecular structures and their interactions are represented by high-order 
+topological and algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, 
+Tor-algebra, etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, 
+R-Torsion, etc) are used as molecular descriptors for learning models. Further, we develop geometric and topological deep 
+learning models to systematically incorporate molecular high-order, multiscale, and periodic information, and use them for 
+analyzing molecular data from chemistry, biology, and materials.
+
+<img src="https://gbatc.github.io/assets/Yu.png" width="200"/>\
+[**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}\
+Tencent AI Lab\
+**TBA**
 
 
 ## <a name="schedule"></a>Schedule
