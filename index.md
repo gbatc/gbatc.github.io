@@ -216,6 +216,7 @@ Updated Nov. 15.
 - **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
 - **Yan Fu**, Nankai University
 - **Yunan He**, Chongqing University of Technology
+- **Peng Huang**, Great Bay University
 - **Hana Jia Kong**, Zhejiang University
 - **Fengchun Lei**, Dalian University of Technology
 - **Fengling Li**, Dalian University of Technology
@@ -235,6 +236,7 @@ Updated Nov. 15.
 - **Bingxu Wang**, Peking University Shenzhen Graduate School
 - **Enxin Wu**, Shantou University
 - **Kelin Xia**, Nanyang Technological University
+- **Yuqing Xing**, Huazhong University of Science and Technology
 - **Runfeng Yang**, Southern University of Science and Technology
 - **Siheng Yi**, Southern University of Science and Technology
 - **Meng Yu**, Tencent AI Lab
