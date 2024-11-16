@@ -74,9 +74,9 @@ Tencent AI Lab\
 **TBA**
 
 
-## <a name="schedule"></a>Tentative Schedule
+## <a name="schedule"></a>Schedule
 
-Updated Nov. 15.  
+Updated Nov. 16.  
 
 <h3>Fri. Nov. 22</h3>
 
@@ -113,7 +113,7 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>9:30 Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes in Li-ion batteries</i>
+    <b>8:30 Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes in Li-ion batteries</i>
   </summary>
   Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in 
   Li-ion batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data 
@@ -128,13 +128,13 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>10:30 Break</b>
+    <b>9:30 Break</b>
   </summary>
 </details>
 
 <details>
   <summary>
-    <b>11:00 Prof. Kelin Xia</b>, <i>Mathematical AI for Molecular Sciences</i>
+    <b>10:00 Prof. Kelin Xia</b>, <i>Mathematical AI for Molecular Sciences</i>
   </summary>
   Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in 
   experimental data, computational power and learning models. However, a major issue that remains for all these AI-based 
@@ -149,33 +149,33 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>12:00 Lunch</b>
+    <b>11:00 Lunch</b>
   </summary>
 </details>
 
 <details>
   <summary>
-    <b>14:30 Dr. Meng Yu</b>, <i>TBA</i>
+    <b>14:00 Dr. Meng Yu</b>, <i>TBA</i>
   </summary>
   TBA
 </details>
 
 <details>
   <summary>
-    <b>15:30 Break</b>
+    <b>15:00 Break</b>
   </summary>
 </details>
 
 <details>
   <summary>
-    <b>16:00 Panel discussion</b>, <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
+    <b>15:30 Panel discussion</b>, <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
   </summary>
   This will be a moderated conversation between the audience and the invited panelists, based on their experiences and practices.
 </details>
 
 <details>
   <summary>
-    <b>18:00 Dinner at TBA</b>
+    <b>17:30 Dinner at TBA</b>
   </summary>
 </details>
 
