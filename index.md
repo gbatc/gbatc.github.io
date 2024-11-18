@@ -203,7 +203,7 @@ Free discussion.
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. can be found [here](/info.pdf).  
+Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"}.  
 
 
 ## <a name="organizers"></a>Organizers
@@ -225,7 +225,7 @@ If you have any questions, comments or suggestions, please contact us at [gba.to
 
 ## <a name="participants"></a>Participants
 
-Updated Nov. 16.  
+Updated Nov. 18.  
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Zeyang Ding**, Southern University of Science and Technology
