@@ -16,7 +16,7 @@ collaboration with the industry and interdisciplinary fields, and explore the ap
 intelligence.  
 
 
-## <a name="speakers"></a>Invited Speakers (A-Z)
+## <a name="speakers"></a>Invited Speakers (A–Z)
 
 <img src="https://gbatc.github.io/assets/Lin.png" width="200"/>\
 [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}\
