@@ -203,7 +203,7 @@ Free discussion.
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. will be posted here soon.  
+Information on travel, lodging, etc. can be found [here](/info.pdf).  
 
 
 ## <a name="organizers"></a>Organizers
