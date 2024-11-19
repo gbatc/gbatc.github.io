@@ -215,7 +215,7 @@ Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_bl
 - **Feifei Fan**, South China Normal University
 - [**Pengcheng Li**](https://lipcaty.github.io/){:target="_blank"}, Great Bay University
 - [**Hao Liang**](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html){:target="_blank"}, Foshan University
-- **Dengpin Liu**, Guangxi Normal University
+- **Dengpin Liu**, Guilin University of Aerospace Technology
 - [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm){:target="_blank"}, Shantou University
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
