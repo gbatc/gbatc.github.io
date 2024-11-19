@@ -15,6 +15,8 @@ topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay
 collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
 intelligence.  
 
+[Poster](/poster.pdf){:target="_blank"}
+
 
 ## <a name="speakers"></a>Invited Speakers (A–Z)
 
