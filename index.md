@@ -13,9 +13,8 @@ intelligence."
 The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in 
 topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for 
 collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
-intelligence.  
-
-[Poster](/poster.pdf){:target="_blank"}
+intelligence.\
+-[Poster](/poster.pdf){:target="_blank"}
 
 
 ## <a name="speakers"></a>Invited Speakers (A–Z)
