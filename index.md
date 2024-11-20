@@ -245,7 +245,7 @@ Updated Nov. 20.
 - **Hao Liang**, Foshan University
 - **Hongwei Lin**, Zhejiang University
 - **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
-- **Dengpin Liu**, Guangxi Normal University
+- **Dengpin Liu**, Guilin University of Aerospace Technology
 - **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
 - **Yang Ming**, Hubei Polytechnic University
 - **Feng Pan**, Peking University Shenzhen Graduate School
