@@ -13,8 +13,8 @@ intelligence."
 The theme of this conference is topological data analysis and deep learning. It aims to promote exchanges among experts and scholars in 
 topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for 
 collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
-intelligence.
-- [Poster](/poster.pdf){:target="_blank"}
+intelligence.\
+• [Poster](/poster.pdf){:target="_blank"}
 
 
 ## <a name="speakers"></a>Invited Speakers (A–Z)
@@ -226,7 +226,7 @@ If you have any questions, comments or suggestions, please contact us at [gba.to
 
 ## <a name="participants"></a>Participants
 
-Updated Nov. 18.  
+Updated Nov. 20.  
 
 - **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
 - **Zeyang Ding**, Southern University of Science and Technology
@@ -237,7 +237,6 @@ Updated Nov. 18.
 - **Yan Fu**, Nankai University
 - **Yunan He**, Chongqing University of Technology
 - **Peng Huang**, Great Bay University
-- **Hana Jia Kong**, Zhejiang University
 - **Fengchun Lei**, Dalian University of Technology
 - **Fengling Li**, Dalian University of Technology
 - **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
