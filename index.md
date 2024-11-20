@@ -193,7 +193,7 @@ The morning session takes place in M1001, College of Science.  The afternoon ses
 
 <details>
   <summary>
-    <b>17:30 Dinner at TBA</b>
+    <b>17:30 Dinner at 老广新意（留仙大道宝能环球汇A馆3楼3009-D号）</b>
   </summary>
 </details>
 
@@ -204,7 +204,7 @@ Free discussion.
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"}.  
+Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"} (updated Nov. 20).  
 
 
 ## <a name="organizers"></a>Organizers
