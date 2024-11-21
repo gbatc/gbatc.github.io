@@ -123,7 +123,7 @@ takes place in M1001:
             
 <h3>Sat. Nov. 23</h3>
 
-The morning session takes place in M1001, College of Science.  The afternoon session takes place in Room 240A, Taizhou Hall 
+The morning session takes place in M1001, College of Science.  The afternoon session takes place in **Room 240A, Taizhou Hall** 
 (International Center for Mathematics Lecture Hall).
 
 <details>
