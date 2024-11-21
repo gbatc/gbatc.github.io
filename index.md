@@ -18,8 +18,8 @@ The organizers gratefully acknowledge the support by
 [SUSTech Department of Mathematics](https://math.sustech.edu.cn/?lang=en){:target="_blank"}, 
 [National Center for Applied Mathematics Shenzhen](https://ncams.sustech.edu.cn/){:target="_blank"}, 
 [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/){:target="_blank"}, 
-[National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}, and 
-[Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science](https://fst.uic.edu.cn/en/info/1179/3457.htm){:target="_blank"}.\
+[Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science](https://fst.uic.edu.cn/en/info/1179/3457.htm){:target="_blank"}, and 
+[National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}.\
 • [Poster](/poster.pdf){:target="_blank"}
 
 
