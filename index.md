@@ -204,7 +204,7 @@ Free discussion.
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"} (updated Nov. 20).  
+Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"} (updated Nov. 21).  
 
 
 ## <a name="organizers"></a>Organizers
