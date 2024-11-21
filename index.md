@@ -91,7 +91,7 @@ audio experiences in diverse applications.
 
 ## <a name="schedule"></a>Schedule
 
-Updated Nov. 18.  
+Updated Nov. 21.  
 
 <h3>Fri. Nov. 22</h3>
 
