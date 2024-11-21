@@ -65,30 +65,32 @@ the development of critical materials in lithium-ion batteries.
 [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}\
 Nanyang Technological University\
 **Mathematical AI for Molecular Sciences**\
-Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental data, 
-computational power and learning models.  However, a major issue that remains for all these AI-based learning models is the efficient 
-molecular representations and featurization.  Here we propose advanced mathematics-based molecular representations and featurization.  
-Molecular structures and their interactions are represented by high-order topological and algebraic models (including Rips complex, 
-Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, etc).  Mathematical invariants (from persistent homology, 
-persistent Ricci curvature, persistent spectral, R-Torsion, etc) are used as molecular descriptors for learning models.  Further, we 
-develop geometric and topological deep learning models to systematically incorporate molecular high-order, multiscale, and periodic 
-information, and use them for analyzing molecular data from chemistry, biology, and materials.
+Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental 
+data, computational power and learning models.  However, a major issue that remains for all these AI-based learning models is 
+the efficient molecular representations and featurization.  Here we propose advanced mathematics-based molecular 
+representations and featurization.  Molecular structures and their interactions are represented by high-order topological and 
+algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, 
+etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, R-Torsion, etc) are 
+used as molecular descriptors for learning models.  Further, we develop geometric and topological deep learning models to 
+systematically incorporate molecular high-order, multiscale, and periodic information, and use them for analyzing molecular 
+data from chemistry, biology, and materials.
 
 <img src="https://gbatc.github.io/assets/Yu.png" width="200"/>\
 [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}\
 Tencent AI Lab\
 **Advancing Speech Signal Processing: From Region-Based Audio Zooming to Near-Field Quality Transformation**\
-Enhancing speech signals in complex acoustic environments remains a critical challenge in audio processing.  Our recent work presents 
-several innovative approaches to tackle key issues in this domain.  We introduced a novel audio zooming technique based on deep 
-learning, shifting from traditional direction-based beamforming to a user-defined, adjustable 3D region for sound capture.  This 
-advancement enables precise and flexible audio acquisition, supporting real-time applications such as remote conferencing, education, 
-and live streaming.  Building on the concept of region-based sound capture, we further aimed to transform the captured far-field audio 
-into near-field quality.  Leveraging pre-trained generative models, we designed a method to resynthesize clean speech by reducing noise 
-and reverberation, achieving robust performance in the real-world environments.  To refine this transformation, we used a two-stage 
-framework combining predictive deep learning for initial enhancement with generative diffusion models for near-field audio generation.  
-By optimizing the diffusion process, we significantly reduced computational complexity while enhancing audio fidelity and reducing 
-distortion.  These advancements provide effective solutions to long-standing challenges in speech processing, enabling high-quality 
-audio experiences in diverse applications.
+Enhancing speech signals in complex acoustic environments remains a critical challenge in audio processing.  Our recent work 
+presents several innovative approaches to tackle key issues in this domain.  We introduced a novel audio zooming technique 
+based on deep learning, shifting from traditional direction-based beamforming to a user-defined, adjustable 3D region for 
+sound capture.  This advancement enables precise and flexible audio acquisition, supporting real-time applications such as 
+remote conferencing, education, and live streaming.  Building on the concept of region-based sound capture, we further aimed 
+to transform the captured far-field audio into near-field quality.  Leveraging pre-trained generative models, we designed a 
+method to resynthesize clean speech by reducing noise and reverberation, achieving robust performance in the real-world 
+environments.  To refine this transformation, we used a two-stage framework combining predictive deep learning for initial 
+enhancement with generative diffusion models for near-field audio generation.  By optimizing the diffusion process, we 
+significantly reduced computational complexity while enhancing audio fidelity and reducing distortion.  These advancements 
+provide effective solutions to long-standing challenges in speech processing, enabling high-quality audio experiences in 
+diverse applications.
 
 
 ## <a name="schedule"></a>Schedule
@@ -208,7 +210,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <h3>Sun. Nov. 24</h3>
 
-Free discussion.  
+**Free discussion.**  
 
 
 ## <a name="local"></a>Local information
