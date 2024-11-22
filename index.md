@@ -95,7 +95,7 @@ diverse applications.
 
 ## <a name="schedule"></a>Schedule
 
-Updated Nov. 21.  
+Updated Nov. 22.  
 
 <h3>Fri. Nov. 22</h3>
 
@@ -146,7 +146,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>9:30 Break</b>
+    <b>9:30 Break &amp; Group Photo</b>
   </summary>
 </details>
 
