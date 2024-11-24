@@ -145,7 +145,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>9:30 Break &amp; [Group Photo](/2024/group.jpeg)</b>
+    <b>9:30 Break &amp; <a href="/2024/group.jpeg" target="_blank">Group Photo</a></b>
   </summary>
 </details>
 
@@ -195,7 +195,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>15:30 [Panel discussion](/2024/panel.md)</b> (panelists: Fengchun Lei, Jingyan Li, Hongwei Lin, and Kelin Xia, with Yifei Zhu as moderator), 
+    <b>15:30 <a href="/2024/panel.md" target="_blank">Panel discussion</a></b> (panelists: Fengchun Lei, Jingyan Li, Hongwei Lin, and Kelin Xia, with Yifei Zhu as moderator), 
     <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
   </summary>
   This will be a moderated conversation between the audience and the invited panelists, based on their experiences and practices.
