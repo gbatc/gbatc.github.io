@@ -22,12 +22,12 @@ The organizers gratefully acknowledge the support by
 [Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science](https://fst.uic.edu.cn/en/info/1179/3457.htm){:target="_blank"}, and 
 [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}.
 
-• [Poster](/poster.pdf){:target="_blank"}
+• [Poster](/2024/poster.pdf){:target="_blank"}
 
 
 ## <a name="speakers"></a>Invited Speakers (A–Z)
 
-<img src="https://gbatc.github.io/assets/Lin.png" width="200"/>\
+<img src="/2024/Lin.png" width="200"/>\
 [**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}\
 Zhejiang University\
 **Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing**\
@@ -48,7 +48,7 @@ topological descriptors have been designed for porous structure retrieval and cl
 that ensures connectivity has been developed; porous thickness computation technology that preserves topological structure and porous 
 model slicing method have been proposed in 3D printing of porous structures.
 
-<img src="https://gbatc.github.io/assets/Pan.png" width="200"/>\
+<img src="https:/2024/Pan.png" width="200"/>\
 [**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}\
 Peking University Shenzhen Graduate School\
 **Graph-theory-based exploration of structural chemistry and material genes in Li-ion batteries**\
@@ -61,7 +61,7 @@ interaction of d-orbital spinning electrons in transitional metals, structure ch
 synchrotron and neutron radiation, etc.  The above investigations attempt to inspire new paradigms for material research, thus advancing 
 the development of critical materials in lithium-ion batteries.
 
-<img src="https://gbatc.github.io/assets/Xia.png" width="200"/>\
+<img src="/2024/Xia.png" width="200"/>\
 [**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}\
 Nanyang Technological University\
 **Mathematical AI for Molecular Sciences**\
@@ -75,7 +75,7 @@ used as molecular descriptors for learning models.  Further, we develop geometri
 systematically incorporate molecular high-order, multiscale, and periodic information, and use them for analyzing molecular 
 data from chemistry, biology, and materials.
 
-<img src="https://gbatc.github.io/assets/Yu.png" width="200"/>\
+<img src="https:/2024/Yu.png" width="200"/>\
 [**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}\
 Tencent AI Lab\
 **Advancing Speech Signal Processing: From Region-Based Audio Zooming to Near-Field Quality Transformation**\
@@ -94,8 +94,6 @@ diverse applications.
 
 
 ## <a name="schedule"></a>Schedule
-
-Updated Nov. 22.  
 
 <h3>Fri. Nov. 22</h3>
 
@@ -132,7 +130,8 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>8:30 Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes in Li-ion batteries</i>
+    <b>8:30 Bingxu Wang on behalf of Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes 
+    in Li-ion batteries</i>
   </summary>
   Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in Li-ion 
   batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data system, we aim to 
@@ -146,7 +145,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>9:30 Break &amp; Group Photo</b>
+    <b>9:30 Break &amp; [Group Photo](/2024/group.jpeg)</b>
   </summary>
 </details>
 
@@ -196,7 +195,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 <details>
   <summary>
-    <b>15:30 Panel discussion</b> (panelists: Fengchun Lei, Jingyan Li, Hongwei Lin, and Kelin Xia, with Yifei Zhu as moderator), 
+    <b>15:30 [Panel discussion](/2024/panel.md)</b> (panelists: Fengchun Lei, Jingyan Li, Hongwei Lin, and Kelin Xia, with Yifei Zhu as moderator), 
     <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
   </summary>
   This will be a moderated conversation between the audience and the invited panelists, based on their experiences and practices.
@@ -215,7 +214,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. can be found [here](/info.pdf){:target="_blank"} (updated Nov. 21).  
+Information on travel, lodging, etc. can be found [here](/2024/info.pdf){:target="_blank"}.  
 
 
 ## <a name="organizers"></a>Organizers
