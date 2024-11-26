@@ -103,7 +103,7 @@ takes place in M1001:
 <details>
   <summary>
     <b>16:30 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric 
-    design and processing</i>
+    design and processing</i> <a href="/2024/Lin.pdf" target="_blank"><b>[Slides]</b></a>
   </summary>
   Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
   topological problems in computer applications, as well as the design of algorithms for topological problems.  As a subject to apply 
