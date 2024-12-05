@@ -175,8 +175,7 @@ The morning session takes place in **M1001, College of Science**.  The afternoon
     <b>14:00 Dr. Meng Yu</b>, <i>Advancing Speech Signal Processing: From Region-Based Audio Zooming to Near-Field Quality 
     Transformation</i> <b>[Video: Parts <a href="/2024/1.MP4" target="_blank">1</a> and <a href="/2024/2.MP4" target="_blank">2</a> 
     (introduction); Parts <a href="/2024/3-1.mov" target="_blank">3</a>, <a href="/2024/3-2.mp3" target="_blank">4</a>, and 
-    <a href="/2024/3-3.mov" target="_blank">5</a> (audio zooming); Part <a href="/2024/4.MP4" target="_blank">6</a> (quality 
-    transformation)]</b>
+    <a href="/2024/3-3.mov" target="_blank">5</a> (audio zooming); Part <a href="/2024/4.MP4" target="_blank">6</a> (speech generation)]</b>
   </summary>
   Enhancing speech signals in complex acoustic environments remains a critical challenge in audio processing.  Our recent work presents 
   several innovative approaches to tackle key issues in this domain. We introduced a novel audio zooming technique based on deep 
