@@ -1,223 +1,224 @@
 ---
-title: Greater Bay Area Topology Conference
+title: Greater Bay Area Topology Conference 2025
 feature_text: |
-  ## <span style="color:white">2024 Greater Bay Area Topology Conference: Topological data analysis and deep learning</span>
-  <span style="color:white">November 22–24, 2024 | Southern University of Science and Technology | Shenzhen</span>
-feature_image: "/2024/gbatc.jpeg"
-excerpt: "The theme of this conference is topological data analysis (TDA) and deep learning.  It aims to promote exchanges among experts 
-and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform 
-for collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
-intelligence."
+  ## <span style="color:white">2025 大湾区拓扑会议</span>
+  <span style="color:white"> 11月7–10日, 2025 | 华南师范大学（石牌校区） | 广州</span>
+feature_image: "/2025/gbatc.jpeg"
+#use_math: true
 ---
 
-The theme of this conference is [topological data analysis](https://doi.org/10.1090/S0273-0979-09-01249-X){:target="_blank"} (TDA) and 
-[deep learning](https://doi.org/10.1007/978-3-030-43408-3_5){:target="_blank"}.  It aims to promote exchanges among experts and scholars 
-in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for 
-collaboration with the industry and interdisciplinary fields, and explore the application of topology to data science and artificial 
-intelligence.  
+The theme of this conference is algebraic topology and geometric topology, aiming to promote exchanges collaboration among experts and scholars 
+in these two fields.
 
 The organizers gratefully acknowledge the support by 
-[SUSTech Department of Mathematics](https://math.sustech.edu.cn/?lang=en){:target="_blank"}, 
-[National Center for Applied Mathematics Shenzhen](https://ncams.sustech.edu.cn/){:target="_blank"}, 
-[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/){:target="_blank"}, 
-[Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science](https://fst.uic.edu.cn/en/info/1179/3457.htm){:target="_blank"}, and 
+[South China Normal University](https://english.scnu.edu.cn/){:target="_blank"}, 
+and 
 [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}.
 
-• [Poster](/2024/poster.pdf){:target="_blank"}
+• [会议海报](/2025/poster.pdf)
+• [会议合影](2025/)
 
 
-## <a name="speakers"></a>Invited Speakers (A–Z)
+## <a name="speakers"></a>Invited Speakers 
 
-<img src="/2024/Lin.png" width="200"/>\
-[**Hongwei Lin**](https://person.zju.edu.cn/hwlin){:target="_blank"}\
-Zhejiang University\
-**Computer-Aided Topological Design&mdash;applications of computational topology in geometric design and processing**\
-Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of topological 
-problems in computer applications, as well as the design of algorithms for topological problems.  As a subject to apply computational 
-topology to the field of data processing, topological data analysis has been developed.  It has been widely used in biomedicine, drug 
-design, financial analysis, machine learning, and other fields.  The main tools in computational topology and topological data analysis 
-are persistent homology and Mapper.  Persistent homology constructs a sequence of gradually “growing” simplicial complexes in a metric 
-space, computes the persisting homological features (generators in the persistent homology groups), and infers the importance of the 
-features based on the life span of these homological features, thereby enabling the inference and extraction of global topological 
-features of the discrete data set.  On the other hand, Mapper extracts the main topological structure of the data set by defining a 
-reference mapping on the data set and using data segmentation and clustering.  Since almost 10 years ago, the CAGD research group of 
-Zhejiang University has applied computational topology methods to geometric design and geometric processing, and developed a series of 
-computer-aided topological design methods.  This talk will introduce a series of work in this area, including curve and surface 
-reconstruction technology based on topological understanding, and topological control methods in implicit curve and surface 
-reconstruction.  Furthermore, persistent homology has been applied to the field of porous structure processing, and a variety of 
-topological descriptors have been designed for porous structure retrieval and classification; porous structure generation technology 
-that ensures connectivity has been developed; porous thickness computation technology that preserves topological structure and porous 
-model slicing method have been proposed in 3D printing of porous structures.
+(hint: click bolded talk titles to show abstracts)
 
-<img src="https:/2024/Pan.png" width="200"/>\
-[**Feng Pan**](http://www.pkusam.cn/PicDetail.aspx?ID=295){:target="_blank"}\
-Peking University Shenzhen Graduate School\
-**Graph-theory-based exploration of structural chemistry and material genes in Li-ion batteries**\
-Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in Li-ion 
-batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data system, we aim to 
-incorporate artificial intelligence and investigate the fundamental questions of “what are material genes?” and “how to conduct research 
-on material genes in lithium-ion batteries?”.  In this report, several cutting-edge interdisciplinary fields will be introduced, 
-including structural chemistry based on graph theory, big data of materials, lithium-ion battery material genes, super-exchange 
-interaction of d-orbital spinning electrons in transitional metals, structure characterizations via large scientific facilities such as 
-synchrotron and neutron radiation, etc.  The above investigations attempt to inspire new paradigms for material research, thus advancing 
-the development of critical materials in lithium-ion batteries.
+[**苏阳**](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), 中科院数学所
+<details>
+ <summary>
+<b>自复叠流形在环面上的纤维化</b>
+ </summary>
+一个流形称为是自复叠的，如果它与自身的一个非平凡复叠同胚或同伦等价。环面是最简单的例子。对于具有交换基本群的自复叠闭流形，我们研究了它是否可以作为环面上的纤维丛的问题。在不同条件下，既得到了正面的结果，也发现了反例。这是和秦理真，王博潼合作的工作。
+</details>
 
-<img src="/2024/Xia.png" width="200"/>\
-[**Kelin Xia**](https://personal.ntu.edu.sg/xiakelin/){:target="_blank"}\
-Nanyang Technological University\
-**Mathematical AI for Molecular Sciences**\
-Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental 
-data, computational power and learning models.  However, a major issue that remains for all these AI-based learning models is 
-the efficient molecular representations and featurization.  Here we propose advanced mathematics-based molecular 
-representations and featurization.  Molecular structures and their interactions are represented by high-order topological and 
-algebraic models (including Rips complex, Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, 
-etc). Mathematical invariants (from persistent homology, persistent Ricci curvature, persistent spectral, R-Torsion, etc) are 
-used as molecular descriptors for learning models.  Further, we develop geometric and topological deep learning models to 
-systematically incorporate molecular high-order, multiscale, and periodic information, and use them for analyzing molecular 
-data from chemistry, biology, and materials.
 
-<img src="https:/2024/Yu.png" width="200"/>\
-[**Meng Yu**](https://raymond-myu.github.io/){:target="_blank"}\
-Tencent AI Lab\
-**Advancing Speech Signal Processing: From Region-Based Audio Zooming to Near-Field Quality Transformation**\
-Enhancing speech signals in complex acoustic environments remains a critical challenge in audio processing.  Our recent work 
-presents several innovative approaches to tackle key issues in this domain.  We introduced a novel audio zooming technique 
-based on deep learning, shifting from traditional direction-based beamforming to a user-defined, adjustable 3D region for 
-sound capture.  This advancement enables precise and flexible audio acquisition, supporting real-time applications such as 
-remote conferencing, education, and live streaming.  Building on the concept of region-based sound capture, we further aimed 
-to transform the captured far-field audio into near-field quality.  Leveraging pre-trained generative models, we designed a 
-method to resynthesize clean speech by reducing noise and reverberation, achieving robust performance in the real-world 
-environments.  To refine this transformation, we used a two-stage framework combining predictive deep learning for initial 
-enhancement with generative diffusion models for near-field audio generation.  By optimizing the diffusion process, we 
-significantly reduced computational complexity while enhancing audio fidelity and reducing distortion.  These advancements 
-provide effective solutions to long-standing challenges in speech processing, enabling high-quality audio experiences in 
-diverse applications.
+[**于立**](http://maths.nju.edu.cn/~lyu/), 南京大学
+ <details>
+ <summary>
+<b> On simplicial complexes with maximal total Betti number and total bigraded Betti number</b>
+</summary>
+ The total Betti number (i.e. the sum of all the Betti numbers) of a space measures the topological complexity of the space and plays important roles in many theories in mathematics. In this talk, we first classify those simplicial complexes with a given number of vertices that have the maximal total Betti number. Then we study similar problems for the sum of bigraded Betti numbers. It is known that the sum of bigraded Betti numbers of a simplicial complex K with m vertices is bounded from below by {% katex %}2^{m-dim(K)-1}{% endkatex %}. We discuss the classification of all the simplicial complexes with m vertices that have the maximal or the minimal sum of bigraded Betti numbers, respectively.
+</details>
 
+[**陈波**](http://faculty.hust.edu.cn/chenbo3), 华中科技大学
+ <details>
+ <summary>
+<b>On the homology description of equivariant bordism groups of n+1 dimensional {% katex %}\mathbb{Z}_2^n{% endkatex %}-manifolds with isolated fixed points set</b>
+</summary> 
+{% katexmm %} We construct a chain complex $\mathfrak{B}$ based on a double complex derived from the universal complex 
+$X(\mathbb{Z}_2^n)$. 
+It is shown that $\mathfrak{B}$ has a nontrivial homology only in degree $n-2$, which is isomorphic to the equivariant unoriented bordism group $\mathcal{Z}_{n+1}(\mathbb{Z}_2^n)$ of all $(n+1)$-dimensional smooth closed $\mathbb{Z}_2^n$-manifolds with isolated fixed points. By analyzing the spectral sequence of $\mathfrak{B}$, we derive a dimension formula for $\mathcal{Z}_{n+1}(\mathbb{Z}_2^n)$ as a $\mathbb{Z}_2$-vector space, which agrees with a recent result for $n=3$.
+{% endkatexmm %}
+</details>
+
+[slides]()
+
+
+[**陈亮**](https://math127.nenu.edu.cn/shuxue/WebPage/WebPageView.php?WorkType=2005900132), 东北师范大学
+ <details>
+ <summary>
+<b>On curvatures of singular mixed-type surfaces in Lorentz-Minkowski 3-space</b>
+</summary> 
+We embark on an exploration of the differential geometric properties of singular mixed-type surfaces in Lorentz-Minkowski 3-space. Generally speaking, a mixed-type surface is defined as a connected regular surface that features non-empty sets of spacelike and timelike points. To facilitate our study, we introduce a valuable tool known as the modified frame on the surface. As a result, we reveal the behavior of the Gaussian curvature and the mean curvature of the singular mixed-type surface at not only lightlike points but also singular points.
+</details>
+
+[slides]()
+
+[**朱中坚**](https://slxy.wzu.edu.cn/zhuzhongjian.pdf), 温州大学
+ <details>
+ <summary>
+<b>
+ {% katexmm %}Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere {% endkatexmm %}</b>
+ </summary>
+ {% katexmm %}The classification problem of sphere bundles over spherical spaces, in terms of homotopy and homeomorphism, is a classical topic in the classification of manifolds. It plays an important role in topology and geometry. For example, Milnor showed that the total spaces of $S^3$-bundles over $S^4$ with Euler class ±1 are manifolds homeomorphic to $S^7$ but not always diffeomorphic to it. In this talk I will introduce our recent work on classifying the homotopy types of the total space of $(2k-1)$-sphere bundles (fibrations) over $2k$-sphere. These are joint works with Professor Jianzhong Pan.{% endkatexmm %}
+</details>
+
+[slides]()
+
+[**郑芳婷**](https://scholar.xjtlu.edu.cn/en/persons/FangtingZheng/), 西交利物浦大学
+ <details>
+ <summary>
+<b>Discrete embeddings of hyperbolic groups with Pontryagin surfaces as boundaries</b>
+</summary> {% katexmm %} In this talk, I will exhibit some convex cocompact, discrete subgroups $\Gamma_2$ and $\Gamma_3$ in the isometry group of 5-dimensional hyperbolic space H^5, whose limit sets are the index-2 and index-3 Pontryagin surfaces $\Pi_2$ and $\Pi_3$, respectively. This result yields new, distinct topological types of limit sets for higher-dimensional Kleinian groups. This is joint work with Jiming Ma.{% endkatexmm %}
+</details>
+
+[slides]()
+
+[**李平**](https://math.fudan.edu.cn/b5/32/c30607a636210/page.htm), 复旦大学
+ <details>
+ <summary>
+<b>The compactification of homology cells, Fujita's conjectures and the complex projective spaces</b>
+</summary> Hirzebruch在1954年的问题集中有两个问题关心复欧式空间的紧化和复射影空间的唯一性。Takao Fujita在1980年这两个问题加强成三个密切相关的猜想。在此报告中，我们将回顾这些历史并讲述近期的一些进展。此报告中的部分工作是与Thomas Peternell合作的。
+</details>
+
+[slides]()
+
+[**古星**](https://its.westlake.edu.cn/info/1105/1423.htm), 西湖大学
+ <details>
+ <summary>
+<b>Topological complexity of enumerative problems in algebraic geometry</b>
+</summary>{% katexmm %}Typical enumerative problems in algebraic geometry includes finding the d roots of a generic polynomial in one variable of degree $d$, and finding the $27$ lines on a smooth cubic surface. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of “branches” in the algorithms that solves an enumerative problem up to an $\varepsilon$ error.{% endkatexmm %}
+
+We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by cohomology. Finally, we present lower bounds of three enumerative problems. This is a joint work with Weiyan Chen.
+</details>
+
+[slides]()
 
 ## <a name="schedule"></a>Schedule
 
-<h3>Fri. Nov. 22</h3>
+ 
 
-There will be a Departmental Tea at 16:00 in M712, College of Science.  All are welcome.  The Mathematics Colloquium / opening talk 
-takes place in M1001:
+<h4>周六，11月8日, 数学西楼111报告厅</h4>
+---
+<details>
+  <summary>
+    <b>8:40~9：30 | 苏阳（中国科学院）</b> <i>自复叠流形在环面上的纤维化</i>
+  </summary>
+ 
+</details>
+---
+<details>
+  <summary>
+    <b>9:30 茶歇与会议合影 </b>
+  </summary>
+</details>
+---
+<details>
+  <summary>
+    <b>10:00~10：50  | 于立（南京大学）</b> <i>On simplicial complexes with maximal total Betti number and total bigraded Betti number</i>
+  </summary>
+  
+</details>
+---
+<details>
+  <summary>
+    <b>10:00~10：50  | 陈波（华中科技大学）</b> <i>On the homology description of equivariant bordism groups of n+1 dimensional {% katexmm %}$\mathbb{Z}_2^n$-manifolds with isolated fixed points set{% endkatexmm %}</i>
+  </summary>
+ ---
+</details>
+---
+<details>
+  <summary>
+    <b>12:00~14：30 |  午餐、午休</b>
+  </summary>
+  
+</details>
+---
+
+<details>
+   <summary>
+    <b>14:30~15：20  | 陈亮（东北师范大学）</b> <i>On curvatures of singular mixed-type surfaces in Lorentz-Minkowski 3-space</i>
+  </summary>
+
+</details>
+---
 
 <details>
   <summary>
-    <b>16:30 Prof. Hongwei Lin</b>, <i>Computer-Aided Topological Design&mdash;applications of computational topology in geometric 
-    design and processing</i> <a href="/2024/Lin.pdf" target="_blank"><b>[Slides]</b></a>
+    <b>15:20~15:40 |  茶歇</b>
   </summary>
-  Computational topology is an emerging discipline developed since around 2000.  It studies the determination and modeling of 
-  topological problems in computer applications, as well as the design of algorithms for topological problems.  As a subject to apply 
-  computational topology to the field of data processing, topological data analysis has been developed.  It has been widely used in 
-  biomedicine, drug design, financial analysis, machine learning, and other fields.  The main tools in computational topology and 
-  topological data analysis are persistent homology and Mapper.  Persistent homology constructs a sequence of gradually “growing” 
-  simplicial complexes in a metric space, computes the persisting homological features (generators in the persistent homology groups), 
-  and infers the importance of the features based on the life span of these homological features, thereby enabling the inference and 
-  extraction of global topological features of the discrete data set.  On the other hand, Mapper extracts the main topological structure 
-  of the data set by defining a reference mapping on the data set and using data segmentation and clustering.  Since almost 10 years 
-  ago, the CAGD research group of Zhejiang University has applied computational topology methods to geometric design and geometric 
-  processing, and developed a series of computer-aided topological design methods.  This talk will introduce a series of work in this 
-  area, including curve and surface reconstruction technology based on topological understanding, and topological control methods in 
-  implicit curve and surface reconstruction.  Furthermore, persistent homology has been applied to the field of porous structure 
-  processing, and a variety of topological descriptors have been designed for porous structure retrieval and classification; porous 
-  structure generation technology that ensures connectivity has been developed; porous thickness computation technology that preserves 
-  topological structure and porous model slicing method have been proposed in 3D printing of porous structures.
 </details>
-            
-<h3>Sat. Nov. 23</h3>
-
-The morning session takes place in **M1001, College of Science**.  The afternoon session takes place in **Room 240A, Taizhou Hall** 
-(International Center for Mathematics Lecture Hall).
+---
 
 <details>
   <summary>
-    <b>8:30 Bingxu Wang on behalf of Prof. Feng Pan</b>, <i>Graph theory based exploration of structural chemistry and material genes 
-    in Li-ion batteries</i>
+    <b>15:40~16：30  |  朱中坚（温州大学）</b> 
+    <i>{% katexmm %}Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere{% endkatexmm %}</i>
   </summary>
-  Methodologies of structural chemistry have been studied to explore the material gene and structure-function relationship in Li-ion 
-  batteries.  Through developing chemical methods based on graph theory as well as establishing a material big data system, we aim to 
-  incorporate artificial intelligence and investigate the fundamental questions of “what are material genes?” and “how to conduct 
-  research on material genes in lithium-ion batteries?”.  In this report, several cutting-edge interdisciplinary fields will be 
-  introduced, including structural chemistry based on graph theory, big data of materials, lithium-ion battery material genes, 
-  super-exchange interaction of d-orbital spinning electrons in transitional metals, structure characterizations via large scientific 
-  facilities such as synchrotron and neutron radiation, etc.  The above investigations attempt to inspire new paradigms for material 
-  research, thus advancing the development of critical materials in lithium-ion batteries.
+ 
 </details>
+---
 
 <details>
   <summary>
-    <b>9:30 Break &amp; <a href="/2024/group.jpeg" target="_blank">Group Photo</a></b>
+    <b>16:50~17：40  |  郑芳婷（西郊利物浦大学）</b> 
+    <i>Discrete embeddings of hyperbolic groups with Pontryagin surfaces as boundaries</i>
   </summary>
+ 
 </details>
+---
 
 <details>
   <summary>
-    <b>10:00 Prof. Kelin Xia</b>, <i>Mathematical AI for Molecular Sciences</i>
+    <b>18:00~  | 晚餐 </b>
   </summary>
-  Artificial intelligence (AI) based Molecular Sciences have begun to gain momentum due to the great advancement in experimental data, 
-  computational power and learning models.  However, a major issue that remains for all these AI-based learning models is the efficient 
-  molecular representations and featurization.  Here we propose advanced mathematics-based molecular representations and featurization.  
-  Molecular structures and their interactions are represented by high-order topological and algebraic models (including Rips complex, 
-  Alpha complex, Neighborhood complex, Dowker complex, Hom-complex, Tor-algebra, etc). Mathematical invariants (from persistent 
-  homology, persistent Ricci curvature, persistent spectral, R-Torsion, etc) are used as molecular descriptors for learning models.  
-  Further, we develop geometric and topological deep learning models to systematically incorporate molecular high-order, multiscale, and 
-  periodic information, and use them for analyzing molecular data from chemistry, biology, and materials.
 </details>
+
+---
+
+<h4>周日，11月9日, 数学西楼111报告厅</h4>
+---
 
 <details>
   <summary>
-    <b>11:00 Lunch</b>
+    <b>9:30~10：20   | 李平（复旦大学）</b> 
+    <i>The compactification of homology cells, Fujita's conjectures and the complex projective space</i>
   </summary>
+ 
 </details>
 
+---
 <details>
   <summary>
-    <b>14:00 Dr. Meng Yu</b>, <i>Advancing Speech Signal Processing: From Region-Based Audio Zooming to Near-Field Quality 
-    Transformation</i> <b>[Video: Parts <a href="/2024/1.MP4" target="_blank">1</a> and <a href="/2024/2.MP4" target="_blank">2</a> 
-    (introduction); Parts <a href="/2024/3-1.mov" target="_blank">3</a>, <a href="/2024/3-2.mp3" target="_blank">4</a>, and 
-    <a href="/2024/3-3.mov" target="_blank">5</a> (audio zooming); Part <a href="/2024/4.MP4" target="_blank">6</a> (speech generation)]</b>
+    <b>10:50~11：40  |  古星（西湖大学）</b> 
+    <i>Topological complexity of enumerative problems in algebraic geometry</i>
   </summary>
-  Enhancing speech signals in complex acoustic environments remains a critical challenge in audio processing.  Our recent work presents 
-  several innovative approaches to tackle key issues in this domain. We introduced a novel audio zooming technique based on deep 
-  learning, shifting from traditional direction-based beamforming to a user-defined, adjustable 3D region for sound capture.  This 
-  advancement enables precise and flexible audio acquisition, supporting real-time applications such as remote conferencing, education, 
-  and live streaming.  Building on the concept of region-based sound capture, we further aimed to transform the captured far-field audio 
-  into near-field quality.  Leveraging pre-trained generative models, we designed a method to resynthesize clean speech by reducing 
-  noise and reverberation, achieving robust performance in the real-world environments.  To refine this transformation, we used a 
-  two-stage framework combining predictive deep learning for initial enhancement with generative diffusion models for near-field audio 
-  generation.  By optimizing the diffusion process, we significantly reduced computational complexity while enhancing audio fidelity and 
-  reducing distortion.  These advancements provide effective solutions to long-standing challenges in speech processing, enabling 
-  high-quality audio experiences in diverse applications.
+
 </details>
 
+---
 <details>
   <summary>
-    <b>15:00 Break</b>
+    <b>12:00~17：00  | 午餐、自由讨论 </b>
   </summary>
 </details>
 
-<details>
-  <summary>
-    <b>15:30 <a href="/2024/panel" target="_blank">Panel discussion</a></b> (panelists: Fengchun Lei, Jingyan Li, Hongwei Lin, and Kelin Xia, with Yifei Zhu as moderator), 
-    <i>Research in applied topology and collaboration across disciplines: Challenges and opportunities</i>
-  </summary>
-  This will be a moderated conversation between the audience and the invited panelists, based on their experiences and practices.
-</details>
-
-<details>
-  <summary>
-    <b>17:30 Dinner at 老广新意（留仙大道宝能环球汇A馆3楼3009-D号）</b>
-  </summary>
-</details>
-
-<h3>Sun. Nov. 24</h3>
-
-**Free discussion.**  
-
+ ---
 
 ## <a name="local"></a>Local information
 
-Information on travel, lodging, etc. can be found [here](/2024/info.pdf){:target="_blank"}.  
+从酒店（电子科技大厦）步行到华南师范大学数学学院西楼（原华南数学应用与交叉中心）路线图， 全程200米，约3分钟：
+<img src="/2025/luxiantu.png" style="width: 100%; height: auto;" />
 
 
 ## <a name="organizers"></a>Organizers
@@ -229,52 +230,58 @@ Information on travel, lodging, etc. can be found [here](/2024/info.pdf){:target
 - [**Hao Liang**](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html){:target="_blank"}, Foshan University
 - **Dengpin Liu**, Guilin University of Aerospace Technology
 - [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm){:target="_blank"}, Shantou University
+- [**Heng Xie**](https://math.sysu.edu.cn/teacher/2793), Sun Yat-Sen University 
+- [**Mengjian Xu**](http://www.math.gxnu.edu.cn/2023/0323/c483a261057/page.htm), Guangxi Normal University
+- [**Pengcheng Xu**](https://jrsx.gduf.edu.cn/info/1150/1910.htm), Guangdong University of Finance
 - [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
 - [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
 
-Assistant: [**Leyuan Shen**](mailto:shenly@mail.sustech.edu.cn){:target="_blank"}, Southern University of Science and Technology
+会议联系人: 
+ - [**范飞飞**](fanfeifei@mail.nankai.edu.cn){:target="_blank"}, 华南师范大学; [**赵浩**](zhaohao@scnu.edu.cn), 华南师范大学
 
 If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
 ## <a name="participants"></a>Participants
 
-Updated Nov. 20.  
+Updated Nov. 3， 2025.  
+- **曹聚鹏**, 华南理工大学  
+- **陈波**, 华中科技大学  
+- **陈亮**, 东北师范大学  
+- **杜晓明**, 华南理工大学  
+- **范飞飞**, 华南师范大学  
+- **房冰**, 河南师范大学  
+- **付妍**, 南开大学  
+- **古星**, 西湖大学  
+- **李鹏程**, 大湾区大学  
+- **李平**, 复旦大学  
+- **李彦霖**, 杭州师范大学  
+- **梁灏**, 佛山大学  
+- **林奕武**, 广东金融学院  
+- **刘登品**, 桂林航天工业学院  
+- **刘文琰**, 华南农业大学  
+- **秦雨轩**, 重庆理工大学  
+- **苏阳**, 中科院数学所  
+- **王格非**, 北京大学  
+- **王炜飚**, 中南大学  
+- **翁文**, 华南师范大学  
+- **邬恩信**, 汕头大学  
+- **谢传龙**, 中山大学  
+- **谢恒**, 中山大学  
+- **徐勐戬**, 广西师范大学  
+- **徐鹏程**, 广东金融学院  
+- **徐啸宇**, 北京大学  
+- **阎昕明**, 广东第二师范学院  
+- **杨海波**, 南昌航空大学  
+- **杨会军**, 河南大学  
+- **俞海波**, 华南师范大学  
+- **于立**, 南京大学  
+- **赵浩**, 华南师范大学  
+- **郑芳婷**, 西交利物浦大学  
+- **朱一飞**, 南方科技大学  
+- **朱中坚**, 温州大学  
+- **龙啸海**, 华南师范大学  
+- **李世雄**, 华南师范大学  
+- **何东旭**, 华南师范大学  
+- **李宛怡**, 华南师范大学  
 
-- **Matthew Burfitt**, Beijing Institute of Mathematical Sciences and Applications
-- **Zeyang Ding**, Southern University of Science and Technology
-- **Junwen Dong**, Nankai University
-- **Xiaoming Du**, South China University of Technology
-- **Feifei Fan**, South China Normal University
-- **Xin Fu**, Beijing Institute of Mathematical Sciences and Applications
-- **Yan Fu**, Nankai University
-- **Yunan He**, Chongqing University of Technology
-- **Peng Huang**, Great Bay University
-- **Fengchun Lei**, Dalian University of Technology
-- **Fengling Li**, Dalian University of Technology
-- **Jingyan Li**, Beijing Institute of Mathematical Sciences and Applications
-- **Pengcheng Li**, Great Bay University
-- **Yanlin Li**, Hangzhou Normal University
-- **Hao Liang**, Foshan University
-- **Hongwei Lin**, Zhejiang University
-- **Andy Luchuan Liu**, Beijing Normal University – Hong Kong Baptist University United International College
-- **Dengpin Liu**, Guilin University of Aerospace Technology
-- **Ran Liu**, Beijing Institute of Mathematical Sciences and Applications
-- **Yang Ming**, Hubei Polytechnic University
-- **Feng Pan**, Peking University Shenzhen Graduate School
-- **Yuhe Qin**, Southern University of Science and Technology
-- **Qingrui Qu**, Southern University of Science and Technology
-- **Yang Su**, Chinese Academy of Sciences
-- **Bingxu Wang**, Peking University Shenzhen Graduate School
-- **Enxin Wu**, Shantou University
-- **Kelin Xia**, Nanyang Technological University
-- **Yuqing Xing**, Huazhong University of Science and Technology
-- **Runfeng Yang**, Southern University of Science and Technology
-- **Siheng Yi**, Southern University of Science and Technology
-- **Meng Yu**, Tencent AI Lab
-- **Ruyang Yu**, Southern University of Science and Technology
-- **Zhiwang Yu**, Southern University of Science and Technology
-- **Haiyu Zhang**, Southern University of Science and Technology
-- **Hao Zhao**, South China Normal University
-- **Xuezhi Zhao**, Capital Normal University
-- **Yifei Zhu**, Southern University of Science and Technology

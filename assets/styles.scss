@@ -4,3 +4,13 @@ styles: true
 ---
 
 @import "alembic";
+
+body {
+  font-family:
+    "Noto Sans SC",     /* 思源黑体 */
+    "Microsoft YaHei",  /* 微软雅黑 */
+    "PingFang SC",      /* 苹果系统中文字体 */
+    "Heiti SC",         /* Mac 旧版黑体 */
+    "SimHei",           /* Windows 黑体 */
+    sans-serif;
+}

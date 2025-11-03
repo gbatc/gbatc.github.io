@@ -133,6 +133,13 @@ navigation_header:
   url: /#organizers
 - title: Participants
   url: /#participants
+- title: Past Conferences
+  url: /past/
+  children: 
+    - title: 
+      url: /past/2024.html
+ 
+
 
 navigation_footer:
 - title: Site template created by David Darnes
@@ -161,3 +168,17 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+
+
+
+#数学公式支持
+plugins:
+  - jekyll-katex
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+
+#分页设置
+paginate: 5
+paginate_path: "/page:num/"

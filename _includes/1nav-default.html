@@ -1,0 +1,181 @@
+<nav class="nav" role="navigation" aria-label="Main">
+  <ul class="list list--nav">
+    {%- assign nav = site.navigation_header -%}
+
+    {%- if nav and nav.size > 0 -%}
+      {%- for item in nav -%}
+        {%- assign url = item.url -%}
+        {%- if url and url contains '://' -%}
+          {%- assign final_url = url -%}
+        {%- else -%}
+          {%- assign final_url = url | relative_url -%}
+        {%- endif -%}
+        {%- assign is_current = (item.url == page.url) -%}
+
+        <li class="item item--nav{% if item.children %} has-children{% endif %}{% if is_current %} item--current{% endif %}">
+          {%- if item.collectionpage -%}
+            {%- assign collectiondata = site.collections | where: "label", item.collectionpage | first -%}
+            <a class="nav-link" href="{{ final_url }}">{{ collectiondata.title }}</a>
+          {%- else -%}
+            <a class="nav-link" href="{{ final_url }}">{{ item.title }}</a>
+          {%- endif -%}
+
+          {%- if item.children and item.children.size > 0 -%}
+            <button class="nav-caret"
+                    aria-expanded="false"
+                    aria-label="展开子菜单"
+                    type="button"></button>
+
+            <ul class="list list--nav list--subnav" role="menu">
+              {%- for child in item.children -%}
+                {%- assign child_url = child.url -%}
+                {%- if child_url and child_url contains '://' -%}
+                  {%- assign child_final_url = child_url -%}
+                {%- else -%}
+                  {%- assign child_final_url = child_url | relative_url -%}
+                {%- endif -%}
+                {%- assign child_current = (child.url == page.url) -%}
+                <li class="item item--nav item--subnav{% if child_current %} item--current{% endif %}" role="none">
+                  {%- if child.collectionpage -%}
+                    {%- assign child_collection = site.collections | where: "label", child.collectionpage | first -%}
+                    <a class="nav-link" role="menuitem" href="{{ child_final_url }}">{{ child_collection.title }}</a>
+                  {%- else -%}
+                    <a class="nav-link" role="menuitem" href="{{ child_final_url }}">{{ child.title }}</a>
+                  {%- endif -%}
+                </li>
+              {%- endfor -%}
+            </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    {%- else -%}
+      {%- for item in site.html_pages -%}
+        {%- unless item.title == false or item.url contains "/page" or item.url contains "/404.html" -%}
+          <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+            {%- if item.url contains '://' -%}
+              {%- assign url = item.url -%}
+            {%- else -%}
+              {%- assign url = item.url | relative_url -%}
+            {%- endif -%}
+            {%- if item.collectionpage -%}
+              {%- assign collectiondata = site.collections | where: "label", item.collectionpage | first -%}
+              <a class="nav-link" href="{{ url }}">{{ collectiondata.title }}</a>
+            {%- else -%}
+              <a class="nav-link" href="{{ url }}">{{ item.title }}</a>
+            {%- endif -%}
+          </li>
+        {%- endunless -%}
+      {%- endfor -%}
+    {%- endif -%}
+  </ul>
+</nav>
+
+<script>
+(function () {
+  // 打开/关闭逻辑（移动端/键盘）
+  function closeAll() {
+    document.querySelectorAll('.item.has-children').forEach(function (li) {
+      li.classList.remove('open');
+      var btn = li.querySelector('.nav-caret');
+      if (btn) btn.setAttribute('aria-expanded', 'false');
+    });
+  }
+
+  // 点击空白处关闭
+  document.addEventListener('click', function (e) {
+    var inMenu = e.target.closest('.item.has-children');
+    if (!inMenu) closeAll();
+  });
+
+  // Esc 关闭
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeAll();
+  });
+
+  // 子菜单开关
+  document.querySelectorAll('.item.has-children .nav-caret').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var li = btn.closest('.item.has-children');
+      var expanded = btn.getAttribute('aria-expanded') === 'true';
+      closeAll();
+      if (!expanded) {
+        li.classList.add('open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+})();
+</script>
+
+<style>
+/* —— 基于 Alembic 风格的下拉菜单样式（可移到 assets/styles.scss） —— */
+
+/* 继承 Alembic 的列表/项目结构 */
+.list.list--nav { list-style: none; margin: 0; padding: 0; display: flex; gap: 1rem; flex-wrap: wrap; }
+.item.item--nav { position: relative; }
+.nav-link { text-decoration: none; }
+
+/* 当前项样式延续 Alembic：粗体或下划线可二选一 */
+.item--current > .nav-link { font-weight: 600; }
+
+/* caret（小箭头）按钮，贴近 Alembic 极简风 */
+.nav-caret {
+  margin-left: .25rem;
+  width: .85rem; height: .85rem;
+  display: inline-flex; align-items: center; justify-content: center;
+  border: 0; background: transparent; padding: 0; cursor: pointer;
+}
+.nav-caret::before {
+  content: ""; display: block;
+  width: 0; height: 0;
+  border-left: .32rem solid transparent;
+  border-right: .32rem solid transparent;
+  border-top: .38rem solid currentColor;
+  transition: transform .15s ease;
+  transform-origin: 50% 45%;
+}
+.item.has-children.open > .nav-caret::before { transform: rotate(180deg); }
+
+/* 子菜单外观 */
+.list--subnav {
+  position: absolute; left: 0; top: calc(100% + .5rem);
+  min-width: 14rem; padding: .5rem 0; margin: 0;
+  background: #fff; border: 1px solid #e5e5e5; border-radius: .375rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+  display: none; z-index: 1000;
+}
+.item.has-children:hover > .list--subnav { display: block; } /* 桌面端 hover 打开 */
+.item.has-children.open > .list--subnav { display: block; }  /* 移动端点击打开 */
+
+.item--subnav > .nav-link {
+  display: block; padding: .5rem .875rem;
+  white-space: nowrap;
+}
+.item--subnav > .nav-link:hover,
+.item--subnav.item--current > .nav-link {
+  background: #f6f6f6;
+}
+
+/* 深色模式适配（若你站点启用了） */
+@media (prefers-color-scheme: dark) {
+  .list--subnav {
+    background: #1b1b1b; border-color: #333; box-shadow: 0 8px 24px rgba(0,0,0,.5);
+  }
+  .item--subnav > .nav-link:hover,
+  .item--subnav.item--current > .nav-link { background: #2a2a2a; }
+}
+
+/* 响应式：移动端让子菜单“以内嵌列表”展开，避免遮挡 */
+@media (max-width: 768px) {
+  .list.list--nav { gap: .5rem 1rem; }
+  .item.has-children { width: 100%; }
+  .list--subnav {
+    position: static; box-shadow: none; border: 0; border-radius: 0;
+    padding: .25rem 0; display: none; margin-top: .25rem;
+  }
+  .item.has-children:hover > .list--subnav { display: none; }
+  .item.has-children.open > .list--subnav { display: block; }
+  .item--subnav > .nav-link { padding-left: 1.25rem; }
+}
+</style>
