@@ -4,9 +4,9 @@ title: Past Conferences
 permalink: /past/
 ---
 
-# Past Conferences
 
-Welcome to the archive of previous GBATC conferences.
+
+Welcome to the archive of previous Greater Bay Area Topology Conferences.
 
 Here you can find links to the materials and information from past years:
 
