@@ -15,9 +15,19 @@ The organizers gratefully acknowledge the support by
 and 
 [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}.
 
+
+
+#### 会议基本信息
+- 会议时间： 2025年11月7日(报到)至11月10日（离会）
+- 会议地点：[华南师范大学（石牌校区）-数学科学学院](https://ditu.amap.com/place/B0FFHEXIPU)-**西楼111报告厅**。    
+- 入住酒店：宜致美居酒店（电子科技大厦店），广州天河区，中山大道西65号，位于华南师范大学（石牌校区）正门东50米。
+- 11.07~09晚餐地点为 **华南师范大学陶园餐厅二楼**， 11.08-09午餐为 **华南师范大学沁园餐厅工作餐**。
+
+• [会议手册](/2025/conference_manual.pdf)
 • [会议海报](/2025/poster.pdf)
 • [会议合影](2025/)
-
+ 
+  
 
 ## <a name="speakers"></a>Invited Speakers 
 
