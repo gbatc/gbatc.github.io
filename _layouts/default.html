@@ -1,5 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+<!-- KaTeX core + auto-render (前端渲染) -->
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$",  right: "$",  display: false}
+      ],
+      throwOnError: false
+    });
+  });
+</script>
 
   <head>
     <!-- General meta -->

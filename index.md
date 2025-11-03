@@ -37,18 +37,18 @@ and
  <summary>
 <b> On simplicial complexes with maximal total Betti number and total bigraded Betti number</b>
 </summary>
- The total Betti number (i.e. the sum of all the Betti numbers) of a space measures the topological complexity of the space and plays important roles in many theories in mathematics. In this talk, we first classify those simplicial complexes with a given number of vertices that have the maximal total Betti number. Then we study similar problems for the sum of bigraded Betti numbers. It is known that the sum of bigraded Betti numbers of a simplicial complex K with m vertices is bounded from below by {% katex %}2^{m-dim(K)-1}{% endkatex %}. We discuss the classification of all the simplicial complexes with m vertices that have the maximal or the minimal sum of bigraded Betti numbers, respectively.
+ The total Betti number (i.e. the sum of all the Betti numbers) of a space measures the topological complexity of the space and plays important roles in many theories in mathematics. In this talk, we first classify those simplicial complexes with a given number of vertices that have the maximal total Betti number. Then we study similar problems for the sum of bigraded Betti numbers. It is known that the sum of bigraded Betti numbers of a simplicial complex K with m vertices is bounded from below by $2^{m-dim(K)-1}$. We discuss the classification of all the simplicial complexes with m vertices that have the maximal or the minimal sum of bigraded Betti numbers, respectively.
 </details>
 
 [**陈波**](http://faculty.hust.edu.cn/chenbo3), 华中科技大学
  <details>
  <summary>
-<b>On the homology description of equivariant bordism groups of n+1 dimensional {% katex %}\mathbb{Z}_2^n{% endkatex %}-manifolds with isolated fixed points set</b>
+<b>On the homology description of equivariant bordism groups of n+1 dimensional $\mathbb{Z}_2^n$-manifolds with isolated fixed points set</b>
 </summary> 
-{% katexmm %} We construct a chain complex $\mathfrak{B}$ based on a double complex derived from the universal complex 
+We construct a chain complex $\mathfrak{B}$ based on a double complex derived from the universal complex 
 $X(\mathbb{Z}_2^n)$. 
 It is shown that $\mathfrak{B}$ has a nontrivial homology only in degree $n-2$, which is isomorphic to the equivariant unoriented bordism group $\mathcal{Z}_{n+1}(\mathbb{Z}_2^n)$ of all $(n+1)$-dimensional smooth closed $\mathbb{Z}_2^n$-manifolds with isolated fixed points. By analyzing the spectral sequence of $\mathfrak{B}$, we derive a dimension formula for $\mathcal{Z}_{n+1}(\mathbb{Z}_2^n)$ as a $\mathbb{Z}_2$-vector space, which agrees with a recent result for $n=3$.
-{% endkatexmm %}
+
 </details>
 
 [slides]()
@@ -68,9 +68,9 @@ We embark on an exploration of the differential geometric properties of singular
  <details>
  <summary>
 <b>
- {% katexmm %}Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere {% endkatexmm %}</b>
+ Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere </b>
  </summary>
- {% katexmm %}The classification problem of sphere bundles over spherical spaces, in terms of homotopy and homeomorphism, is a classical topic in the classification of manifolds. It plays an important role in topology and geometry. For example, Milnor showed that the total spaces of $S^3$-bundles over $S^4$ with Euler class ±1 are manifolds homeomorphic to $S^7$ but not always diffeomorphic to it. In this talk I will introduce our recent work on classifying the homotopy types of the total space of $(2k-1)$-sphere bundles (fibrations) over $2k$-sphere. These are joint works with Professor Jianzhong Pan.{% endkatexmm %}
+ The classification problem of sphere bundles over spherical spaces, in terms of homotopy and homeomorphism, is a classical topic in the classification of manifolds. It plays an important role in topology and geometry. For example, Milnor showed that the total spaces of $S^3$-bundles over $S^4$ with Euler class ±1 are manifolds homeomorphic to $S^7$ but not always diffeomorphic to it. In this talk I will introduce our recent work on classifying the homotopy types of the total space of $(2k-1)$-sphere bundles (fibrations) over $2k$-sphere. These are joint works with Professor Jianzhong Pan.
 </details>
 
 [slides]()
@@ -79,7 +79,7 @@ We embark on an exploration of the differential geometric properties of singular
  <details>
  <summary>
 <b>Discrete embeddings of hyperbolic groups with Pontryagin surfaces as boundaries</b>
-</summary> {% katexmm %} In this talk, I will exhibit some convex cocompact, discrete subgroups $\Gamma_2$ and $\Gamma_3$ in the isometry group of 5-dimensional hyperbolic space H^5, whose limit sets are the index-2 and index-3 Pontryagin surfaces $\Pi_2$ and $\Pi_3$, respectively. This result yields new, distinct topological types of limit sets for higher-dimensional Kleinian groups. This is joint work with Jiming Ma.{% endkatexmm %}
+</summary>  In this talk, I will exhibit some convex cocompact, discrete subgroups $\Gamma_2$ and $\Gamma_3$ in the isometry group of 5-dimensional hyperbolic space H^5, whose limit sets are the index-2 and index-3 Pontryagin surfaces $\Pi_2$ and $\Pi_3$, respectively. This result yields new, distinct topological types of limit sets for higher-dimensional Kleinian groups. This is joint work with Jiming Ma.
 </details>
 
 [slides]()
@@ -97,7 +97,7 @@ We embark on an exploration of the differential geometric properties of singular
  <details>
  <summary>
 <b>Topological complexity of enumerative problems in algebraic geometry</b>
-</summary>{% katexmm %}Typical enumerative problems in algebraic geometry includes finding the d roots of a generic polynomial in one variable of degree $d$, and finding the $27$ lines on a smooth cubic surface. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of “branches” in the algorithms that solves an enumerative problem up to an $\varepsilon$ error.{% endkatexmm %}
+</summary>Typical enumerative problems in algebraic geometry includes finding the d roots of a generic polynomial in one variable of degree $d$, and finding the $27$ lines on a smooth cubic surface. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of “branches” in the algorithms that solves an enumerative problem up to an $\varepsilon$ error.
 
 We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by cohomology. Finally, we present lower bounds of three enumerative problems. This is a joint work with Weiyan Chen.
 </details>
@@ -132,7 +132,7 @@ We are interested in the lower bounds of the topological complexity of enumerati
 ---
 <details>
   <summary>
-    <b>10:00~10：50  | 陈波（华中科技大学）</b> <i>On the homology description of equivariant bordism groups of n+1 dimensional {% katexmm %}$\mathbb{Z}_2^n$-manifolds with isolated fixed points set{% endkatexmm %}</i>
+    <b>10:00~10：50  | 陈波（华中科技大学）</b> <i>On the homology description of equivariant bordism groups of n+1 dimensional $\mathbb{Z}_2^n$-manifolds with isolated fixed points set</i>
   </summary>
  ---
 </details>
@@ -163,7 +163,7 @@ We are interested in the lower bounds of the topological complexity of enumerati
 <details>
   <summary>
     <b>15:40~16：30  |  朱中坚（温州大学）</b> 
-    <i>{% katexmm %}Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere{% endkatexmm %}</i>
+    <i>Homotopy types of $(2k-1)$-sphere bundles over $2k$-sphere</i>
   </summary>
  
 </details>
