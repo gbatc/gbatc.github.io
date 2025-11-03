@@ -136,9 +136,8 @@ navigation_header:
 - title: Past Conferences
   url: /past/
   children: 
-    - title: GBATC2024
-      url: /past/2024.html
- 
+      - title: GBATC2024
+        url: /past/2024/
 
 
 navigation_footer:
