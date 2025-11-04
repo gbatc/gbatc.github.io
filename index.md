@@ -27,7 +27,7 @@ and
 [**苏阳**](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), 中科院数学所
 <details>
  <summary>
-<b>自复叠流形在环面上的纤维化</b>
+<b>自复叠流形在环面上的纤维化 (Self-covering, finiteness, and fibering over a circle)</b>
  </summary>
 一个流形称为是自复叠的，如果它与自身的一个非平凡复叠同胚或同伦等价。环面是最简单的例子。对于具有交换基本群的自复叠闭流形，我们研究了它是否可以作为环面上的纤维丛的问题。在不同条件下，既得到了正面的结果，也发现了反例。这是和秦理真，王博潼合作的工作。
 </details>
