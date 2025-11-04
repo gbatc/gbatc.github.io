@@ -7,13 +7,12 @@ feature_image: "/2025/gbatc.jpeg"
 #use_math: true
 ---
 
-The theme of this conference is algebraic topology and geometric topology, aiming to promote exchanges collaboration among experts and scholars 
-in these two fields.
+The theme of this conference is algebraic topology and geometric topology, aiming to promote exchanges and collaborations among people in these two fields.
 
 The organizers gratefully acknowledge the support by 
-[South China Normal University](https://english.scnu.edu.cn/){:target="_blank"}, 
+[South China Normal University](https://english.scnu.edu.cn/), 
 and 
-[National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html){:target="_blank"}.
+[National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html).
 
 • [会议手册](/2025/conference_manual.pdf)
 • [会议海报](/2025/poster.pdf)
@@ -233,28 +232,28 @@ We are interested in the lower bounds of the topological complexity of enumerati
 
 ## <a name="organizers"></a>Organizers
 
-- [**Xiaoming Du**](http://www2.scut.edu.cn/math/2017/1229/c14638a318362/page.htm){:target="_blank"}, South China University of
+- [**Xiaoming Du**](http://www2.scut.edu.cn/math/2017/1229/c14638a318362/page.htm), South China University of
   Technology
 - **Feifei Fan**, South China Normal University
-- [**Pengcheng Li**](https://lipcaty.github.io/){:target="_blank"}, Great Bay University
-- [**Hao Liang**](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html){:target="_blank"}, Foshan University
+- [**Pengcheng Li**](https://lipcaty.github.io/), Great Bay University
+- [**Hao Liang**](https://www.fosu.edu.cn/math/szdw/shuxuexi/19211.html), Foshan University
 - **Dengpin Liu**, Guilin University of Aerospace Technology
-- [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm){:target="_blank"}, Shantou University
+- [**Enxin Wu**](https://math.stu.edu.cn/jsdw/zrjs/wex.htm), Shantou University
 - [**Heng Xie**](https://math.sysu.edu.cn/teacher/2793), Sun Yat-Sen University 
 - [**Mengjian Xu**](http://www.math.gxnu.edu.cn/2023/0323/c483a261057/page.htm), Guangxi Normal University
 - [**Pengcheng Xu**](https://jrsx.gduf.edu.cn/info/1150/1910.htm), Guangdong University of Finance
-- [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724){:target="_blank"}, South China Normal University
-- [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/){:target="_blank"}, Southern University of Science and Technology
+- [**Hao Zhao**](https://user.scnu.edu.cn/profile/index/user.html?site=maths&uid=9724), South China Normal University
+- [**Yifei Zhu**](https://faculty.sustech.edu.cn/zhuyf/), Southern University of Science and Technology
 
 会议联系人: 
- - [**范飞飞**](fanfeifei@mail.nankai.edu.cn){:target="_blank"}, 华南师范大学; [**赵浩**](zhaohao@scnu.edu.cn), 华南师范大学
+ - [**范飞飞**](fanfeifei@mail.nankai.edu.cn), 华南师范大学; [**赵浩**](zhaohao@scnu.edu.cn), 华南师范大学
 
 If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
 
 ## <a name="participants"></a>Participants
 
-Updated Nov. 3， 2025.  
+Updated Nov. 3， 2025： 
 - **曹聚鹏**, 华南理工大学  
 - **陈波**, 华中科技大学  
 - **陈亮**, 东北师范大学  
@@ -271,7 +270,8 @@ Updated Nov. 3， 2025.
 - **刘登品**, 桂林航天工业学院  
 - **刘文琰**, 华南农业大学  
 - **秦雨轩**, 重庆理工大学  
-- **苏阳**, 中科院数学所  
+- **苏阳**, 中科院数学所
+- **童浥尘**, 西湖大学  
 - **王格非**, 北京大学  
 - **王炜飚**, 中南大学  
 - **翁文**, 华南师范大学  

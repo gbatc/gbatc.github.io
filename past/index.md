@@ -13,4 +13,3 @@ Welcome to the archive of previous Greater Bay Area Topology Conferences.  Here 
 
 ---
 
-You can click each year to view detailed programs, speakers, and photos of the conference.
