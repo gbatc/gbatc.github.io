@@ -7,7 +7,7 @@ feature_image: "/2025/gbatc.jpeg"
 #use_math: true
 ---
 
-The theme of this conference is algebraic topology and geometric topology, aiming to promote exchanges and collaborations among people in these two fields.
+The theme of GBATC2025 is algebraic topology and geometric topology, aiming to promote exchanges and collaborations among people in these two fields.
 
 The organizers gratefully acknowledge the support by 
 [South China Normal University](https://english.scnu.edu.cn/), 
