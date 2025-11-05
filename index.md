@@ -15,7 +15,7 @@ and
 [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html).
 
 • [会议手册](/2025/conference_manual.pdf)
-• [会议海报](/2025/poster.docx)
+• [会议海报](/2025/poster.jpg)
 • [会议合影](2025/)
  
   
