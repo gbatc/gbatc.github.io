@@ -32,6 +32,7 @@ and
 一个流形称为是自复叠的，如果它与自身的一个非平凡复叠同胚或同伦等价。环面是最简单的例子。对于具有交换基本群的自复叠闭流形，我们研究了它是否可以作为环面上的纤维丛的问题。在不同条件下，既得到了正面的结果，也发现了反例。这是和秦理真，王博潼合作的工作。
 </details>
 
+[slides](/2025/suyang.pdf)
 
 [**于立**](http://maths.nju.edu.cn/~lyu/), 南京大学
  <details>
@@ -40,6 +41,9 @@ and
 </summary>
  The total Betti number (i.e. the sum of all the Betti numbers) of a space measures the topological complexity of the space and plays important roles in many theories in mathematics. In this talk, we first classify those simplicial complexes with a given number of vertices that have the maximal total Betti number. Then we study similar problems for the sum of bigraded Betti numbers. It is known that the sum of bigraded Betti numbers of a simplicial complex K with m vertices is bounded from below by $2^{m-dim(K)-1}$. We discuss the classification of all the simplicial complexes with m vertices that have the maximal or the minimal sum of bigraded Betti numbers, respectively.
 </details>
+
+[slides](/2025/yuli.pdf)
+
 
 [**陈波**](http://faculty.hust.edu.cn/chenbo3), 华中科技大学
  <details>
@@ -52,7 +56,7 @@ It is shown that $\mathfrak{B}$ has a nontrivial homology only in degree $n-2$, 
 
 </details>
 
-[slides]()
+[slides](/2025/chenbo.pdf)
 
 
 [**陈亮**](https://math127.nenu.edu.cn/shuxue/WebPage/WebPageView.php?WorkType=2005900132), 东北师范大学
@@ -63,7 +67,7 @@ It is shown that $\mathfrak{B}$ has a nontrivial homology only in degree $n-2$, 
 We embark on an exploration of the differential geometric properties of singular mixed-type surfaces in Lorentz-Minkowski 3-space. Generally speaking, a mixed-type surface is defined as a connected regular surface that features non-empty sets of spacelike and timelike points. To facilitate our study, we introduce a valuable tool known as the modified frame on the surface. As a result, we reveal the behavior of the Gaussian curvature and the mean curvature of the singular mixed-type surface at not only lightlike points but also singular points.
 </details>
 
-[slides]()
+
 
 [**朱中坚**](https://slxy.wzu.edu.cn/zhuzhongjian.pdf), 温州大学
  <details>
@@ -74,7 +78,7 @@ We embark on an exploration of the differential geometric properties of singular
  The classification problem of sphere bundles over spherical spaces, in terms of homotopy and homeomorphism, is a classical topic in the classification of manifolds. It plays an important role in topology and geometry. For example, Milnor showed that the total spaces of $S^3$-bundles over $S^4$ with Euler class ±1 are manifolds homeomorphic to $S^7$ but not always diffeomorphic to it. In this talk I will introduce our recent work on classifying the homotopy types of the total space of $(2k-1)$-sphere bundles (fibrations) over $2k$-sphere. These are joint works with Professor Jianzhong Pan.
 </details>
 
-[slides]()
+[slides](/2025/zhuzhongjian.pdf)
 
 [**郑芳婷**](https://scholar.xjtlu.edu.cn/en/persons/FangtingZheng/), 西交利物浦大学
  <details>
@@ -83,7 +87,7 @@ We embark on an exploration of the differential geometric properties of singular
 </summary>  In this talk, I will exhibit some convex cocompact, discrete subgroups $\Gamma_2$ and $\Gamma_3$ in the isometry group of 5-dimensional hyperbolic space H^5, whose limit sets are the index-2 and index-3 Pontryagin surfaces $\Pi_2$ and $\Pi_3$, respectively. This result yields new, distinct topological types of limit sets for higher-dimensional Kleinian groups. This is joint work with Jiming Ma.
 </details>
 
-[slides]()
+
 
 [**李平**](https://math.fudan.edu.cn/b5/32/c30607a636210/page.htm), 复旦大学
  <details>
@@ -92,7 +96,7 @@ We embark on an exploration of the differential geometric properties of singular
 </summary> Hirzebruch在1954年的问题集中有两个问题关心复欧式空间的紧化和复射影空间的唯一性。Takao Fujita在1980年这两个问题加强成三个密切相关的猜想。在此报告中，我们将回顾这些历史并讲述近期的一些进展。此报告中的部分工作是与Thomas Peternell合作的。
 </details>
 
-[slides]()
+[slides](/2025/liping.pdf)
 
 [**古星**](https://its.westlake.edu.cn/info/1105/1423.htm), 西湖大学
  <details>
@@ -103,7 +107,7 @@ We embark on an exploration of the differential geometric properties of singular
 We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by cohomology. Finally, we present lower bounds of three enumerative problems. This is a joint work with Weiyan Chen.
 </details>
 
-[slides]()
+[slides](/2025/guxing.pdf)
 
 ## <a name="schedule"></a>Schedule
 
