@@ -16,7 +16,7 @@ and
 
 • [会议手册](/2025/conference_manual.pdf)
 • [会议海报](/2025/poster.jpg)
-• [会议合影](2025/)
+• [会议合影](2025/photo.jpg)
  
   
 
