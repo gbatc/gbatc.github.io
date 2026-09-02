@@ -34,6 +34,7 @@ The organizers gratefully acknowledge the support by
 - [**沈文**](https://slxy.wzu.edu.cn/shenwensw.pdf)（温州大学）
 - [**刘健**](https://msrc.cqut.edu.cn/info/1018/2121.htm)（重庆理工大学）
 - [**蔺宏伟**](http://www.cad.zju.edu.cn/home/hwlin)（浙江大学）
+- [**陈小杨**](https://math.tongji.edu.cn/info/1123/8163.htm) （同济大学）
 
 
 
