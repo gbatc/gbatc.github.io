@@ -177,7 +177,6 @@ fonts:
 
 #数学公式支持
 plugins:
-  - jekyll-katex
   - jekyll-seo-tag
   - jekyll-paginate
 

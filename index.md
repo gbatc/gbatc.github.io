@@ -49,9 +49,7 @@ The organizers gratefully acknowledge the support by
 [**xx**](){:target="_blank"}, xx大学\
  **[xx]()**\
 abstract:  
-{% katexmm %}  
 latex formulas  $\mathbb{Z}_2$, $n=3$.
-{% endkatexmm %}
 
 
 
@@ -104,4 +102,4 @@ Updated Sep. 2.
 
 If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
 
-Registrations will still be accepted after October 20, and assistance with hotel reservations will be provided; however, on‑campus hotel accommodation cannot be guaranteed. 
+Registrations will still be accepted after October 20, and assistance with hotel reservations will be provided; however, on‑campus hotel accommodation cannot be guaranteed.
