@@ -19,7 +19,7 @@ The organizers gratefully acknowledge the support by
 - Meals：The Canteen of GBU； Dinner on Nov. 21: [新嘉园海鲜松山湖店](https://surl.amap.com/1oRh2xj5c5Rk)  
 - Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
 - Registration time: Before Oct. 20, 2026. 
-- Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [**Miss 王靖文**](mailto:wangjw@gbu.edu.cn).
+- Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
   
 - [Photo](/2026/photo.jpg)
 
