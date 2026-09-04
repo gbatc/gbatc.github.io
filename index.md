@@ -1,13 +1,13 @@
 ---
-title: GBATC2026
+title: 
 feature_text: |
-  ## <span style="color:white">Greater Bay Area Topology Conference 2026</span>
+  ## <span style="color:white">Greater Bay Area Topology Conference 2026: Topology of Manifolds & Applied Topology</span>
   <span style="color:white"> 11月21–23日, 2026 | 大湾区大学（松山湖校区） | 东莞松山湖 </span>
 feature_image: "/2026/gbu.jpg"
 #use_math: true
 ---
 
-The theme of GBATC2026 is **Topology of Manifolds & Applied Topology**.  It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for communications and collaborations.
+The theme of GBATC 2026 is **Topology of Manifolds & Applied Topology**.  It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for communications and collaborations.
 
 The organizers gratefully acknowledge the support by 
 [Great Bay University](https://www.gbu.edu.cn/)
