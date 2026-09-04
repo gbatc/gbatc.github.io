@@ -1,5 +1,5 @@
 ---
-title: Overview of GBATC2026
+title: Goal of GBATC2026
 feature_text: |
   ## <span style="color:white">Greater Bay Area Topology Conference 2026</span>
   <span style="color:white"> 11月21–23日, 2026 | 大湾区大学（松山湖校区） | 东莞松山湖 </span>
@@ -18,7 +18,7 @@ The organizers gratefully acknowledge the support by
 - Dates：2026/11/21——23.
 - Meals：The Canteen of GBU； Dinner on Nov. 21: [新嘉园海鲜松山湖店](https://surl.amap.com/1oRh2xj5c5Rk)  
 - Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
-- Registration time: Before Oct. 20, 2026. 
+- Registration: scan the [QR Code](/2026/registration.jpg), deadline: Before Oct. 20, 2026. 
 - Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
   
 - [Photo](/2026/photo.jpg)
