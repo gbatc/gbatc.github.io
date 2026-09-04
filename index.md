@@ -1,5 +1,5 @@
 ---
-title: Goal of GBATC2026
+title: GBATC2026
 feature_text: |
   ## <span style="color:white">Greater Bay Area Topology Conference 2026</span>
   <span style="color:white"> 11月21–23日, 2026 | 大湾区大学（松山湖校区） | 东莞松山湖 </span>
