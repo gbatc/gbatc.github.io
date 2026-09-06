@@ -37,7 +37,7 @@ The organizers gratefully acknowledge the support by
 - [**蔺宏伟**](http://www.cad.zju.edu.cn/home/hwlin)（浙江大学）
 - [**陈小杨**](https://math.tongji.edu.cn/info/1123/8163.htm) （同济大学）
 - [**颜延**](https://people.ucas.ac.cn/~siatyanyan)（中科院深圳先进技术研究院）
-- [**陈羽**](https://scholar.google.com/citations?user=osqajzkAAAAJ&hl=Zh-CN) (南洋理工大学)
+- [**陈羽**](https://scholar.google.com/citations?user=osqajzkAAAAJ&hl=Zh-CN) (新加坡国立大学)
 
 
 
