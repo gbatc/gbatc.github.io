@@ -28,6 +28,7 @@ The organizers gratefully acknowledge the support by
 
 - [**段海豹**](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278)（中科院数学所）
 - [**黄瑞芝**](https://sites.google.com/site/hrzsea/)（中科院数学所）
+- [**吕志**](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm)（复旦大学）
 - [**李平**](https://math.fudan.edu.cn/b5/32/c30607a636210/page.htm)（复旦大学）
 - [**叶圣奎**](https://shanghai.nyu.edu/academics/faculty/directory/shengkui-ye)（上海纽约大学）
 - [**江怡**](https://ams.cnu.edu.cn/rydw/jyry/cda3814e050b4300955afd739e2f4d5e.htm)（首都师范大学）
@@ -35,6 +36,7 @@ The organizers gratefully acknowledge the support by
 - [**刘健**](https://msrc.cqut.edu.cn/info/1018/2121.htm)（重庆理工大学）
 - [**蔺宏伟**](http://www.cad.zju.edu.cn/home/hwlin)（浙江大学）
 - [**陈小杨**](https://math.tongji.edu.cn/info/1123/8163.htm) （同济大学）
+- [**颜延**](https://people.ucas.ac.cn/~siatyanyan)（中科院深圳先进技术研究院）
 
 
 
