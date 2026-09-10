@@ -1,5 +1,5 @@
 ---
-title: 
+title: GBATC2026
 feature_text: |
   ## <span style="color:white">Greater Bay Area Topology Conference 2026: Topology of Manifolds & Applied Topology</span>
   <span style="color:white"> 11月21–23日, 2026 | 大湾区大学（松山湖校区） | 东莞松山湖 </span>
@@ -24,9 +24,10 @@ The organizers gratefully acknowledge the support by
 - [Photo](/2026/photo.jpg)
 
 
-## <a name="speakers"></a>Confirmed Speakers, Updating. 
+## <a name="speakers"></a>Invited Speakers
 
 - [**段海豹**](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278)（中科院数学所）
+- [**苏阳**](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html)（中科院数学所）
 - [**黄瑞芝**](https://sites.google.com/site/hrzsea/)（中科院数学所）
 - [**吕志**](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm)（复旦大学）
 - [**李平**](https://math.fudan.edu.cn/b5/32/c30607a636210/page.htm)（复旦大学）
