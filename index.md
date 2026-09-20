@@ -160,20 +160,36 @@ latex formulas  $\mathbb{Z}_2$, $n=3$.
 ## <a name="participants"></a>Participants
 
 
+- Wanying Bi (毕婉莹) — Chongqing University of Technology
+- Yu Chen (陈羽) — National University of Singapore
+- Dongyuan Deng (邓栋元) — Southern University of Science and Technology
+- Haibao Duan (段海豹) — Institute of Mathematics, Chinese Academy of Sciences
+- Hongzhu Gao (高红铸) — Beijing Normal University
+- Jingwen Gao (高靖雯) — Chongqing University of Technology
+- Qilin Hou (侯岐林) — Southern University of Science and Technology
+- Ruizhi Huang (黄瑞芝) — AMSS, CAS
+- Yi Jiang (江怡) — Capital Normal University
+- Ping Li (李平) — Fudan University
+- Yanlin Li (李彦霖) — Hangzhou Normal University
+- Yiwu Lin (林奕武) — Guangdong University of Finance
+- Jian Liu (刘健) — Chongqing University of Technology
+- Wenyan Liu (刘文琰) — South China Agricultural University
+- Yang Ming (明杨) — Hubei Polytechnic University
+- Jianzhong Pan (潘建中) — AMSS, CAS
+- Yang Su (苏阳) — AMSS, CAS
+- Yichen Tong (童浥尘) — Westlake University
+- Enxin Wu (邬恩信) — Shantou University
+- Chuanlong Xie (谢传龙) — Sun Yat-sen University
+- Heng Xie (谢恒) — Sun Yat-sen University
+- Haibo Yang (杨海波) — Nanchang Hangkong University
+- Huijun Yang (杨会军) — Henan University
+- Wenhui Yang (杨文慧) — Southern University of Science and Technology
+- Shengkui Ye (叶圣奎) — NYU Shanghai
+- Yifei Zhu (朱一飞) — Southern University of Science and Technology
+  
 
 
-- **Xiaoming Du**, South China University of Technology
-- **Feifei Fan**, South China Normal University
-- **Pengcheng Li**, Great Bay University
-- **Hao Liang**, Foshan University
-- **Hongwei Lin**, Zhejiang University
-- **Dengpin Liu**, Guilin University of Aerospace Technology
-- **Yang Ming**, Hubei Polytechnic University
-- **Enxin Wu**, Shantou University
-- **Hao Zhao**, South China Normal University
-- **Yifei Zhu**, Southern University of Science and Technology
-
-
+  
 ## <a name="others"></a>Others
 
 
