@@ -20,7 +20,7 @@ The organizers gratefully acknowledge the support by
 - Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
 - Registration: scan the [QR Code](/2026/registration.jpg), deadline: Before Oct. 20, 2026. 
 - Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
-- [Poster](/2026/poster.png) &emsp; [Poster-svg](/2026/poster.svg)
+- [Poster](/2026/poster2.png) &emsp; [Poster-svg](/2026/poster.svg)
 - [Photo](/2026/photo.jpg)
 - Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
@@ -175,7 +175,6 @@ latex formulas  $\mathbb{Z}_2$, $n=3$.
 - Jian Liu (刘健) — Chongqing University of Technology
 - Wenyan Liu (刘文琰) — South China Agricultural University
 - Yang Ming (明杨) — Hubei Polytechnic University
-- Jianzhong Pan (潘建中) — AMSS, CAS
 - Yang Su (苏阳) — AMSS, CAS
 - Yichen Tong (童浥尘) — Westlake University
 - Enxin Wu (邬恩信) — Shantou University
