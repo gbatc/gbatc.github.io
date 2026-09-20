@@ -163,7 +163,7 @@ latex formulas  $\mathbb{Z}_2$, $n=3$.
 - Wanying Bi (毕婉莹) — Chongqing University of Technology
 - Yu Chen (陈羽) — National University of Singapore
 - Dongyuan Deng (邓栋元) — Southern University of Science and Technology
-- Haibao Duan (段海豹) — Institute of Mathematics, Chinese Academy of Sciences
+- Haibao Duan (段海豹) — AMSS, CAS
 - Hongzhu Gao (高红铸) — Beijing Normal University
 - Jingwen Gao (高靖雯) — Chongqing University of Technology
 - Qilin Hou (侯岐林) — Southern University of Science and Technology
