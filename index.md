@@ -124,19 +124,16 @@ The organizers gratefully acknowledge the support by
 
 ## <a name="talks"></a>Talk Information 
 
+(hint: click bolded talk titles to show abstracts)
 
 
-[**xx**](){:target="_blank"}, xx大学\
- **[xx]()**\
-abstract:  
-latex formulas  $\mathbb{Z}_2$, $n=3$.
-
-
-
-
-
-
- 
+ **朱一飞**（南方科技大学）
+<details>
+ <summary>
+<b style="color: purple;">Towards a topological trinity for speech intelligence</b>
+ </summary>
+Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
+</details>
 
 
 ## <a name="organizers"></a>Organizers
