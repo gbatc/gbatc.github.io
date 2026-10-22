@@ -9,18 +9,18 @@ feature_image: "/2026/gbu.jpg"
 
 The theme of GBATC 2026 is **Topology of Manifolds & Applied Topology**.  It aims to promote exchanges among experts and scholars in topology and related fields within the Guangdong–Hong Kong–Macao Greater Bay Area and across regions, provide a platform for communications and collaborations.
 
-The organizers gratefully acknowledge the support by 
+The organizers gratefully acknowledge the support from
 [Great Bay University](https://www.gbu.edu.cn/)
 
 ## <a name="basics"></a>Basics 
 
 - Accommodations：[湾大松山湖学术交流中心酒店](https://surl.amap.com/171OaF013g7T)
 - Dates：2026/11/21——23.
-- Meals：The Canteen of GBU； Dinner on Nov. 21: 顺德了能馆（松山湖店） 
+- Meals：GBU Canteen； Dinner on Nov. 21: TBD. 
 - Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
 - Registration: scan the [QR Code](/2026/registration.jpg), deadline: Before Oct. 20, 2026. 
 - Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
-- [Poster](/2026/poster2.png) &emsp; [Poster-svg](/2026/poster.svg)
+- [Poster](/2026/poster.png) &emsp; [Poster-svg](/2026/poster.svg)
 - [Photo](/2026/photo.jpg)
 - Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
@@ -127,6 +127,17 @@ The organizers gratefully acknowledge the support by
 (hint: click bolded talk titles to show abstracts)
 
 
+
+
+
+ **李平**（复旦大学）
+<details>
+ <summary>
+<b style="color: purple;">Topological obstructions to geometric positivity on Calabi-Yau manifolds</b>
+ </summary>
+一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
+</details>
+
  **朱一飞**（南方科技大学）
 <details>
  <summary>
@@ -156,39 +167,60 @@ Over more than a decade of interdisciplinary research in topological analysis an
 
 ## <a name="participants"></a>Participants
 
-
+- Ali Danish (ALI DANISH) — Dalian University of Technology
+- Ni An (安妮) — Southern University of Science and Technology
+- Hanzhen Bao (包汉桢) — Shanghai University of Finance and Economics
 - Wanying Bi (毕婉莹) — Chongqing University of Technology
 - Yu Chen (陈羽) — National University of Singapore
 - Dongyuan Deng (邓栋元) — Southern University of Science and Technology
+- Xiaoming Du (杜晓明) — South China University of Technology
 - Haibao Duan (段海豹) — AMSS, CAS
+- Feifei Fan (范飞飞) — South China Normal University
 - Hongzhu Gao (高红铸) — Beijing Normal University
 - Jingwen Gao (高靖雯) — Chongqing University of Technology
+- Xing Gu (古星) — Westlake University
+- Zunwu He (何遵武) — South China University of Technology
 - Qilin Hou (侯岐林) — Southern University of Science and Technology
 - Ruizhi Huang (黄瑞芝) — AMSS, CAS
 - Yi Jiang (江怡) — Capital Normal University
 - Ping Li (李平) — Fudan University
+- Pengcheng Li (李鹏程) — Great Bay University
+- Xuanliang Li (李炫良) — Guangdong University of Finance
 - Yanlin Li (李彦霖) — Hangzhou Normal University
+- Yingxin Li (李迎新) — Nankai University
 - Yiwu Lin (林奕武) — Guangdong University of Finance
 - Jian Liu (刘健) — Chongqing University of Technology
 - Wenyan Liu (刘文琰) — South China Agricultural University
+- Dana Melnikova (Melnikova Dana) — Tsinghua University
 - Yang Ming (明杨) — Hubei Polytechnic University
-- Yang Su (苏阳) — AMSS, CAS
+- Jiacheng Tian (田家承) — Zunyi Medical University
 - Yichen Tong (童浥尘) — Westlake University
+- Weibiao Wang (王炜飚) — Central South University
+- Yunjie Wang (王云杰) — Southern University of Science and Technology
+- Zijie Wen (文子杰) — Southern University of Science and Technology
 - Enxin Wu (邬恩信) — Shantou University
+- Xuan Wu (伍轩) — Southern University of Science and Technology
 - Chuanlong Xie (谢传龙) — Sun Yat-sen University
 - Heng Xie (谢恒) — Sun Yat-sen University
+- Binbin Xu (徐彬斌) — Hebei Normal University
+- Pengcheng Xu (徐鹏程) — Guangdong University of Finance
+- Yuan Xu (许远) — Xi'an Jiaotong University
 - Haibo Yang (杨海波) — Nanchang Hangkong University
 - Huijun Yang (杨会军) — Henan University
 - Wenhui Yang (杨文慧) — Southern University of Science and Technology
+- Zheng Yang (杨铮) — Sichuan University Auckland College
+- Zhenglin Yang (杨正霖) — Southern University of Science and Technology
 - Shengkui Ye (叶圣奎) — NYU Shanghai
+- Yunguang Yue (岳云光) — Shihezi University
+- Haozhi Zeng (曾昊智) — Huazhong University of Science and Technology
+- Qian Zhang (张前) — Westlake University
+- Zhilei Zhang (张枝磊) — Xi'an Shiyou University
+- Hao Zhao (赵浩) — South China Normal University
 - Yifei Zhu (朱一飞) — Southern University of Science and Technology
-  
 
-
-  
 ## <a name="others"></a>Others
 
 
-If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com)
+If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com). 
 
 Registrations will still be accepted after October 20, and assistance with hotel reservations will be provided; however, on‑campus hotel accommodation cannot be guaranteed.
