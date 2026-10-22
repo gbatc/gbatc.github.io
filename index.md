@@ -127,6 +127,15 @@ The organizers gratefully acknowledge the support from
 (hint: click bolded talk titles to show abstracts)
 
 
+ **刘健**（重庆理工大学）
+<details>
+ <summary>
+<b style="color: purple;">Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities</b>
+ </summary>
+
+Accurate prediction of protein–ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein–ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
+</details>
+
 
 
 
