@@ -127,6 +127,28 @@ The organizers gratefully acknowledge the support from
 (hint: click bolded talk titles to show abstracts)
 
 
+
+
+
+ **陈小杨**（同济大学）
+<details>
+ <summary>
+<b style="color: purple;">Rationally ellipticity of Riemannian manifolds</b>
+ </summary>
+ A commpact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rationally ellipticity of Riemannian manifolds.
+</details>
+
+ **叶圣奎**（上海纽约大学）
+<details>
+ <summary>
+<b style="color: purple;">Some questions related to free-by-cyclic groups and tubular groups</b>
+ </summary>
+ We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
+</details>
+
+
+
+
  **刘健**（重庆理工大学）
 <details>
  <summary>
