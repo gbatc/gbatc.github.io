@@ -128,15 +128,17 @@ The organizers gratefully acknowledge the support from
 
 
 
-
+---
 
  **陈小杨**（同济大学）
 <details>
  <summary>
 <b style="color: purple;">Rationally ellipticity of Riemannian manifolds</b>
  </summary>
- A commpact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rationally ellipticity of Riemannian manifolds.
+ A compact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rationally ellipticity of Riemannian manifolds.
 </details>
+
+---
 
  **叶圣奎**（上海纽约大学）
 <details>
@@ -146,8 +148,7 @@ The organizers gratefully acknowledge the support from
  We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
 </details>
 
-
-
+---
 
  **刘健**（重庆理工大学）
 <details>
@@ -158,8 +159,7 @@ The organizers gratefully acknowledge the support from
 Accurate prediction of protein–ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein–ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
 </details>
 
-
-
+---
 
  **李平**（复旦大学）
 <details>
@@ -169,6 +169,8 @@ Accurate prediction of protein–ligand binding affinity remains a central chall
 一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
 </details>
 
+---
+
  **朱一飞**（南方科技大学）
 <details>
  <summary>
@@ -177,6 +179,7 @@ Accurate prediction of protein–ligand binding affinity remains a central chall
 Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
 </details>
 
+---
 
 ## <a name="organizers"></a>Organizers
 
