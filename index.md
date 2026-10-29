@@ -131,6 +131,19 @@ The organizers gratefully acknowledge the support from
 
 ---
 
+
+ **蔺宏伟**（浙江大学）
+<details>
+ <summary>
+<b style="color: purple;">基于计算拓扑的拓扑理解与拓扑控制</b>
+ </summary>
+ 计算机辅助几何设计（CAGD）的主要目标是对三维几何模型进行设计与处理，其中拓扑结构与几何形状是两个关键组成部分。然而，传统CAGD 侧重于几何外形设计与处理，缺乏用于理解和控制三维模型拓扑结构的系统方法论。随着建模技术应用范围的扩大，模型设计与处理中涉及拓扑理解和控制的挑战日益突出，这在微结构和分子结构设计等领域尤为明显。因此，迫切需要开发系统且有效的拓扑理解与控制理论及技术。本报告介绍了以持续同调（persistent homology）为核心工具的计算拓扑（computational topology），如何系统解决三维几何模型在拓扑理解与拓扑控制方面的关键挑战，进而发展计算机辅助拓扑设计（Computer Aided Topological Design）系统理论和方法
+</details>
+
+
+
+----
+
  **段海豹**（中科院数学所）
 <details>
  <summary>
