@@ -128,6 +128,19 @@ The organizers gratefully acknowledge the support from
 
 
 
+
+---
+
+ **段海豹**（中科院数学所）
+<details>
+ <summary>
+<b style="color: purple;">The Kähler Degrees of Self-Maps of Generalized Grassmannians</b>
+ </summary>
+ Generalized Grassmannians constitute a fundamental class of flag manifolds associated with Lie groups. This talk addresses the classification of their self-maps in terms of the induced endomorphisms of their cohomology rings. Our main result reveals a striking rigidity phenomenon: despite the rich and intricate structure of these cohomology rings, the induced endomorphisms fall into only two natural types—Adams operations determined by the Kähler degree and Dynkin symmetries induced by automorphisms of the Dynkin diagram.
+</details>
+
+
+
 ---
 
  **陈小杨**（同济大学）
