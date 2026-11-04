@@ -128,6 +128,31 @@ The organizers gratefully acknowledge the support from
 
 
 
+---
+
+
+
+ **吕志**（复旦大学）
+<details>
+ <summary>
+<b style="color: purple;">Reduced characteristic number criteria for equivariant bordisms</b>
+ </summary>
+Classical equivariant bordism theories require computing the full collection of equivariant characteristic numbers to detect whether an equivariant manifold bounds equivariantly or not. In this talk, we consider simplified equivariant bordism characterizations for two families of equivariant manifolds with isolated fixed points: unitary \(T^k\)-manifolds and closed smooth \((\mathbb{Z}_2)^k\)-manifolds. For a unitary $T^k$-manifold $M$ with isolated fixed points, we establish an equivariant unitary bordism criterion built entirely from a single polynomial of equivariant Chern classes. We further introduce the minimal distinguishing degree and obtain two key inequalities that capture the interplay between $\dim M$ and the Euler characteristic $\chi(M)$ through this minimal distinguishing degree. This is also applied to Kosniowski's conjecture and its toric generalization. By contrast, for a closed smooth $(\mathbb{Z}_2)^k$-manifold with isolated fixed points, we derive a more concise equivariant bordism criterion relying solely on the powers of the top equivariant Stiefel–Whitney class. Our new criteria substantially reduce computational demands. This is joint work with Runze Chen and Leqi Yang.
+</details>
+
+
+---
+
+ **黄瑞芝**（中科院数学所）
+<details>
+ <summary>
+<b style="color: purple;">On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</b>
+ </summary>
+The Farrell-Zdravkovska-Yau conjecture asserts that every almost flat manifold bounds a compact manifold. We prove this conjecture for spin$^c$ almost flat manifolds in low dimensions, or in arbitrary dimensions with suitable holonomy groups.
+In contrast to the group-theoretic techniques employed in earlier works, we introduce a new topological approach to tackle this conjecture. Our method combines the Atiyah-Singer index theorem for spin$^c$ manifolds with the Hopkins-Singer-type integral lifts of Wu classes in algebraic topology.
+This is a joint work with Fei Han and Weiping Zhang.
+</details>
+
 
 ---
 
@@ -229,6 +254,7 @@ Over more than a decade of interdisciplinary research in topological analysis an
 
 - Ali Danish (ALI DANISH) — Dalian University of Technology
 - Ni An (安妮) — Southern University of Science and Technology
+- Qifeng Bai (白琪峰) — Changchun University of Technology
 - Hanzhen Bao (包汉桢) — Shanghai University of Finance and Economics
 - Wanying Bi (毕婉莹) — Chongqing University of Technology
 - Yu Chen (陈羽) — National University of Singapore
@@ -238,6 +264,7 @@ Over more than a decade of interdisciplinary research in topological analysis an
 - Feifei Fan (范飞飞) — South China Normal University
 - Hongzhu Gao (高红铸) — Beijing Normal University
 - Jingwen Gao (高靖雯) — Chongqing University of Technology
+- Tao Gong（龚涛）— University of Western Ontario 
 - Xing Gu (古星) — Westlake University
 - Zunwu He (何遵武) — South China University of Technology
 - Qilin Hou (侯岐林) — Southern University of Science and Technology
@@ -277,6 +304,8 @@ Over more than a decade of interdisciplinary research in topological analysis an
 - Zhilei Zhang (张枝磊) — Xi'an Shiyou University
 - Hao Zhao (赵浩) — South China Normal University
 - Yifei Zhu (朱一飞) — Southern University of Science and Technology
+  
+
 
 ## <a name="others"></a>Others
 
