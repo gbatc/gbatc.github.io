@@ -131,6 +131,15 @@ The organizers gratefully acknowledge the support from
 ---
 
 
+ **陈羽**（新加坡国立大学）
+<details>
+ <summary>
+<b style="color: purple;">Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</b>
+ </summary>
+In graph neural networks, message passing primarily characterizes relationships through vertices and edges. High-dimensional data, however, necessitates comparisons between higher-dimensional simplices. Simplicial complex models and sheaf models provide mechanisms for high-dimensional message passing. Consequently, constructing cellular sheaves with favorable geometric and topological properties on simplicial complexes is of significant importance for research into topological deep learning. In this talk, we introduce the Whitney-Form-Based Cellular Sheaves. By reconstructing moments, we derive oriented stalk metrics and combine them with flat transport defined over the partially ordered set of faces of a simplicial complex, and yielding the corresponding sheaf Laplacian. We will discuss the fundamental properties of these cellular sheaves, the tools they offer for investigating the geometry and topology of spaces, and their potential applications in topological deep learning.
+</details>
+
+---
 
  **吕志**（复旦大学）
 <details>
