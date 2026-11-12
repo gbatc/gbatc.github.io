@@ -47,13 +47,13 @@ The organizers gratefully acknowledge the support from
 
 <h4>Nov. 21, Venue：Teaching Building, Room 206</h4>
 
-<div style="overflow-x:auto;">
-<table style="width:100%; min-width:800px; table-layout:fixed; text-align:center; margin:0 auto;">
+<div style="width:100%; overflow-x:auto;">
+<table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
 <colgroup>
-    <col style="width:10%">
-    <col style="width:70%">
-    <col style="width:10%">
-    <col style="width:10%">
+    <col style="width:17%">
+    <col style="width:57%">
+    <col style="width:13%">
+    <col style="width:13%">
 </colgroup>
   <thead>
     <tr>
@@ -79,17 +79,17 @@ The organizers gratefully acknowledge the support from
 </table>
 </div>
 
-<div style="margin-top: 50px;"></div>
+<div style="margin-top: 50px;"></div> 
 
 <h4>Nov. 22, Venue：Teaching Building, Room 206</h4>
 
-<div style="overflow-x:auto;">
-<table style="width:100%; min-width:800px; table-layout:fixed; text-align:center; margin:0 auto;">
+<div style="width:100%; overflow-x:auto;">
+<table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
 <colgroup>
-   <col style="width:10%">
-    <col style="width:70%">
-    <col style="width:10%">
-    <col style="width:10%">
+   <col style="width:17%">
+    <col style="width:57%">
+    <col style="width:13%">
+    <col style="width:13%">
 </colgroup>
   <thead>
     <tr>
@@ -121,13 +121,13 @@ The organizers gratefully acknowledge the support from
 <h4>Nov. 23, Venue changes to：Building 8, Room E502!!</h4>
 
 
-<div style="overflow-x:auto;">
-<table style="width:100%; min-width:800px; table-layout:fixed; text-align:center; margin:0 auto;">
+<div style="width:100%; overflow-x:auto;">
+<table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
 <colgroup>
-     <col style="width:10%">
-    <col style="width:70%">
-    <col style="width:10%">
-    <col style="width:10%">
+    <col style="width:17%">
+    <col style="width:57%">
+    <col style="width:13%">
+    <col style="width:13%">
 </colgroup>
   <thead>
     <tr>
@@ -421,7 +421,7 @@ Over more than a decade of interdisciplinary research in topological analysis an
 - Zijie Wen (文子杰) — Southern University of Science and Technology
 - Enxin Wu (邬恩信) — Shantou University
 - Xuan Wu (伍轩) — Southern University of Science and Technology
-- Zhongtao Wu (吴忠涛) The Chinese University of Hong Kong
+- Zhongtao Wu (吴忠涛) — The Chinese University of Hong Kong
 - Chuanlong Xie (谢传龙) — Sun Yat-sen University
 - Heng Xie (谢恒) — Sun Yat-sen University
 - Binbin Xu (徐彬斌) — Hebei Normal University
