@@ -142,7 +142,7 @@ The organizers gratefully acknowledge the support from
     <tr style="background-color:#d4edda;"><td>09:00–09:50</td><td>Towards a topological trinity for speech intelligence</td><td>朱一飞</td><td>杜晓明</td></tr>
     <tr style="background-color:#d4edda;"><td>09:50–10:40</td><td>TBA</td><td>颜延</td><td>杜晓明</td></tr>
      <tr><td>10:40–11:00</td><td colspan="3">茶歇 </td></tr>
-    <tr style="background-color:#d4edda;"><td >11:00–11:50</td><td>On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</td><td>黄瑞芝</td><td>邬恩信</td></tr>
+    <tr style="background-color:#d4edda;"><td >11:00–11:50</td><td>On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</td><td>黄瑞芝</td><td>古星</td></tr>
     <tr><td>11:55–12:00</td><td colspan="3">会议闭幕</td></tr>
   </tbody> 
 </table>
