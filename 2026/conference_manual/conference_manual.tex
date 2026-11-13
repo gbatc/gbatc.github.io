@@ -34,6 +34,13 @@
   }{\setmainfont{Latin Modern Sans}\setsansfont{Latin Modern Sans}}
 }
 \setmonofont{Latin Modern Mono}
+% 华文行楷：电脑需已安装该字体
+\newCJKfontfamily\coverxingkai[
+  BoldFont=STXingkai
+]{STXingkai}
+\newfontfamily\coverenglish{EB Garamond}
+
+\newfontfamily\abstractenglish{TeX Gyre Pagella}%TeX Gyre Pagella，Libertinus Serif，Latin Modern Roman，Palatino，EB Garamond
 % Compile with XeLaTeX. Prefer the supplied fonts; otherwise use installed CJK fonts.
 \IfFileExists{NotoSansSC-Regular.ttf}{%
   \setCJKmainfont[Path=./,BoldFont=NotoSansSC-Bold.ttf]{NotoSansSC-Regular.ttf}
@@ -52,8 +59,8 @@
   \IfFileExists{GBU-logo-horizontal-blue.png}{%
     \includegraphics[width=#1]{GBU-logo-horizontal-blue.png}%
   }{%
-    {\color{GBUBlue}\sffamily\bfseries\LARGE 大湾区大学\par}
-    \vspace{1mm}{\color{GBUBlue}\sffamily\large GREAT BAY UNIVERSITY\par}%
+    {\color{GBUBlue}\sffamily\coverxingkai\bfseries\LARGE 大湾区大学\par}
+    \vspace{1mm}{\color{GBUBlue}\sffamily\coverxingkai\large GREAT BAY UNIVERSITY\par}%
   }
 }
 
@@ -89,13 +96,13 @@
 \raggedbottom
 
 \titleformat{\section}
-  {\color{GBUBlue}\sffamily\bfseries\Large}
+  {\color{GBUBlue}\sffamily\coverxingkai\bfseries\Large}
   {}{0pt}{}
   [\vspace{0.25em}{\color{GBUOrange}\titlerule[1.1pt]}]
 \titlespacing*{\section}{0pt}{0.8em}{0.9em}
 
 \titleformat{\subsection}
-  {\color{GBUBlueDark}\sffamily\bfseries\large}
+  {\color{GBUBlueDark}\sffamily\coverxingkai\bfseries\large}
   {}{0pt}{}
 \titlespacing*{\subsection}{0pt}{1.0em}{0.55em}
 
@@ -105,19 +112,19 @@
 \newcommand{\printfooter}{%
   \begin{tikzpicture}[remember picture,overlay]
     \node[anchor=base,inner sep=0pt,text=GBUBlue,
-      font=\sffamily\fontsize{8}{10}\selectfont]
+      font=\sffamily\coverxingkai\fontsize{8}{10}\selectfont]
       at ([yshift=20mm]current page.south)
       {基础扎实、视野开阔、知行合一、融会贯通};
     \node[anchor=base,inner sep=0pt,text=GBUText,
-      font=\sffamily\fontsize{9}{11}\selectfont]
+      font=\sffamily\coverxingkai\fontsize{9}{11}\selectfont]
       at ([yshift=13mm]current page.south) {\thepage};
   \end{tikzpicture}%
 }
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\small\color{GBUBlueDark}第三届大湾区拓扑会议}
-\fancyhead[R]{\small\color{GBUBlueDark}会议手册}
+\fancyhead[L]{\small\color{GBUBlueDark}\coverxingkai 第三届大湾区拓扑会议}
+\fancyhead[R]{\small\color{GBUBlueDark}\coverxingkai 会议手册}
 \fancyfoot[C]{\printfooter}
 \renewcommand{\headrulewidth}{0.45pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{GBURule}\leaders\hrule height \headrulewidth\hfill}}
@@ -177,7 +184,11 @@
   \hhline{|---|}
 }
 
-\newenvironment{talkabstract}[3]{%
+% #1：报告题目
+% #2：报告人姓名
+% #3：单位
+% #4：报告时间
+\newenvironment{talkabstract}[4]{%
   \par\addvspace{1.25em}
   \Needspace{13\baselineskip}
   \noindent\begin{minipage}{\textwidth}
@@ -191,11 +202,13 @@
       inner sep=0pt
     ] (talkhead) at (0.45,0) {%
       {\hyphenpenalty=10000\exhyphenpenalty=10000
-       \color{GBUBlueDark}\sffamily\bfseries\large #1\par}
+       \color{GBUBlueDark}\sffamily\coverenglish
+       \bfseries\large #1\par}
       \vspace{0.30em}
-      {\sffamily\bfseries 报告人 / Speaker：#2\par}
-      \vspace{0.08em}
-      {\sffamily\small\color{GBUBlue}单位 / Affiliation：#3\par}
+      {\sffamily\small
+ \textbf{报告人：#2（#3）}%
+ \hspace{1.5em}%
+ 时间：\mbox{#4}\par}
     };
     \fill[GBUBlue]
       ([xshift=-0.45cm]talkhead.north west)
@@ -206,8 +219,51 @@
   \noindent{\color{GBUOrange}\rule{\textwidth}{1.0pt}}
   \par\nobreak\vspace{0.20em}
 
-  \noindent{\color{GBUBlue}\sffamily\bfseries 报告摘要 / Abstract}\par
-  \small
+  \noindent{%
+    \color{GBUBlue}\sffamily\coverxingkai\bfseries
+    报告摘要 / \coverenglish Abstract
+  }\par
+
+  \abstractenglish
+  \fontsize{12}{15.5}\selectfont
+}{%
+  \par\normalsize
+  \par\vspace{0.75em}
+  \noindent{\color{GBURule}\rule{\textwidth}{0.45pt}}
+  \end{minipage}\par\addvspace{0.2em}
+}
+
+\newenvironment{talkabstractt}[3]{%
+  \par\addvspace{1.25em}
+  \Needspace{13\baselineskip}
+  \noindent\begin{minipage}{\textwidth}
+  \phantomsection
+  \noindent
+  \begin{tikzpicture}
+    \node[
+      anchor=north west,
+      text width=\dimexpr\textwidth-0.70cm\relax,
+      align=left,
+      inner sep=0pt
+    ] (talkhead) at (0.45,0) {%
+      {\hyphenpenalty=10000\exhyphenpenalty=10000
+       \color{GBUBlueDark}\sffamily\coverenglish \bfseries\large #1\par}
+      \vspace{0.30em}
+      {\sffamily\bfseries 报告人 / Speaker：#2 （#3）\par}  
+    };
+    \fill[GBUBlue]
+      ([xshift=-0.45cm]talkhead.north west)
+      rectangle
+      ([xshift=-0.31cm]talkhead.south west);
+  \end{tikzpicture}\par\nobreak
+  \vspace{0.25em}
+  \noindent{\color{GBUOrange}\rule{\textwidth}{1.0pt}}
+  \par\nobreak\vspace{0.20em}
+
+  \noindent{\color{GBUBlue}\sffamily\coverxingkai\bfseries 报告摘要 / \coverenglish Abstract}\par
+  % 摘要正文：Termes，字号11pt，行距15.5pt
+  \abstractenglish
+  \fontsize{12}{15.5}\selectfont
 }{%
   \par\normalsize
   \par\vspace{0.75em}
@@ -217,9 +273,9 @@
 
 \newcommand{\bio}[1]{%
   \par\vspace{0.55em}
-  \Needspace{5\baselineskip}
-  \noindent{\color{GBUBlue}\sffamily\bfseries 个人简介 / Biography}\par
-  \small #1\par
+  \Needspace{10\baselineskip}
+  \noindent{\color{GBUBlue}\sffamily\coverxingkai\bfseries 个人简介 / \coverenglish  Biography}\par
+  \vspace{0.5em}\small #1\par
 }
 
 \begin{document}
@@ -227,41 +283,59 @@
 \hypersetup{pageanchor=false}
 
 % --------------------------------------------------------------------------
-% Cover: a restrained white layout with the official GBU lockup.
+% Cover: image background beneath the existing cover typography.
 % --------------------------------------------------------------------------
 \newgeometry{top=12mm,bottom=15mm,left=20mm,right=20mm}
 \thispagestyle{empty}
 \thispdfpagelabel{封面}
+\nopagecolor % No solid GBUBlue page background on the front cover.
+% Draw once, on the background layer, so cover lettering remains above the image.
+\AddToHookNext{shipout/background}{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[anchor=center,inner sep=0pt,outer sep=0pt]
+      at (current page.center) {%
+        \includegraphics{GBU-symbol-top.png}%
+      };
+  \end{tikzpicture}%
+}
 
 \begin{center}
   \vspace*{5mm}
-  \gbulogo{72mm}\par
-  \vspace{13mm}
-  {\color{GBUBlueDark}\sffamily\bfseries\fontsize{29}{39}\selectfont
-   2026年\\[0.12em]
+  %\gbulogo{72mm}\par
+  \vspace{29mm}
+  {\color{GBUBlueDark}\sffamily\coverxingkai\bfseries\fontsize{39}{39}\selectfont
    第三届大湾区拓扑会议\par}
-  \vspace{5mm}
-  {\color{GBUBlue}\sffamily\bfseries\fontsize{17}{22}\selectfont
+  \vspace{25mm}
+  {\color{GBUBlue}\sffamily\coverxingkai\bfseries\fontsize{35}{20}\selectfont
    会议手册\par}
-  \vspace{10mm}
-  {\color{GBUBlue}\sffamily\fontsize{10.5}{14}\selectfont
+  \vspace{20mm}
+  {\color{GBUBlueDark}\sffamily\coverenglish\fontsize{25}{14}\selectfont
    Greater Bay Area Topology Conference 2026\par}\vspace{3mm}
-  {\color{GBUBlueDark}\sffamily\fontsize{14}{20}\selectfont
-   Topology of Manifolds\par\& Topological Data Analysis\par}
+  
 
 
-  \vspace{15mm}
+  \vspace{55mm}
   \diamondrule
-  \vspace{-1mm}
-  {\color{GBUBlueDark}\sffamily\bfseries\fontsize{20}{25}\selectfont
-   2026年11月21日--23日\par}
+  %\vspace{5mm}
+  {\color{GBUBlueDark}\sffamily\coverenglish\bfseries\fontsize{20}{25}\selectfont
+   2026/11/21--23\par}
   \vspace{1mm}
-  %{\color{GBUBlue}\sffamily\fontsize{10}{13}\selectfont
+  %{\color{GBUBlue}\sffamily\coverxingkai\fontsize{10}{13}\selectfont
   % 2026/11/21--23 \par}
-  \vspace{6mm}
-  {\color{GBUBlueDark}\sffamily\bfseries 主办单位：大湾区大学理学院\par}
+  \vspace{5mm}
+  {\color{GBUBlueDark}\sffamily\coverxingkai\bfseries \fontsize{20}{14} 主办单位：大湾区大学理学院\par}
 \end{center}
-
+\begin{tikzpicture}[remember picture,overlay]
+  \node[
+    anchor=south east,
+    inner sep=0pt
+  ] at ([xshift=-7mm,yshift=10mm]current page.south east) {
+    \begin{minipage}{72mm}
+      \centering
+      \gbulogo{72mm}
+    \end{minipage}
+  };
+\end{tikzpicture}
 \clearpage
 \restoregeometry
 
@@ -294,7 +368,7 @@
   会议地点 & 大湾区大学松山湖校区\\
   具体会场 & 教学楼 B206（21--22日），8号楼 E502（23日） \\
   住宿酒店 & 湾大松山湖学术交流中心酒店\\
-  用餐安排 & 校内食堂；11月21日17:30起晚宴（地点待定）\\
+  用餐安排 & 食堂/酒店自助/盒饭（详见会议日程）\\
   \bottomrule
 \end{tabularx}
 
@@ -310,7 +384,7 @@
   ] at (0.55,0.82) {%
     \small\color{GBUText}
     11月21日共5场报告，22日共6场报告，23日共3场报告，每场50分钟。
-    23日会场更换为8号楼 E502，请留意。报告摘要按报告人姓氏拼音 A--Z 排列。
+    23日会场更换为8号楼 E502，请留意。报告摘要按报告顺序排列。
   };
 \end{tikzpicture}
 
@@ -339,7 +413,7 @@
 % Schedule
 % --------------------------------------------------------------------------
 \clearpage
-\section{会议日程 / Schedule}
+\section{会议日程 / \coverenglish Schedule}
 \subsection{11月21日（星期六）}
 \noindent\textcolor{GBUBlueDark}{\textbf{会场：教学楼 B206}}\par
 \vspace{0.6em}
@@ -355,14 +429,14 @@
 10:00--10:50 & Reduced characteristic number criteria for equivariant bordisms & 吕志 & 高红铸\\\hline
 \rowcolor{black!3}10:50--11:00 & \multicolumn{3}{c|}{休息}\\\hline
 11:00--11:50 & Some questions related to free-by-cyclic groups and tubular groups & 叶圣奎 & 杨海波\\\hline
-\rowcolor{black!3}12:00--14:00 & \multicolumn{3}{c|}{午餐}\\\hline
+\rowcolor{black!3}12:00--14:00 & \multicolumn{3}{c|}{午餐（学校食堂）}\\\hline
 14:30--15:20 & 基于计算拓扑的拓扑理解与拓扑控制 & 蔺宏伟 & 朱一飞\\\hline
 \rowcolor{black!3}15:20--15:40 & \multicolumn{3}{c|}{茶歇}\\\hline
 15:40--16:30 & Persistent Local Laplacian Prediction of Protein--Ligand Binding Affinities & 刘健 & 朱一飞\\\hline
-\rowcolor{black!3}17:30起 & \multicolumn{3}{c|}{晚宴}\\\hline
+\rowcolor{black!3}17:30起 & \multicolumn{3}{c|}{晚宴（顺德了然馆）}\\\hline
 \end{tabularx}\par\endgroup
 
-\clearpage\section*{会议日程 / Schedule（续）}
+\clearpage\section*{会议日程 / \coverenglish Schedule}
 \subsection{11月22日（星期日）}
 \noindent\textcolor{GBUBlueDark}{\textbf{会场：教学楼 B206}}\par
 \vspace{0.6em}
@@ -377,16 +451,16 @@
 10:00--10:50 & 非正截面曲率黎曼度量模空间的拓扑 & 江怡 & 范飞飞\\\hline
 \rowcolor{black!3}10:50--11:10 & \multicolumn{3}{c|}{茶歇}\\\hline
 11:10--12:00 & Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications & 沈文 & 曾昊智\\\hline
-\rowcolor{black!3}12:00--14:00 & \multicolumn{3}{c|}{午餐}\\\hline
+\rowcolor{black!3}12:00--14:00 & \multicolumn{3}{c|}{午餐（酒店自助餐）}\\\hline
 14:00--14:50 & Topological obstructions to geometric positivity on Calabi-Yau manifolds & 李平 & 赵浩\\\hline
 \rowcolor{black!3}14:50--15:00 & \multicolumn{3}{c|}{休息}\\\hline
 15:00--15:50 & Rational ellipticity of Riemannian manifolds & 陈小杨 & 赵浩\\\hline
 \rowcolor{black!3}15:50--16:10 & \multicolumn{3}{c|}{茶歇}\\\hline
 16:10--17:00 & Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli & 陈羽 & 杨会军\\\hline
-\rowcolor{black!3}17:30起 & \multicolumn{3}{c|}{晚餐}\\\hline
+\rowcolor{black!3}17:20起 & \multicolumn{3}{c|}{晚餐（盒饭）}\\\hline
 \end{tabularx}\par\endgroup
 
-\clearpage\section*{会议日程 / Schedule（续）}
+\clearpage\section*{会议日程 / \coverenglish Schedule}
 \subsection{11月23日（星期一）}
 \noindent\textcolor{GBUBlueDark}{\textbf{会场：8号楼 E502（会场变更）}}\par
 \vspace{0.6em}
@@ -400,7 +474,7 @@
 09:50--10:40 & 待定 / TBA & 颜延 & 杜晓明\\\hline
 \rowcolor{black!3}10:40--11:00 & \multicolumn{3}{c|}{茶歇}\\\hline
 11:00--11:50 & On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds & 黄瑞芝 & 古星\\\hline
-\rowcolor{black!3}11:55--12:00 & \multicolumn{3}{c|}{会议闭幕}\\\hline
+\rowcolor{black!3}12:00-- & \multicolumn{3}{c|}{会议闭幕、午餐（盒饭）与自由讨论}\\\hline
 \end{tabularx}\par\endgroup
 
 % --------------------------------------------------------------------------
@@ -408,103 +482,126 @@
 % --------------------------------------------------------------------------
 \clearpage
 \phantomsection
-\addcontentsline{toc}{section}{报告摘要 / Abstracts}
+\addcontentsline{toc}{section}{报告信息 / Talk Information}
 % White divider page avoids a full-page colour background in print.
 \begin{center}
   \vspace*{50mm}
   \gbulogo{58mm}\par
   \vspace{30mm}
-  {\color{GBUBlueDark}\sffamily\bfseries\fontsize{30}{38}\selectfont
-   报告摘要\par}
+  {\color{GBUBlueDark}\sffamily\coverxingkai\bfseries\fontsize{38}{38}\selectfont
+   报告信息\par}
   \vspace{2mm}
-  {\color{GBUBlue}\sffamily\fontsize{16}{21}\selectfont
-   ABSTRACTS\par}
+  {\color{GBUBlue}\sffamily\coverenglish\fontsize{25}{21}\selectfont
+   Talk Information\par}
   \vspace{9mm}
   \vfill
-  {\color{GBUBlueDark}\sffamily 报告人按姓氏 A--Z 排列\par}
+  {\color{GBUBlueDark}\sffamily\coverxingkai 题目摘要按报告顺序排列\par}
 \end{center}
 \thispagestyle{printdivider}
 \clearpage
 
-\begin{talkabstract}{Rational ellipticity of Riemannian manifolds}{陈小杨}{同济大学}
-A compact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rational ellipticity of Riemannian manifolds.
-\bio{陈小杨，同济大学数学科学学院长聘副教授。主要从事黎曼几何及相关拓扑问题研究，研究兴趣包括非负截面曲率流形的几何与拓扑、群作用，以及人工智能辅助数学研究。在 \emph{Geometry \& Topology}、\emph{Advances in Mathematics}、\emph{Mathematische Annalen} 等期刊发表多篇论文，曾主持国家自然科学基金青年及面上项目。}
-\end{talkabstract}
 
-\begin{talkabstract}{Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli}{陈羽}{新加坡国立大学}
-In graph neural networks, message passing primarily characterizes relationships through vertices and edges. High-dimensional data, however, necessitates comparisons between higher-dimensional simplices. Simplicial complex models and sheaf models provide mechanisms for high-dimensional message passing. Consequently, constructing cellular sheaves with favorable geometric and topological properties on simplicial complexes is of significant importance for research into topological deep learning. In this talk, we introduce the Whitney-Form-Based Cellular Sheaves. By reconstructing moments, we derive oriented stalk metrics and combine them with flat transport defined over the partially ordered set of faces of a simplicial complex, and yielding the corresponding sheaf Laplacian. We will discuss the fundamental properties of these cellular sheaves, the tools they offer for investigating the geometry and topology of spaces, and their potential applications in topological deep learning.
-\bio{陈羽，新加坡国立大学在读博士研究生（本硕浙江大学），导师韩飞。他的研究方向包括拓扑数据分析、几何深度学习和拓扑深度学习等，目前已在Neural Networks, Computer-Aided Design等多个国际著名期刊上发表了学术论文。}
-\end{talkabstract}
-
-\begin{talkabstract}{The Kähler Degrees of Self-Maps of Generalized Grassmannians}{段海豹}{中科院数学所}
+\begin{talkabstract}{The Kähler Degrees of Self-Maps of Generalized Grassmannians}{段海豹}{中科院数学所}{11月21日 08:40--09:30}
 Generalized Grassmannians constitute a fundamental class of flag manifolds associated with Lie groups. This talk addresses the classification of their self-maps in terms of the induced endomorphisms of their cohomology rings. Our main result reveals a striking rigidity phenomenon: despite the rich and intricate structure of these cohomology rings, the induced endomorphisms fall into only two natural types---Adams operations determined by the Kähler degree and Dynkin symmetries induced by automorphisms of the Dynkin diagram.
-\bio{段海豹，中国科学院数学与系统科学研究院研究员，主要从事代数拓扑、微分拓扑与代数几何研究。1987年获北京大学博士学位，在舒伯特演算、齐性空间的上同调及流形映射等方面取得系列成果。曾获国家自然科学二等奖、国家教委科技进步二等奖、人事部优秀博士后奖、国家教委优秀跨世纪人才、中国数学会陈省身数学奖等。} 
+\vspace{1mm}\bio{段海豹，中国科学院数学与系统科学研究院研究员，主要从事代数拓扑、微分拓扑与代数几何研究。1987年获北京大学博士学位，在舒伯特演算、齐性空间的上同调及流形映射等方面取得系列成果。曾获国家自然科学二等奖、国家教委科技进步二等奖、人事部优秀博士后奖、国家教委优秀跨世纪人才、中国数学会陈省身数学奖等。} 
 \end{talkabstract}
 
-\begin{talkabstract}{On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds}{黄瑞芝}{中科院数学所}
+
+\begin{talkabstract}{Reduced characteristic number criteria for equivariant bordisms}{吕志}{复旦大学}{11月21日 10:00--10:50}
+Classical equivariant bordism theories require computing the full collection of equivariant characteristic numbers to detect whether an equivariant manifold bounds equivariantly or not. In this talk, we consider simplified equivariant bordism characterizations for two families of equivariant manifolds with isolated fixed points: unitary $T^k$-manifolds and closed smooth $(\mathbb{Z}_2)^k$-manifolds. For a unitary $T^k$-manifold $M$ with isolated fixed points, we establish an equivariant unitary bordism criterion built entirely from a single polynomial of equivariant Chern classes. We further introduce the minimal distinguishing degree and obtain two key inequalities that capture the interplay between $\dim(M)$ and the Euler characteristic $\chi(M)$ through this minimal distinguishing degree. This is also applied to Kosniowski's conjecture and its toric generalization. By contrast, for a closed smooth $(\mathbb{Z}_2)^k$-manifold with isolated fixed points, we derive a more concise equivariant bordism criterion relying solely on the powers of the top equivariant Stiefel--Whitney class. Our new criteria substantially reduce computational demands. This is joint work with Runze Chen and Leqi Yang.
+\vspace{1mm}\bio{吕志，男，复旦大学 数学科学学院教授，博士生导师。主要从事代数拓扑、变换群以及环面拓扑研究，在等变协边分类及不变量、广义Smith猜想、Kosniowski猜想的研究上取得重要研究成果，发表在\emph{Math. Ann., Trans AMS, IMRN, Math. Z., AGT，Math. Res. Lett.}等期刊上。多次主持国家自然科学基金及教育部博士学科点基金项目等。曾获教育部自然科学奖二等奖（独立）。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{Some questions related to free-by-cyclic groups and tubular groups}{叶圣奎}{上海纽约大学}{11月21日 11:00--11:50}
+We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
+\vspace{1mm}\bio{叶圣奎，上海纽约大学数学实践教授。2012年获新加坡国立大学数学博士学位，曾任牛津大学数学研究所西蒙斯博士后研究员及西交利物浦大学讲师、高级讲师。主要从事拓扑学与几何群论研究，特别关注流形及非正曲率空间上的群作用，以及群的代数性质与几何拓扑性质之间的联系。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{\coverxingkai 基于计算拓扑的拓扑理解与拓扑控制}{蔺宏伟}{浙江大学}{11月21日 14:30--15:20}
+计算机辅助几何设计（CAGD）的主要目标是对三维几何模型进行设计与处理，其中拓扑结构与几何形状是两个关键组成部分。然而，传统CAGD 侧重于几何外形设计与处理，缺乏用于理解和控制三维模型拓扑结构的系统方法论。随着建模技术应用范围的扩大，模型设计与处理中涉及拓扑理解和控制的挑战日益突出，这在微结构和分子结构设计等领域尤为明显。因此，迫切需要开发系统且有效的拓扑理解与控制理论及技术。本报告介绍了以持续同调（persistent homology）为核心工具的计算拓扑（computational topology），如何系统解决三维几何模型在拓扑理解与拓扑控制方面的关键挑战，进而发展计算机辅助拓扑设计（Computer Aided Topological Design）系统理论和方法。
+\vspace{1mm}\bio{蔺宏伟，浙江大学数学科学学院教授、博士生导师。1996年获浙江大学学士学位，2004年获浙江大学博士学位。主要从事计算机辅助几何设计、计算机辅助拓扑设计、拓扑数据分析及量子图形学研究，发展了渐进迭代逼近方法及基于持续同调的拓扑设计方法。曾获国家自然科学奖二等奖、陆增镛CAD \& CG高科技奖一等奖等。}
+\end{talkabstract}
+
+\begin{talkabstract}{Persistent Local Laplacian Prediction of Protein--Ligand Binding Affinities}{刘健}{重庆理工大学}{11月21日 15:40--16:30}
+Accurate prediction of protein--ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein--ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
+\vspace{1mm}\bio{刘健，重庆理工大学助理教授，硕士生导师。主要从事代数拓扑领域的研究，研究兴趣包括有理同伦论、模型范畴和拓扑数据分析。在\emph{Nature Machine Intelligence, Homology, Homotopy and Applications}等期刊发表论文十余篇，主持国家自然科学基金青年项目。}
+\end{talkabstract}
+
+\clearpage 
+
+\begin{talkabstract}{The existence of $\mathrm{SC}^p$ metrics on manifolds which are like the octonionic projective plane}{苏阳}{中科院数学所}{11月22日 09:00--09:50}
+A Riemannian metric has the $\mathrm{SC}^p$ property at a point $p$ if every geodesic issued from $p$ is simply closed and all these geodesics have the same prime length. We show that smooth closed simply connected manifolds whose homology groups are isomorphic to that of the octonionic projective plane admit such metrics. This is a joint work with Martin Kerin and Chao Qian.
+\vspace{1mm}\bio{苏阳，中国科学院数学与系统科学研究院研究员、博士生导师。2007年获德国海德堡大学数学博士学位，同年进入中国科学院数学研究所工作。主要从事高维流形拓扑研究，研究方向包括流形分类、群作用、映射类群及几何结构。研究成果发表于 \emph{Duke Mathematical Journal、Geometry \& Topology、Mathematische Annalen} 等期刊。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{\coverxingkai 非正截面曲率黎曼度量模空间的拓扑}{江怡}{首都师范大学}{11月22日 10:00--10:50}
+设$M$为一光滑闭流形，其上存在非正截面曲率的黎曼度量。$M$上所有非正截面曲率黎曼度量构成的空间，在$M$的自微分同胚群拉回作用下的商空间，称为$M$的非正截面曲率度量模空间。本报告将介绍F.T. Farrell与报告人在该模空间拓扑方面的近期合作研究进展。
+\vspace{1mm}\bio{江怡，首都师范大学交叉科学研究院研究员。2014年获中国科学院大学博士学位，曾在清华大学丘成桐数学科学中心从事博士后研究并任助理教授。主要研究代数拓扑与几何拓扑，特别是高维流形拓扑、流形上的群作用，以及曲率受限黎曼度量空间的拓扑。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications}{沈文}{温州大学}{11月22日 11:10--12:00}
+In this talk, we study the topology and geometry of orbit manifolds arising from free diagonal linear circle actions on $S^{2n+1}\times S^{2n+1}$. We first present an explicit arithmetic classification of these manifolds up to PL homeomorphism for every $n\geq 1$. We then discuss more refined homotopy and diffeomorphism classification results in dimensions $9$ and $13$. Finally, we explain two geometric applications of the diffeomorphism classification. This is joint work with Su Yang.
+\vspace{1mm}\bio{沈文，温州大学数理学院讲师。2018年获南开大学硕士学位，2022年获首都师范大学博士学位，师从方复全院士。2023年至2025年在首都师范大学从事博士后研究，2025年加入温州大学。主要研究代数拓扑、高维流形拓扑与同伦论。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{Topological obstructions to geometric positivity on Calabi-Yau manifolds}{李平}{复旦大学}{11月22日 14:00--14:50}
+一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
+\vspace{1mm}\bio{李平，复旦大学数学科学学院教授、博士生导师，国家优秀青年科学基金获得者。2004年获武汉大学学士学位，2009年获北京大学博士学位，曾在同济大学工作，2023年加入复旦大学。主要从事流形拓扑、微分几何及相关交叉领域研究，关注流形与向量丛的几何结构、示性数及其拓扑约束。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{Rational ellipticity of Riemannian manifolds}{陈小杨}{同济大学}{11月22日 15:00--15:50}
+A compact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rational ellipticity of Riemannian manifolds.
+\vspace{1mm}\bio{陈小杨，同济大学数学科学学院长聘副教授。主要从事黎曼几何及相关拓扑问题研究，研究兴趣包括非负截面曲率流形的几何与拓扑、群作用，以及人工智能辅助数学研究。在 \emph{Geometry \& Topology}、\emph{Advances in Mathematics}、\emph{Mathematische Annalen} 等期刊发表多篇论文，曾主持国家自然科学基金青年及面上项目。}
+\end{talkabstract}
+
+\begin{talkabstract}{Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli}{陈羽}{新加坡国立大学}{11月22日 16:10--17:00}
+In graph neural networks, message passing primarily characterizes relationships through vertices and edges. High-dimensional data, however, necessitates comparisons between higher-dimensional simplices. Simplicial complex models and sheaf models provide mechanisms for high-dimensional message passing. Consequently, constructing cellular sheaves with favorable geometric and topological properties on simplicial complexes is of significant importance for research into topological deep learning. In this talk, we introduce the Whitney-Form-Based Cellular Sheaves. By reconstructing moments, we derive oriented stalk metrics and combine them with flat transport defined over the partially ordered set of faces of a simplicial complex, and yielding the corresponding sheaf Laplacian. We will discuss the fundamental properties of these cellular sheaves, the tools they offer for investigating the geometry and topology of spaces, and their potential applications in topological deep learning.
+\vspace{1mm}\bio{陈羽，新加坡国立大学在读博士研究生（本硕浙江大学），导师韩飞。他的研究方向包括拓扑数据分析、几何深度学习和拓扑深度学习等，目前已在Neural Networks, Computer-Aided Design等多个国际著名期刊上发表了学术论文。}
+\end{talkabstract}
+
+\clearpage 
+
+
+
+
+
+
+
+\begin{talkabstract}{Towards a topological trinity for speech intelligence}{朱一飞}{南方科技大学}{11月23日 09:00--09:50}
+Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
+\vspace{1mm}\bio{朱一飞，南方科技大学数学系助理教授。2007年获北京大学学士学位，2013年获美国明尼苏达大学数学博士学位，曾任美国西北大学访问助理教授。主要研究代数拓扑及其与代数几何、数论的相互作用，同时探索拓扑与几何方法在凝聚态物理、时间序列分析和人机交互等领域的应用。}
+\end{talkabstract}
+
+
+\begin{talkabstract}{待定 / TBA}{颜延}{中科院深圳先进技术研究院}{11月23日 09:50--10:40}
+报告摘要待提供。
+\vspace{1mm}\bio{颜延，中国科学院深圳先进技术研究院高级工程师。2012年于哈尔滨工业大学完成仪器科学与技术本硕阶段学习，2020年获中国科学院大学计算机应用技术博士学位。主要从事计算拓扑在机器学习与生物医学信号处理中的应用研究，关注拓扑数据分析、拓扑几何深度学习及生物医学智能分析模型的设计。}
+\end{talkabstract}
+
+
+
+\begin{talkabstract}{On the boundedness of almost flat $\mathrm{spin}^c$ manifolds}{黄瑞芝}{中科院数学所}{11月23日 11:00--11:50}
 The Farrell-Zdravkovska-Yau conjecture asserts that every almost flat manifold bounds a compact manifold. We prove this conjecture for spin$^c$ almost flat manifolds in low dimensions, or in arbitrary dimensions with suitable holonomy groups.
 
 In contrast to the group-theoretic techniques employed in earlier works, we introduce a new topological approach to tackle this conjecture. Our method combines the Atiyah-Singer index theorem for spin$^c$ manifolds with the Hopkins-Singer-type integral lifts of Wu classes in algebraic topology.
 
 This is a joint work with Fei Han and Weiping Zhang.
-\bio{黄瑞芝，中国科学院数学与系统科学研究院副研究员、博士生导师。2017年获新加坡国立大学数学博士学位，此后在中国科学院数学与系统科学研究院从事博士后及科研工作。主要研究代数拓扑及其在流形拓扑、微分几何和数学物理中的应用，关注非稳定同伦论、流形与规范群的同伦性质，以及指标理论中的拓扑问题。}
+\vspace{1mm}\bio{黄瑞芝，中国科学院数学与系统科学研究院副研究员、博士生导师。2017年获新加坡国立大学数学博士学位，此后在中国科学院数学与系统科学研究院从事博士后及科研工作。主要研究代数拓扑及其在流形拓扑、微分几何和数学物理中的应用，关注非稳定同伦论、流形与规范群的同伦性质，以及指标理论中的拓扑问题。}
 \end{talkabstract}
 
-\begin{talkabstract}{非正截面曲率黎曼度量模空间的拓扑}{江怡}{首都师范大学}
-设$M$为一光滑闭流形，其上存在非正截面曲率的黎曼度量。$M$上所有非正截面曲率黎曼度量构成的空间，在$M$的自微分同胚群拉回作用下的商空间，称为$M$的非正截面曲率度量模空间。本报告将介绍F.T. Farrell与报告人在该模空间拓扑方面的近期合作研究进展。
-\bio{江怡，首都师范大学交叉科学研究院研究员。2014年获中国科学院大学博士学位，曾在清华大学丘成桐数学科学中心从事博士后研究并任助理教授。主要研究代数拓扑与几何拓扑，特别是高维流形拓扑、流形上的群作用，以及曲率受限黎曼度量空间的拓扑。}
-\end{talkabstract}
 
-\begin{talkabstract}{Topological obstructions to geometric positivity on Calabi-Yau manifolds}{李平}{复旦大学}
-一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
-\bio{李平，复旦大学数学科学学院教授、博士生导师，国家优秀青年科学基金获得者。2004年获武汉大学学士学位，2009年获北京大学博士学位，曾在同济大学工作，2023年加入复旦大学。主要从事流形拓扑、微分几何及相关交叉领域研究，关注流形与向量丛的几何结构、示性数及其拓扑约束。}
-\end{talkabstract}
-
-\begin{talkabstract}{基于计算拓扑的拓扑理解与拓扑控制}{蔺宏伟}{浙江大学}
-计算机辅助几何设计（CAGD）的主要目标是对三维几何模型进行设计与处理，其中拓扑结构与几何形状是两个关键组成部分。然而，传统CAGD 侧重于几何外形设计与处理，缺乏用于理解和控制三维模型拓扑结构的系统方法论。随着建模技术应用范围的扩大，模型设计与处理中涉及拓扑理解和控制的挑战日益突出，这在微结构和分子结构设计等领域尤为明显。因此，迫切需要开发系统且有效的拓扑理解与控制理论及技术。本报告介绍了以持续同调（persistent homology）为核心工具的计算拓扑（computational topology），如何系统解决三维几何模型在拓扑理解与拓扑控制方面的关键挑战，进而发展计算机辅助拓扑设计（Computer Aided Topological Design）系统理论和方法。
-\bio{蔺宏伟，浙江大学数学科学学院教授、博士生导师。1996年获浙江大学学士学位，2004年获浙江大学博士学位。主要从事计算机辅助几何设计、计算机辅助拓扑设计、拓扑数据分析及量子图形学研究，发展了渐进迭代逼近方法及基于持续同调的拓扑设计方法。曾获国家自然科学奖二等奖、陆增镛CAD\& CG高科技奖一等奖等。}
-\end{talkabstract}
-
-\begin{talkabstract}{Persistent Local Laplacian Prediction of Protein--Ligand Binding Affinities}{刘健}{重庆理工大学}
-Accurate prediction of protein--ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein--ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
-\bio{刘健，重庆理工大学助理教授，硕士生导师。主要从事代数拓扑领域的研究，研究兴趣包括有理同伦论、模型范畴和拓扑数据分析。在\emph{Nature Machine Intelligence, Homology, Homotopy and Applications}等期刊发表论文十余篇，主持国家自然科学基金青年项目。}
-\end{talkabstract}
-
-\begin{talkabstract}{Reduced characteristic number criteria for equivariant bordisms}{吕志}{复旦大学}
-Classical equivariant bordism theories require computing the full collection of equivariant characteristic numbers to detect whether an equivariant manifold bounds equivariantly or not. In this talk, we consider simplified equivariant bordism characterizations for two families of equivariant manifolds with isolated fixed points: unitary $T^k$-manifolds and closed smooth $(\mathbb{Z}_2)^k$-manifolds. For a unitary $T^k$-manifold $M$ with isolated fixed points, we establish an equivariant unitary bordism criterion built entirely from a single polynomial of equivariant Chern classes. We further introduce the minimal distinguishing degree and obtain two key inequalities that capture the interplay between $\dim(M)$ and the Euler characteristic $\chi(M)$ through this minimal distinguishing degree. This is also applied to Kosniowski's conjecture and its toric generalization. By contrast, for a closed smooth $(\mathbb{Z}_2)^k$-manifold with isolated fixed points, we derive a more concise equivariant bordism criterion relying solely on the powers of the top equivariant Stiefel--Whitney class. Our new criteria substantially reduce computational demands. This is joint work with Runze Chen and Leqi Yang.
-\bio{吕志，男，复旦大学 数学科学学院教授，博士生导师。主要从事代数拓扑、变换群以及环面拓扑研究，在等变协边分类及不变量、广义Smith猜想、Kosniowski猜想的研究上取得重要研究成果，发表在\emph{Math. Ann., Trans AMS, IMRN, Math. Z., AGT，Math. Res. Lett.}等期刊上。多次主持国家自然科学基金及教育部博士学科点基金项目等。曾获教育部自然科学奖二等奖（独立）。}
-\end{talkabstract}
-
-\begin{talkabstract}{Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications}{沈文}{温州大学}
-In this talk, we study the topology and geometry of orbit manifolds arising from free diagonal linear circle actions on $S^{2n+1}\times S^{2n+1}$. We first present an explicit arithmetic classification of these manifolds up to PL homeomorphism for every $n\geq 1$. We then discuss more refined homotopy and diffeomorphism classification results in dimensions $9$ and $13$. Finally, we explain two geometric applications of the diffeomorphism classification. This is joint work with Su Yang.
-\bio{沈文，温州大学数理学院讲师。2018年获南开大学硕士学位，2022年获首都师范大学博士学位，师从方复全院士。2023年至2025年在首都师范大学从事博士后研究，2025年加入温州大学。主要研究代数拓扑、高维流形拓扑与同伦论。}
-\end{talkabstract}
-
-\begin{talkabstract}{The existence of $SC^p$ metrics on manifolds which are like the octonionic projective plane}{苏阳}{中科院数学所}
-A Riemannian metric has the $SC^p$ property at a point $p$ if every geodesic issued from $p$ is simply closed and all these geodesics have the same prime length. We show that smooth closed simply connected manifolds whose homology groups are isomorphic to that of the octonionic projective plane admit such metrics. This is a joint work with Martin Kerin and Chao Qian.
-\bio{苏阳，中国科学院数学与系统科学研究院研究员、博士生导师。2007年获德国海德堡大学数学博士学位，同年进入中国科学院数学研究所工作。主要从事高维流形拓扑研究，研究方向包括流形分类、群作用、映射类群及几何结构。研究成果发表于 \emph{Duke Mathematical Journal、Geometry Topology、Mathematische Annalen} 等期刊。}
-\end{talkabstract}
-
-\begin{talkabstract}{待定 / TBA}{颜延}{中科院深圳先进技术研究院}
-报告摘要待提供。
-\bio{颜延，中国科学院深圳先进技术研究院高级工程师。2012年于哈尔滨工业大学完成仪器科学与技术本硕阶段学习，2020年获中国科学院大学计算机应用技术博士学位。主要从事计算拓扑在机器学习与生物医学信号处理中的应用研究，关注拓扑数据分析、拓扑几何深度学习及生物医学智能分析模型的设计。}
-\end{talkabstract}
-
-\begin{talkabstract}{Some questions related to free-by-cyclic groups and tubular groups}{叶圣奎}{上海纽约大学}
-We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
-\bio{叶圣奎，上海纽约大学数学实践教授。2012年获新加坡国立大学数学博士学位，曾任牛津大学数学研究所西蒙斯博士后研究员及西交利物浦大学讲师、高级讲师。主要从事拓扑学与几何群论研究，特别关注流形及非正曲率空间上的群作用，以及群的代数性质与几何拓扑性质之间的联系。}
-\end{talkabstract}
-
-\begin{talkabstract}{Towards a topological trinity for speech intelligence}{朱一飞}{南方科技大学}
-Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
-\bio{朱一飞，南方科技大学数学系助理教授。2007年获北京大学学士学位，2013年获美国明尼苏达大学数学博士学位，曾任美国西北大学访问助理教授。主要研究代数拓扑及其与代数几何、数论的相互作用，同时探索拓扑与几何方法在凝聚态物理、时间序列分析和人机交互等领域的应用。}
-\end{talkabstract}
 
 % --------------------------------------------------------------------------
 % Transport information: concise, text-only, no map image.
 % --------------------------------------------------------------------------
 \clearpage
-\section{交通与会场指引 / Transportation and Venues}
+\section{交通与会场指引 / \coverenglish  Transportation and Venues}
 
 \noindent\textbf{\color{GBUBlueDark}校区地址：}
 大湾区大学松山湖校区（广东省东莞市松山湖大学路16号）。
@@ -527,15 +624,13 @@ Over more than a decade of interdisciplinary research in topological analysis an
   \par\small 本图用于校园建筑定位；具体教室及通行路线以现场导视为准。\normalsize
 }{}
 
-\subsection*{用餐安排}
-会议期间在校内食堂用餐。11月21日17:30起安排晚宴，具体地点待定；11月22日晚餐从17:30开始。
 
 \subsection*{会务咨询}
 李鹏程：13161005509；王靖文：13060696196。
 
 
 \clearpage
-\section{组织委员会 / Organizers}
+\section{组织委员会 /\coverenglish  Organizers}
 \renewcommand{\arraystretch}{1.5}
 \noindent\begin{tabularx}{\textwidth}{B{5.7cm}Y}
 \toprule
@@ -557,7 +652,7 @@ Over more than a decade of interdisciplinary research in topological analysis an
 \vspace{1em}\noindent\textbf{会务助理：}王靖文 / Jingwen Wang（大湾区大学）。
 
 \clearpage
-\section{参会人员 / Participants}
+\section{参会人员 / \coverenglish Participants}
 \noindent\small 按提供的参会名单顺序排列。\par
 \renewcommand{\arraystretch}{1.28}
 \small
@@ -628,4 +723,26 @@ Over more than a decade of interdisciplinary research in topological analysis an
 56 & 赵浩 / Hao Zhao & South China Normal University\\
 57 & 朱一飞 / Yifei Zhu & Southern University of Science and Technology\\
 \end{longtable}\normalsize
+
+% Back cover: full-sheet positioning, original aspect ratio, no cropping.
+\clearpage
+\hypersetup{pageanchor=false}
+\thispagestyle{empty}
+\thispdfpagelabel{封底}
+\definecolor{BackCoverBackground}{RGB}{246,247,247}
+\pagecolor{BackCoverBackground}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0pt,outer sep=0pt]
+    at (current page.center) {%
+      \includegraphics{GBU-symbol-top.png}%
+    };
+\end{tikzpicture}%
+
+\begin{center}
+  \vspace*{80mm}
+  \gbulogo{90mm}
+\end{center}  
+\null
+\clearpage
+\nopagecolor
 \end{document}
