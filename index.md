@@ -121,7 +121,7 @@ The organizers gratefully acknowledge the support from
 
 <div style="margin-top: 50px;"></div>
 
-<h4>Nov. 23, Venue changes to：Building 8, Room E502!!</h4>
+<h4>Nov. 23, Venue：Building 8, Room E502!!</h4>
 
 
 <div style="width:100%; overflow-x:auto;">
@@ -164,12 +164,9 @@ The organizers gratefully acknowledge the support from
   欢迎有兴趣的参会者参加。
 </p>
 
-<p style="color:#0d00b2;">
-  <strong>
-    时间：11月23日 14:30–16:30
-    &emsp; 会场：产研楼东塔 E502
-  </strong>
-</p>
+- 时间：11月23日 14:30–16:30
+- 地点：产研楼东塔 E502
+
 
 <div style="width:100%; overflow-x:auto;">
   <table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
