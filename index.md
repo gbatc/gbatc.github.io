@@ -67,13 +67,13 @@ The organizers gratefully acknowledge the support from
   <tbody>
    <tr><td>08:30–08:40</td><td>开幕式</td><td>---</td><td>李鹏程</td></tr>
     <tr style="background-color:#d4edda;"><td>08:40–09:30</td><td>The Kähler Degrees of Self-Maps of Generalized Grassmannians </td><td>段海豹</td><td>高红铸</td></tr>
-    <tr><td>9:30–10:00</td><td colspan="3">合影与茶歇</td></tr>
+    <tr><td>9:30–10:00</td><td colspan="3">合影与自由交流</td></tr>
     <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>Reduced characteristic number criteria for equivariant bordisms</td><td>吕志</td><td>高红铸</td></tr>
      <tr><td>10:50–11:00</td><td colspan="3">休息</td></tr>
     <tr style="background-color:#d4edda;"><td>11:00–11:50</td><td>Some questions related to free-by-cyclic groups and tubular groups</td><td>叶圣奎</td><td>杨海波</td></tr>
     <tr><td>12:00–14:00</td><td colspan="3">午餐</td></tr>
     <tr style="background-color:#d4edda;"><td>14:30–15:20</td><td>基于计算拓扑的拓扑理解与拓扑控制</td><td>蔺宏伟</td><td>朱一飞</td></tr>
-     <tr><td>15:20–15:40</td><td colspan="3">茶歇 </td></tr>
+     <tr><td>15:20–15:40</td><td colspan="3">自由交流 </td></tr>
     <tr style="background-color:#d4edda;"><td>15:40–16:30</td><td>Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities</td><td>刘健</td><td>朱一飞</td></tr>
     <tr><td>17：30—</td><td colspan="3">晚宴</td></tr>
   </tbody>
@@ -104,18 +104,20 @@ The organizers gratefully acknowledge the support from
     <tr style="background-color:#d4edda;"><td>09:00–09:50</td><td>The existence of $SC^p$ metrics on manifolds which are like the octonionic projective plane</td><td>苏阳</td><td>范飞飞</td></tr>
       <tr><td>09:50–10:00</td><td colspan="3">休息 </td></tr>
     <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>非正截面曲率黎曼度量模空间的拓扑</td><td>江怡</td><td>范飞飞</td></tr>
-    <tr><td>10:50–11:10</td><td colspan="3">茶歇</td></tr>
+    <tr><td>10:50–11:10</td><td colspan="3">自由交流</td></tr>
     <tr style="background-color:#d4edda;"><td>11:10–12:00</td><td>Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</td><td>沈文</td><td>曾昊智</td></tr>
     <tr><td>12:00–14:00</td><td colspan="3">午餐</td></tr>
     <tr style="background-color:#d4edda;"><td>14:00–14:50</td><td>Topological obstructions to geometric positivity on Calabi-Yau manifolds</td><td>李平</td><td>赵浩</td></tr>
     <tr><td>14:50–15:00</td><td colspan="3">休息 </td></tr>
     <tr style="background-color:#d4edda;"><td>15:00–15:50</td><td>Rational ellipticity of Riemannian manifolds</td><td>陈小杨</td><td>赵浩</td></tr>
-     <tr><td>15:50–16:10</td><td colspan="3">茶歇 </td></tr>
+     <tr><td>15:50–16:10</td><td colspan="3">自由交流 </td></tr>
      <tr style="background-color:#d4edda;"><td>16:10–17:00</td><td>Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</td><td>陈羽</td><td>杨会军</td></tr>
     <tr><td>17:30– </td><td colspan="3">晚餐</td></tr>
   </tbody>
 </table>
 </div>
+
+
 
 <div style="margin-top: 50px;"></div>
 
@@ -141,11 +143,65 @@ The organizers gratefully acknowledge the support from
   <tbody>
     <tr style="background-color:#d4edda;"><td>09:00–09:50</td><td>Towards a topological trinity for speech intelligence</td><td>朱一飞</td><td>杜晓明</td></tr>
     <tr style="background-color:#d4edda;"><td>09:50–10:40</td><td>TBA</td><td>颜延</td><td>杜晓明</td></tr>
-     <tr><td>10:40–11:00</td><td colspan="3">茶歇 </td></tr>
+     <tr><td>10:40–11:00</td><td colspan="3">自由交流 </td></tr>
     <tr style="background-color:#d4edda;"><td >11:00–11:50</td><td>On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</td><td>黄瑞芝</td><td>古星</td></tr>
-    <tr><td>11:55–12:00</td><td colspan="3">会议闭幕</td></tr>
+    <tr><td>12:00–14:00</td><td colspan="3">会议闭幕、午餐与自由讨论</td></tr>
   </tbody> 
 </table>
+</div>
+
+<div style="margin-top: 100px;"></div>
+
+
+
+
+<div style="margin-top:50px;"></div>
+
+<h4>会后学术报告 / Post-conference Talks</h4>
+
+<p>
+  以下两场报告为独立安排的学术活动，不属于本次会议正式议程，
+  欢迎有兴趣的参会者参加。
+</p>
+
+<p style="color:#0d00b2;">
+  <strong>
+    时间：11月23日 14:30–16:30
+    &emsp; 会场：产研楼东塔 E502
+  </strong>
+</p>
+
+<div style="width:100%; overflow-x:auto;">
+  <table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
+    <colgroup>
+      <col style="width:17%">
+      <col style="width:57%">
+      <col style="width:13%">
+      <col style="width:13%">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>时间</th>
+        <th>报告题目</th>
+        <th>报告人</th>
+        <th>主持人</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color:#d4edda;">
+        <td>14:30–15:20</td>
+        <td>A counterexample to cohomological rigidity of toric manifolds</td>
+        <td>龚涛</td>
+        <td>李鹏程</td>
+      </tr>
+      <tr style="background-color:#d4edda;">
+        <td>15:40–16:30</td>
+        <td>Topological complexity of enumerative problems in algebraic geometry</td>
+        <td>古星</td>
+        <td>李鹏程</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div style="margin-top: 50px;"></div>
@@ -325,11 +381,11 @@ Classical equivariant bordism theories require computing the full collection of 
 <details>
 
  <summary>
-<b style="color: purple;">TBA</b>
+<b style="color: purple;">拓扑数据分析的生物医学信号应用实践</b>
 
  </summary>
 
- xxx
+ 生物医学信号常受噪声与伪迹干扰，传统方法稳定性有限。拓扑数据分析（TDA）通过持续同调刻画信号的多尺度结构，为生物医学信号提供鲁棒表征。本报告围绕“信号—点云—拓扑特征”的实践流程，介绍如何将时间序列转化为拓扑特征，并结合生物医学工程领域典型案例进行介绍。最后讨论参数选择、计算效率与可解释性等落地问题，为TDA在生物医学信号领域的应用实践提供参考。
 
 </details>
 
@@ -360,6 +416,37 @@ Classical equivariant bordism theories require computing the full collection of 
  </summary>
 
 Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
+
+</details>
+
+---
+
+
+<div style="margin-top:50px;"></div>
+
+### <a name="talks"></a>Two additional invited Talks 
+
+**龚涛**（西安大略大学，加拿大）
+
+<details>
+  <summary>
+    <b style="color: purple;">A counterexample to cohomological rigidity of toric manifolds</b>
+  </summary>
+
+The long-standing cohomological rigidity problem for toric manifolds asks whether the integral cohomology ring of a toric manifold determines its diffeomorphism type, homeomorphism type, or homotopy type. We construct two toric manifolds of complex dimension four whose integral cohomology rings are isomorphic but which are not homotopy equivalent, thereby giving a negative answer to this problem. This is joint work with Yingxin Li.
+
+</details>
+
+---
+
+**古星**（西湖大学）
+
+<details>
+  <summary>
+    <b style="color: purple;">Topological complexity of enumerative problems in algebraic geometry</b>
+  </summary>
+
+Typical enumerative problems in algebraic geometry include finding the $d$ roots of a generic polynomial in one variable of degree $d$, finding the 27 lines on a smooth cubic surface, and their higher dimensional analogs. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of “branches” in the algorithms that solves an enumerative problem up to an error. We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by cohomology. Finally, we present lower bounds of three enumerative problems. This is a joint work with Weiyan Chen.
 
 </details>
 
