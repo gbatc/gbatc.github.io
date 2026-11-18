@@ -20,7 +20,7 @@ The organizers gratefully acknowledge the support from
 - Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
 - Registration: scan the [QR Code](/2026/registration.jpg), deadline: Before Oct. 20, 2026. 
 - Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
-- [Conference Handbook](/2026/conference_manual/conference_manual.pdf)
+- [Conference Handbook](/2026/GBATC2026-handbook.pdf)
 - [Poster](/2026/poster.png) &emsp; [Poster-svg](/2026/poster.svg)
 - [Photo](/2026/photo.jpg)
 - Last updated: {{ site.time | date: "%Y-%m-%d" }}
