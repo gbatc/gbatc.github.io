@@ -16,8 +16,7 @@ The organizers gratefully acknowledge the support from
 
 - Accommodations：[湾大松山湖学术交流中心酒店](https://surl.amap.com/171OaF013g7T)
 - Dates：2026/11/21——23.
-- Meals：GBU Canteen； Dinner on Nov. 21: TBD. 
-- Venue：Teaching Building, B206 (Nov. 21--22) & Building 8, E502 (Nov. 23). 
+- Venue：Teaching Building, B206 (Nov. 21--22 Morning) & Research Building, Room E502 (Nov. 22 Afternoon, Nov. 23 Morning). 
 - Registration: scan the [QR Code](/2026/registration.jpg), deadline: Before Oct. 20, 2026. 
 - Contacts: [李鹏程](mailto:lipcaty@gbu.edu.cn)（Great Bay University）; [Miss 王靖文](mailto:wangjw@gbu.edu.cn).
 - [Conference Handbook](/2026/GBATC2026-handbook.pdf)
@@ -29,7 +28,6 @@ The organizers gratefully acknowledge the support from
 
 - [**段海豹**](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278)（中科院数学所）
 - [**黄瑞芝**](https://sites.google.com/site/hrzsea/)（中科院数学所）
-- [**江怡**](https://ams.cnu.edu.cn/rydw/jyry/cda3814e050b4300955afd739e2f4d5e.htm)（首都师范大学）
 - [**李平**](https://math.fudan.edu.cn/b5/32/c30607a636210/page.htm)（复旦大学）
 - [**吕志**](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm)（复旦大学）
 - [**沈文**](https://slxy.wzu.edu.cn/shenwensw.pdf)（温州大学）
@@ -75,14 +73,14 @@ The organizers gratefully acknowledge the support from
     <tr style="background-color:#d4edda;"><td>14:30–15:20</td><td>基于计算拓扑的拓扑理解与拓扑控制</td><td>蔺宏伟</td><td>朱一飞</td></tr>
      <tr><td>15:20–15:40</td><td colspan="3">自由交流 </td></tr>
     <tr style="background-color:#d4edda;"><td>15:40–16:30</td><td>Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities</td><td>刘健</td><td>朱一飞</td></tr>
-    <tr><td>17：30—</td><td colspan="3">晚宴</td></tr>
+    <tr><td>17：30—</td><td colspan="3">晚餐（TBA）</td></tr>
   </tbody>
 </table>
 </div>
 
 <div style="margin-top: 50px;"></div> 
 
-<h4>Nov. 22, Venue：Teaching Building, Room 206</h4>
+<h4>Nov. 22, Venue：Morning: Teaching Building, Room 206; Afternoon: Research Building， Room E502</h4>
 
 <div style="width:100%; overflow-x:auto;">
 <table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
@@ -103,16 +101,15 @@ The organizers gratefully acknowledge the support from
   <tbody>
     <tr style="background-color:#d4edda;"><td>09:00–09:50</td><td>The existence of $SC^p$ metrics on manifolds which are like the octonionic projective plane</td><td>苏阳</td><td>范飞飞</td></tr>
       <tr><td>09:50–10:00</td><td colspan="3">休息 </td></tr>
-    <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>非正截面曲率黎曼度量模空间的拓扑</td><td>江怡</td><td>范飞飞</td></tr>
-    <tr><td>10:50–11:10</td><td colspan="3">自由交流</td></tr>
-    <tr style="background-color:#d4edda;"><td>11:10–12:00</td><td>Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</td><td>沈文</td><td>曾昊智</td></tr>
+    <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</td><td>沈文</td><td>曾昊智</td></tr>
+     <tr><td>10:50–11:10</td><td colspan="3">自由交流</td></tr>
+    <tr style="background-color:#d4edda;"><td>11:10–12:00</td><td>Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</td><td>陈羽</td><td>杨会军</td></tr>
     <tr><td>12:00–14:00</td><td colspan="3">午餐</td></tr>
-    <tr style="background-color:#d4edda;"><td>14:00–14:50</td><td>Topological obstructions to geometric positivity on Calabi-Yau manifolds</td><td>李平</td><td>赵浩</td></tr>
-    <tr><td>14:50–15:00</td><td colspan="3">休息 </td></tr>
-    <tr style="background-color:#d4edda;"><td>15:00–15:50</td><td>Rational ellipticity of Riemannian manifolds</td><td>陈小杨</td><td>赵浩</td></tr>
-     <tr><td>15:50–16:10</td><td colspan="3">自由交流 </td></tr>
-     <tr style="background-color:#d4edda;"><td>16:10–17:00</td><td>Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</td><td>陈羽</td><td>杨会军</td></tr>
-    <tr><td>17:30– </td><td colspan="3">晚餐</td></tr>
+    <tr style="background-color:#d4edda;"><td>14:30–15:20</td><td>Topological obstructions to geometric positivity on Calabi-Yau manifolds</td><td>李平</td><td>赵浩</td></tr>
+    <tr><td>15:20–15:40</td><td colspan="3">自由交流 </td></tr>
+    <tr style="background-color:#d4edda;"><td>15:40–16:30</td><td>Rational ellipticity of Riemannian manifolds</td><td>陈小杨</td><td>赵浩</td></tr>
+    <tr><td>16:00–18:00</td><td colspan="3">自由交流</td></tr>
+    <tr><td>18:30– </td><td colspan="3">晚餐（盒饭）</td></tr>
   </tbody>
 </table>
 </div>
@@ -121,7 +118,7 @@ The organizers gratefully acknowledge the support from
 
 <div style="margin-top: 50px;"></div>
 
-<h4>Nov. 23, Venue：Building 8, Room E502!!</h4>
+<h4>Nov. 23, Venue：Research Building, Room E502</h4>
 
 
 <div style="width:100%; overflow-x:auto;">
@@ -209,15 +206,121 @@ The organizers gratefully acknowledge the support from
 
 ---
 
-**陈小杨**（同济大学）
+
+**段海豹**（中科院数学所）
+
 <details>
+
  <summary>
-<b style="color: purple;">Rational ellipticity of Riemannian manifolds</b>
+<b style="color: purple;">The Kähler Degrees of Self-Maps of Generalized Grassmannians</b>
+
  </summary>
- A compact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rational ellipticity of Riemannian manifolds.
+
+ Generalized Grassmannians constitute a fundamental class of flag manifolds associated with Lie groups. This talk addresses the classification of their self-maps in terms of the induced endomorphisms of their cohomology rings. Our main result reveals a striking rigidity phenomenon: despite the rich and intricate structure of these cohomology rings, the induced endomorphisms fall into only two natural types—Adams operations determined by the Kähler degree and Dynkin symmetries induced by automorphisms of the Dynkin diagram.
+
 </details>
 
 ---
+
+
+**吕志**（复旦大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">Reduced characteristic number criteria for equivariant bordisms</b>
+
+ </summary>
+
+Classical equivariant bordism theories require computing the full collection of equivariant characteristic numbers to detect whether an equivariant manifold bounds equivariantly or not. In this talk, we consider simplified equivariant bordism characterizations for two families of equivariant manifolds with isolated fixed points: unitary $T^k$-manifolds and closed smooth $(\mathbb{Z}_2)^k$-manifolds. For a unitary $T^k$-manifold $M$ with isolated fixed points, we establish an equivariant unitary bordism criterion built entirely from a single polynomial of equivariant Chern classes. We further introduce the minimal distinguishing degree and obtain two key inequalities that capture the interplay between $\dim(M)$ and the Euler characteristic $\chi(M)$ through this minimal distinguishing degree. This is also applied to Kosniowski's conjecture and its toric generalization. By contrast, for a closed smooth $(\mathbb{Z}_2)^k$-manifold with isolated fixed points, we derive a more concise equivariant bordism criterion relying solely on the powers of the top equivariant Stiefel–Whitney class. Our new criteria substantially reduce computational demands. This is joint work with Runze Chen and Leqi Yang.
+
+</details>
+
+---
+
+
+**叶圣奎**（上海纽约大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">Some questions related to free-by-cyclic groups and tubular groups</b>
+
+ </summary>
+
+ We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
+
+</details>
+
+---
+
+
+**蔺宏伟**（浙江大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">基于计算拓扑的拓扑理解与拓扑控制</b>
+
+ </summary>
+
+ 计算机辅助几何设计（CAGD）的主要目标是对三维几何模型进行设计与处理，其中拓扑结构与几何形状是两个关键组成部分。然而，传统CAGD 侧重于几何外形设计与处理，缺乏用于理解和控制三维模型拓扑结构的系统方法论。随着建模技术应用范围的扩大，模型设计与处理中涉及拓扑理解和控制的挑战日益突出，这在微结构和分子结构设计等领域尤为明显。因此，迫切需要开发系统且有效的拓扑理解与控制理论及技术。本报告介绍了以持续同调（persistent homology）为核心工具的计算拓扑（computational topology），如何系统解决三维几何模型在拓扑理解与拓扑控制方面的关键挑战，进而发展计算机辅助拓扑设计（Computer Aided Topological Design）系统理论和方法
+
+</details>
+
+---
+
+
+**刘健**（重庆理工大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities</b>
+
+ </summary>
+
+Accurate prediction of protein–ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein–ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
+
+</details>
+
+---
+
+
+
+**苏阳**（中科院数学所）
+
+<details>
+
+ <summary>
+<b style="color: purple;">The existence of $SC^p$ metrics on manifolds which are like the octonionic projective plane</b>
+
+ </summary>
+
+ A Riemannian metric has the $SC^p$ property at a point $p$ if every geodesic issued from $p$ is simply closed and all these geodesics have the same prime length. We show that smooth closed simply connected manifolds whose homology groups are isomorphic to that of the octonionic projective plane admit such metrics. This is a joint work with Martin Kerin and Chao Qian.
+
+</details>
+
+---
+
+
+
+
+**沈文**（温州大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</b>
+
+ </summary>
+
+ In this talk, we study the topology and geometry of orbit manifolds arising from free diagonal linear circle actions on $S^{2n+1}\times S^{2n+1}$. We first present an explicit arithmetic classification of these manifolds up to PL homeomorphism for every $n\geq 1$. We then discuss more refined homotopy and diffeomorphism classification results in dimensions $9$ and $13$. Finally, we explain two geometric applications of the diffeomorphism classification. This is joint work with Su Yang.
+
+</details>
+
+---
+
 
 **陈羽**（新加坡国立大学）
 
@@ -234,16 +337,63 @@ In graph neural networks, message passing primarily characterizes relationships 
 
 ---
 
-**段海豹**（中科院数学所）
+
+**李平**（复旦大学）
 
 <details>
 
  <summary>
-<b style="color: purple;">The Kähler Degrees of Self-Maps of Generalized Grassmannians</b>
+<b style="color: purple;">Topological obstructions to geometric positivity on Calabi-Yau manifolds</b>
 
  </summary>
 
- Generalized Grassmannians constitute a fundamental class of flag manifolds associated with Lie groups. This talk addresses the classification of their self-maps in terms of the induced endomorphisms of their cohomology rings. Our main result reveals a striking rigidity phenomenon: despite the rich and intricate structure of these cohomology rings, the induced endomorphisms fall into only two natural types—Adams operations determined by the Kähler degree and Dynkin symmetries induced by automorphisms of the Dynkin diagram.
+一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
+
+</details>
+
+---
+
+
+
+**陈小杨**（同济大学）
+<details>
+ <summary>
+<b style="color: purple;">Rational ellipticity of Riemannian manifolds</b>
+ </summary>
+ A compact simply connected Riemannian manifold is rationally elliptic, if it has finite dimensional rational homotopy groups. We will discuss some recent results on rational ellipticity of Riemannian manifolds.
+</details>
+
+---
+
+
+**朱一飞**（南方科技大学）
+
+<details>
+
+ <summary>
+<b style="color: purple;">Towards a topological trinity for speech intelligence</b>
+
+ </summary>
+
+Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
+
+</details>
+
+---
+
+
+
+
+**颜延**（中科院深圳先进技术研究院）
+
+<details>
+
+ <summary>
+<b style="color: purple;">拓扑数据分析的生物医学信号应用实践</b>
+
+ </summary>
+
+ 生物医学信号常受噪声与伪迹干扰，传统方法稳定性有限。拓扑数据分析（TDA）通过持续同调刻画信号的多尺度结构，为生物医学信号提供鲁棒表征。本报告围绕“信号—点云—拓扑特征”的实践流程，介绍如何将时间序列转化为拓扑特征，并结合生物医学工程领域典型案例进行介绍。最后讨论参数选择、计算效率与可解释性等落地问题，为TDA在生物医学信号领域的应用实践提供参考。
 
 </details>
 
@@ -268,160 +418,10 @@ This is a joint work with Fei Han and Weiping Zhang.
 
 ---
 
-**江怡**（首都师范大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">非正截面曲率黎曼度量模空间的拓扑</b>
-
- </summary>
-
- 设$M$为一光滑闭流形，其上存在非正截面曲率的黎曼度量$M$上所有非正截面曲率黎曼度量构成的空间，在$M$的自微分同胚群拉回作用下的商空间，称为$M$的非正截面曲率度量模空间。本报告将介绍F.T. Farrell与报告人在该模空间拓扑方面的近期合作研究进展。
-
-</details>
-
----
-
-**李平**（复旦大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Topological obstructions to geometric positivity on Calabi-Yau manifolds</b>
-
- </summary>
-
-一般认为卡-丘流形的拓扑型具有较强的刚性，即不能承载某些正性或负性几何结构。在这个报告中我将回顾一些相关背景并在某些情形给出一些不存在结果来支撑这个刚性猜测。
-
-</details>
-
----
-
-**蔺宏伟**（浙江大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">基于计算拓扑的拓扑理解与拓扑控制</b>
-
- </summary>
-
- 计算机辅助几何设计（CAGD）的主要目标是对三维几何模型进行设计与处理，其中拓扑结构与几何形状是两个关键组成部分。然而，传统CAGD 侧重于几何外形设计与处理，缺乏用于理解和控制三维模型拓扑结构的系统方法论。随着建模技术应用范围的扩大，模型设计与处理中涉及拓扑理解和控制的挑战日益突出，这在微结构和分子结构设计等领域尤为明显。因此，迫切需要开发系统且有效的拓扑理解与控制理论及技术。本报告介绍了以持续同调（persistent homology）为核心工具的计算拓扑（computational topology），如何系统解决三维几何模型在拓扑理解与拓扑控制方面的关键挑战，进而发展计算机辅助拓扑设计（Computer Aided Topological Design）系统理论和方法
-
-</details>
-
----
-
-**刘健**（重庆理工大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities</b>
-
- </summary>
-
-Accurate prediction of protein–ligand binding affinity remains a central challenge in structure-based drug discovery. The effectiveness of machine learning models critically depends on the quality of molecular representations, for which advanced mathematical frameworks provide powerful tools. In this work, we employ a novel mathematical theory, termed the persistent local Laplacian (PLL), to construct molecular descriptors that capture localized geometric and topological features of biomolecular structures. The PLL framework addresses key limitations of traditional topological data analysis methods, such as persistent homology and the persistent Laplacian, which are often insensitive to local structural variations, while maintaining high computational efficiency. The resulting molecular descriptors are integrated with advanced machine learning algorithms to develop accurate predictive models for protein–ligand binding affinity. The proposed models are systematically evaluated on three well-established benchmark datasets, including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating consistently strong and competitive predictive performance. Computational results show that the PLL-based models outperform existing approaches, highlighting their potential as a powerful tool for drug discovery, protein engineering, and broader applications in science and engineering.
-
-</details>
-
----
-
-**吕志**（复旦大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Reduced characteristic number criteria for equivariant bordisms</b>
-
- </summary>
-
-Classical equivariant bordism theories require computing the full collection of equivariant characteristic numbers to detect whether an equivariant manifold bounds equivariantly or not. In this talk, we consider simplified equivariant bordism characterizations for two families of equivariant manifolds with isolated fixed points: unitary $T^k$-manifolds and closed smooth $(\mathbb{Z}_2)^k$-manifolds. For a unitary $T^k$-manifold $M$ with isolated fixed points, we establish an equivariant unitary bordism criterion built entirely from a single polynomial of equivariant Chern classes. We further introduce the minimal distinguishing degree and obtain two key inequalities that capture the interplay between $\dim(M)$ and the Euler characteristic $\chi(M)$ through this minimal distinguishing degree. This is also applied to Kosniowski's conjecture and its toric generalization. By contrast, for a closed smooth $(\mathbb{Z}_2)^k$-manifold with isolated fixed points, we derive a more concise equivariant bordism criterion relying solely on the powers of the top equivariant Stiefel–Whitney class. Our new criteria substantially reduce computational demands. This is joint work with Runze Chen and Leqi Yang.
-
-</details>
-
----
-
-**沈文**（温州大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</b>
-
- </summary>
-
- In this talk, we study the topology and geometry of orbit manifolds arising from free diagonal linear circle actions on $S^{2n+1}\times S^{2n+1}$. We first present an explicit arithmetic classification of these manifolds up to PL homeomorphism for every $n\geq 1$. We then discuss more refined homotopy and diffeomorphism classification results in dimensions $9$ and $13$. Finally, we explain two geometric applications of the diffeomorphism classification. This is joint work with Su Yang.
-
-</details>
-
----
-
-**苏阳**（中科院数学所）
-
-<details>
-
- <summary>
-<b style="color: purple;">The existence of $SC^p$ metrics on manifolds which are like the octonionic projective plane</b>
-
- </summary>
-
- A Riemannian metric has the $SC^p$ property at a point $p$ if every geodesic issued from $p$ is simply closed and all these geodesics have the same prime length. We show that smooth closed simply connected manifolds whose homology groups are isomorphic to that of the octonionic projetive plane admit such metrics. This is a joint work with Martin Kerin and Chao Qian.
-
-</details>
-
----
-
-**颜延**（中科院深圳先进技术研究院）
-
-<details>
-
- <summary>
-<b style="color: purple;">拓扑数据分析的生物医学信号应用实践</b>
-
- </summary>
-
- 生物医学信号常受噪声与伪迹干扰，传统方法稳定性有限。拓扑数据分析（TDA）通过持续同调刻画信号的多尺度结构，为生物医学信号提供鲁棒表征。本报告围绕“信号—点云—拓扑特征”的实践流程，介绍如何将时间序列转化为拓扑特征，并结合生物医学工程领域典型案例进行介绍。最后讨论参数选择、计算效率与可解释性等落地问题，为TDA在生物医学信号领域的应用实践提供参考。
-
-</details>
-
----
-
-**叶圣奎**（上海纽约大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Some questions related to free-by-cyclic groups and tubular groups</b>
-
- </summary>
-
- We prove that a CAT(0) free-by-cyclic tubular group with one vertex is virtually special, but many of them cannot virtually act freely and cocompactly on CAT(0) cube complexes. This partially confirms a question of Brady--Soroko and answers a question of Lyman in the negative. Furthermore, we provide examples of free-by-cyclic groups amalgamated along cyclic subgroups that are not virtually free-by-cyclic. This answers negatively a question of Hagen--Wise. Lastly, we exhibit an example of a cyclic-subgroup-separable tubular group that does not have the property (VRC) (i.e. every cyclic subgroup is a virtual retract). This answers a question of Minasyan in the negative. This is a joint work with Xiaolei Wu.
-
-</details>
-
----
-
-**朱一飞**（南方科技大学）
-
-<details>
-
- <summary>
-<b style="color: purple;">Towards a topological trinity for speech intelligence</b>
-
- </summary>
-
-Over more than a decade of interdisciplinary research in topological analysis and deep learning with image and video data, Carlsson and colleagues have established a paradigm for detecting and utilizing their topological distributions and dynamics that incorporate the three interacting areas of data science (of signals), artificial intelligence (of machines), and neuroscience (of humans).  In this talk, I’ll report on progress towards topologically understanding speech data both by analogy and in contrast.  Specifically, we integrate topological time series analysis with machine learning to capture structural features in consonant classification, while enhancing interpretability and robustness against noise compared to traditional techniques.  This is joint work with Zeyang Ding, Pingyao Feng, Qingrui Qu, Siheng Yi, Zhiwang Yu, and Haiyu Zhang.
-
-</details>
-
----
-
 
 <div style="margin-top:50px;"></div>
 
-### <a name="talks"></a>Two additional invited Talks 
+### Post-conference Talks
 
 **龚涛**（西安大略大学，加拿大）
 
@@ -483,13 +483,11 @@ Typical enumerative problems in algebraic geometry include finding the $d$ roots
 - Haibao Duan (段海豹) — AMSS, CAS
 - Feifei Fan (范飞飞) — South China Normal University
 - Hongzhu Gao (高红铸) — Beijing Normal University
-- Jingwen Gao (高靖雯) — Chongqing University of Technology
 - Tao Gong (龚涛) — University of Western Ontario
 - Xing Gu (古星) — Westlake University
 - Zunwu He (何遵武) — South China University of Technology
 - Qilin Hou (侯岐林) — Southern University of Science and Technology
 - Ruizhi Huang (黄瑞芝) — AMSS, CAS
-- Yi Jiang (江怡) — Capital Normal University
 - Ping Li (李平) — Fudan University
 - Pengcheng Li (李鹏程) — Great Bay University
 - Xuanliang Li (李炫良) — Guangdong University of Finance
@@ -504,7 +502,6 @@ Typical enumerative problems in algebraic geometry include finding the $d$ roots
 - Wen Shen (沈文) — Wenzhou University
 - Yang Su (苏阳) — AMSS, CAS
 - Jiacheng Tian (田家承) — Zunyi Medical University
-- Yichen Tong (童浥尘) — Westlake University
 - Weibiao Wang (王炜飚) — Central South University
 - Yunjie Wang (王云杰) — Southern University of Science and Technology
 - Zijie Wen (文子杰) — Southern University of Science and Technology
@@ -535,4 +532,4 @@ Typical enumerative problems in algebraic geometry include finding the $d$ roots
 
 If you have any questions, comments or suggestions, please contact us at [gba.topology@outlook.com](mailto:gba.topology@outlook.com). 
 
-Registrations will still be accepted after October 20, and assistance with hotel reservations will be provided; however, on‑campus hotel accommodation cannot be guaranteed.
+Registration: Scan the QR code to register. Late registration is still accepted; however, on-campus hotel accommodation cannot be guaranteed.
