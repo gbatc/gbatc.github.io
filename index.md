@@ -80,7 +80,7 @@ The organizers gratefully acknowledge the support from
 
 <div style="margin-top: 50px;"></div> 
 
-<h4>Nov. 22, Venue：Morning: Teaching Building, Room 206; Afternoon: Research Building， Room E502</h4>
+<h4>Nov. 22, Venue Teaching Building, Room 206</h4>
 
 <div style="width:100%; overflow-x:auto;">
 <table style="width:100%; min-width:0; max-width:100%; table-layout:fixed; text-align:center; margin:0; border-collapse:collapse;">
@@ -103,7 +103,7 @@ The organizers gratefully acknowledge the support from
       <tr><td>09:50–10:00</td><td colspan="3">休息 </td></tr>
     <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>Linear circle quotients of products of odd-dimensional spheres: classification and geometric applications</td><td>沈文</td><td>曾昊智</td></tr>
      <tr><td>10:50–11:10</td><td colspan="3">自由交流</td></tr>
-    <tr style="background-color:#d4edda;"><td>11:10–12:00</td><td>Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</td><td>陈羽</td><td>杨会军</td></tr>
+    <tr style="background-color:#d4edda;"><td>11:10–12:00</td><td>Whitney-Form-Based Cellular Sheaves: Construction, Laplacians, and Flat-Transport Moduli</td><td>陈羽</td><td>邬恩信</td></tr>
     <tr><td>12:00–14:00</td><td colspan="3">午餐</td></tr>
     <tr style="background-color:#d4edda;"><td>14:30–15:20</td><td>Topological obstructions to geometric positivity on Calabi-Yau manifolds</td><td>李平</td><td>赵浩</td></tr>
     <tr><td>15:20–15:40</td><td colspan="3">自由交流 </td></tr>
@@ -139,9 +139,10 @@ The organizers gratefully acknowledge the support from
   </thead>
   <tbody>
     <tr style="background-color:#d4edda;"><td>09:00–09:50</td><td>Towards a topological trinity for speech intelligence</td><td>朱一飞</td><td>杜晓明</td></tr>
-    <tr style="background-color:#d4edda;"><td>09:50–10:40</td><td>拓扑数据分析的生物医学信号应用实践</td><td>颜延</td><td>杜晓明</td></tr>
-     <tr><td>10:40–11:00</td><td colspan="3">自由交流 </td></tr>
-    <tr style="background-color:#d4edda;"><td >11:00–11:50</td><td>On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</td><td>黄瑞芝</td><td>古星</td></tr>
+       <tr><td>09:50–10:00</td><td colspan="3">休息 </td></tr>
+    <tr style="background-color:#d4edda;"><td>10:00–10:50</td><td>拓扑数据分析的生物医学信号应用实践</td><td>颜延</td><td>杜晓明</td></tr>
+     <tr><td>10:50–11:10</td><td colspan="3">自由交流 </td></tr>
+    <tr style="background-color:#d4edda;"><td >11:10–12:00</td><td>On the boundedness of almost flat $\mathrm{Spin}^c$ manifolds</td><td>黄瑞芝</td><td>古星</td></tr>
     <tr><td>12:00–14:00</td><td colspan="3">会议闭幕、午餐与自由讨论</td></tr>
   </tbody> 
 </table>
